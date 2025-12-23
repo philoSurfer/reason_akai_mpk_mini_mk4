@@ -1,0 +1,1466 @@
+{
+  "1": {
+    "header": {
+      "manufacturer": 71,
+      "channel": 0,
+      "device_id": 93,
+      "function": 103,
+      "length": 315,
+      "preset_number": 1
+    },
+    "name": "DAW",
+    "global": {
+      "pad_channel": 10,
+      "key_channel": 5,
+      "octave": 8,
+      "transpose": -12,
+      "arp_tempo": 120,
+      "arp_mode": 3,
+      "arp_time_div": 1,
+      "arp_clock": 0,
+      "arp_latch": 0,
+      "arp_swing": 1,
+      "arp_octave": 0
+    },
+    "joystick": {
+      "x_positive": 127,
+      "x_negative": 0,
+      "y_positive": 1,
+      "y_negative": 0
+    },
+    "aftertouch": {
+      "mode": 0,
+      "threshold": 50,
+      "curve": 50
+    },
+    "pads": [
+      {
+        "pad_number": 1,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 2,
+        "note": 52,
+        "bank": "A"
+      },
+      {
+        "pad_number": 3,
+        "note": 14,
+        "bank": "A"
+      },
+      {
+        "pad_number": 4,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 5,
+        "note": 20,
+        "bank": "A"
+      },
+      {
+        "pad_number": 6,
+        "note": 5,
+        "bank": "A"
+      },
+      {
+        "pad_number": 7,
+        "note": 59,
+        "bank": "A"
+      },
+      {
+        "pad_number": 8,
+        "note": 14,
+        "bank": "A"
+      },
+      {
+        "pad_number": 9,
+        "note": 1,
+        "bank": "B"
+      },
+      {
+        "pad_number": 10,
+        "note": 24,
+        "bank": "B"
+      },
+      {
+        "pad_number": 11,
+        "note": 9,
+        "bank": "B"
+      },
+      {
+        "pad_number": 12,
+        "note": 65,
+        "bank": "B"
+      },
+      {
+        "pad_number": 13,
+        "note": 14,
+        "bank": "B"
+      },
+      {
+        "pad_number": 14,
+        "note": 1,
+        "bank": "B"
+      },
+      {
+        "pad_number": 15,
+        "note": 28,
+        "bank": "B"
+      },
+      {
+        "pad_number": 16,
+        "note": 13,
+        "bank": "B"
+      }
+    ],
+    "knobs": [
+      {
+        "knob_number": 1,
+        "cc": 24,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob1"
+      },
+      {
+        "knob_number": 2,
+        "cc": 25,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob2"
+      },
+      {
+        "knob_number": 3,
+        "cc": 26,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob3"
+      },
+      {
+        "knob_number": 4,
+        "cc": 27,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob4"
+      },
+      {
+        "knob_number": 5,
+        "cc": 28,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob5"
+      },
+      {
+        "knob_number": 6,
+        "cc": 29,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob6"
+      },
+      {
+        "knob_number": 7,
+        "cc": 30,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob7"
+      },
+      {
+        "knob_number": 8,
+        "cc": 31,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob8"
+      }
+    ]
+  },
+  "2": {
+    "header": {
+      "manufacturer": 71,
+      "channel": 0,
+      "device_id": 93,
+      "function": 103,
+      "length": 315,
+      "preset_number": 2
+    },
+    "name": "USER1",
+    "global": {
+      "pad_channel": 10,
+      "key_channel": 5,
+      "octave": 8,
+      "transpose": -12,
+      "arp_tempo": 120,
+      "arp_mode": 3,
+      "arp_time_div": 1,
+      "arp_clock": 0,
+      "arp_latch": 0,
+      "arp_swing": 0,
+      "arp_octave": 0
+    },
+    "joystick": {
+      "x_positive": 127,
+      "x_negative": 0,
+      "y_positive": 1,
+      "y_negative": 0
+    },
+    "aftertouch": {
+      "mode": 0,
+      "threshold": 50,
+      "curve": 50
+    },
+    "pads": [
+      {
+        "pad_number": 1,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 2,
+        "note": 51,
+        "bank": "A"
+      },
+      {
+        "pad_number": 3,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 4,
+        "note": 12,
+        "bank": "A"
+      },
+      {
+        "pad_number": 5,
+        "note": 20,
+        "bank": "A"
+      },
+      {
+        "pad_number": 6,
+        "note": 5,
+        "bank": "A"
+      },
+      {
+        "pad_number": 7,
+        "note": 58,
+        "bank": "A"
+      },
+      {
+        "pad_number": 8,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 9,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 10,
+        "note": 24,
+        "bank": "B"
+      },
+      {
+        "pad_number": 11,
+        "note": 9,
+        "bank": "B"
+      },
+      {
+        "pad_number": 12,
+        "note": 65,
+        "bank": "B"
+      },
+      {
+        "pad_number": 13,
+        "note": 1,
+        "bank": "B"
+      },
+      {
+        "pad_number": 14,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 15,
+        "note": 28,
+        "bank": "B"
+      },
+      {
+        "pad_number": 16,
+        "note": 13,
+        "bank": "B"
+      }
+    ],
+    "knobs": [
+      {
+        "knob_number": 1,
+        "cc": 24,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob1"
+      },
+      {
+        "knob_number": 2,
+        "cc": 25,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob2"
+      },
+      {
+        "knob_number": 3,
+        "cc": 26,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob3"
+      },
+      {
+        "knob_number": 4,
+        "cc": 27,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob4"
+      },
+      {
+        "knob_number": 5,
+        "cc": 28,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob5"
+      },
+      {
+        "knob_number": 6,
+        "cc": 29,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob6"
+      },
+      {
+        "knob_number": 7,
+        "cc": 30,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob7"
+      },
+      {
+        "knob_number": 8,
+        "cc": 31,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob8"
+      }
+    ]
+  },
+  "3": {
+    "header": {
+      "manufacturer": 71,
+      "channel": 0,
+      "device_id": 93,
+      "function": 103,
+      "length": 315,
+      "preset_number": 3
+    },
+    "name": "USER2",
+    "global": {
+      "pad_channel": 10,
+      "key_channel": 5,
+      "octave": 8,
+      "transpose": -12,
+      "arp_tempo": 120,
+      "arp_mode": 3,
+      "arp_time_div": 1,
+      "arp_clock": 0,
+      "arp_latch": 0,
+      "arp_swing": 0,
+      "arp_octave": 0
+    },
+    "joystick": {
+      "x_positive": 127,
+      "x_negative": 0,
+      "y_positive": 1,
+      "y_negative": 0
+    },
+    "aftertouch": {
+      "mode": 0,
+      "threshold": 50,
+      "curve": 50
+    },
+    "pads": [
+      {
+        "pad_number": 1,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 2,
+        "note": 51,
+        "bank": "A"
+      },
+      {
+        "pad_number": 3,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 4,
+        "note": 12,
+        "bank": "A"
+      },
+      {
+        "pad_number": 5,
+        "note": 20,
+        "bank": "A"
+      },
+      {
+        "pad_number": 6,
+        "note": 5,
+        "bank": "A"
+      },
+      {
+        "pad_number": 7,
+        "note": 58,
+        "bank": "A"
+      },
+      {
+        "pad_number": 8,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 9,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 10,
+        "note": 24,
+        "bank": "B"
+      },
+      {
+        "pad_number": 11,
+        "note": 9,
+        "bank": "B"
+      },
+      {
+        "pad_number": 12,
+        "note": 65,
+        "bank": "B"
+      },
+      {
+        "pad_number": 13,
+        "note": 1,
+        "bank": "B"
+      },
+      {
+        "pad_number": 14,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 15,
+        "note": 28,
+        "bank": "B"
+      },
+      {
+        "pad_number": 16,
+        "note": 13,
+        "bank": "B"
+      }
+    ],
+    "knobs": [
+      {
+        "knob_number": 1,
+        "cc": 24,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob1"
+      },
+      {
+        "knob_number": 2,
+        "cc": 25,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob2"
+      },
+      {
+        "knob_number": 3,
+        "cc": 26,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob3"
+      },
+      {
+        "knob_number": 4,
+        "cc": 27,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob4"
+      },
+      {
+        "knob_number": 5,
+        "cc": 28,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob5"
+      },
+      {
+        "knob_number": 6,
+        "cc": 29,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob6"
+      },
+      {
+        "knob_number": 7,
+        "cc": 30,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob7"
+      },
+      {
+        "knob_number": 8,
+        "cc": 31,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob8"
+      }
+    ]
+  },
+  "4": {
+    "header": {
+      "manufacturer": 71,
+      "channel": 0,
+      "device_id": 93,
+      "function": 103,
+      "length": 315,
+      "preset_number": 4
+    },
+    "name": "USER3",
+    "global": {
+      "pad_channel": 10,
+      "key_channel": 5,
+      "octave": 8,
+      "transpose": -12,
+      "arp_tempo": 120,
+      "arp_mode": 3,
+      "arp_time_div": 1,
+      "arp_clock": 0,
+      "arp_latch": 0,
+      "arp_swing": 0,
+      "arp_octave": 0
+    },
+    "joystick": {
+      "x_positive": 127,
+      "x_negative": 0,
+      "y_positive": 1,
+      "y_negative": 0
+    },
+    "aftertouch": {
+      "mode": 0,
+      "threshold": 50,
+      "curve": 50
+    },
+    "pads": [
+      {
+        "pad_number": 1,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 2,
+        "note": 51,
+        "bank": "A"
+      },
+      {
+        "pad_number": 3,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 4,
+        "note": 12,
+        "bank": "A"
+      },
+      {
+        "pad_number": 5,
+        "note": 20,
+        "bank": "A"
+      },
+      {
+        "pad_number": 6,
+        "note": 5,
+        "bank": "A"
+      },
+      {
+        "pad_number": 7,
+        "note": 58,
+        "bank": "A"
+      },
+      {
+        "pad_number": 8,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 9,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 10,
+        "note": 24,
+        "bank": "B"
+      },
+      {
+        "pad_number": 11,
+        "note": 9,
+        "bank": "B"
+      },
+      {
+        "pad_number": 12,
+        "note": 65,
+        "bank": "B"
+      },
+      {
+        "pad_number": 13,
+        "note": 1,
+        "bank": "B"
+      },
+      {
+        "pad_number": 14,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 15,
+        "note": 28,
+        "bank": "B"
+      },
+      {
+        "pad_number": 16,
+        "note": 13,
+        "bank": "B"
+      }
+    ],
+    "knobs": [
+      {
+        "knob_number": 1,
+        "cc": 24,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob1"
+      },
+      {
+        "knob_number": 2,
+        "cc": 25,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob2"
+      },
+      {
+        "knob_number": 3,
+        "cc": 26,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob3"
+      },
+      {
+        "knob_number": 4,
+        "cc": 27,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob4"
+      },
+      {
+        "knob_number": 5,
+        "cc": 28,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob5"
+      },
+      {
+        "knob_number": 6,
+        "cc": 29,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob6"
+      },
+      {
+        "knob_number": 7,
+        "cc": 30,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob7"
+      },
+      {
+        "knob_number": 8,
+        "cc": 31,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob8"
+      }
+    ]
+  },
+  "5": {
+    "header": {
+      "manufacturer": 71,
+      "channel": 0,
+      "device_id": 93,
+      "function": 103,
+      "length": 315,
+      "preset_number": 5
+    },
+    "name": "USER4",
+    "global": {
+      "pad_channel": 10,
+      "key_channel": 5,
+      "octave": 8,
+      "transpose": -12,
+      "arp_tempo": 120,
+      "arp_mode": 3,
+      "arp_time_div": 1,
+      "arp_clock": 0,
+      "arp_latch": 0,
+      "arp_swing": 0,
+      "arp_octave": 0
+    },
+    "joystick": {
+      "x_positive": 127,
+      "x_negative": 0,
+      "y_positive": 1,
+      "y_negative": 0
+    },
+    "aftertouch": {
+      "mode": 0,
+      "threshold": 50,
+      "curve": 50
+    },
+    "pads": [
+      {
+        "pad_number": 1,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 2,
+        "note": 51,
+        "bank": "A"
+      },
+      {
+        "pad_number": 3,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 4,
+        "note": 12,
+        "bank": "A"
+      },
+      {
+        "pad_number": 5,
+        "note": 20,
+        "bank": "A"
+      },
+      {
+        "pad_number": 6,
+        "note": 5,
+        "bank": "A"
+      },
+      {
+        "pad_number": 7,
+        "note": 58,
+        "bank": "A"
+      },
+      {
+        "pad_number": 8,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 9,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 10,
+        "note": 24,
+        "bank": "B"
+      },
+      {
+        "pad_number": 11,
+        "note": 9,
+        "bank": "B"
+      },
+      {
+        "pad_number": 12,
+        "note": 65,
+        "bank": "B"
+      },
+      {
+        "pad_number": 13,
+        "note": 1,
+        "bank": "B"
+      },
+      {
+        "pad_number": 14,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 15,
+        "note": 28,
+        "bank": "B"
+      },
+      {
+        "pad_number": 16,
+        "note": 13,
+        "bank": "B"
+      }
+    ],
+    "knobs": [
+      {
+        "knob_number": 1,
+        "cc": 24,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob1"
+      },
+      {
+        "knob_number": 2,
+        "cc": 25,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob2"
+      },
+      {
+        "knob_number": 3,
+        "cc": 26,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob3"
+      },
+      {
+        "knob_number": 4,
+        "cc": 27,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob4"
+      },
+      {
+        "knob_number": 5,
+        "cc": 28,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob5"
+      },
+      {
+        "knob_number": 6,
+        "cc": 29,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob6"
+      },
+      {
+        "knob_number": 7,
+        "cc": 30,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob7"
+      },
+      {
+        "knob_number": 8,
+        "cc": 31,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob8"
+      }
+    ]
+  },
+  "6": {
+    "header": {
+      "manufacturer": 71,
+      "channel": 0,
+      "device_id": 93,
+      "function": 103,
+      "length": 315,
+      "preset_number": 6
+    },
+    "name": "USER5",
+    "global": {
+      "pad_channel": 10,
+      "key_channel": 5,
+      "octave": 8,
+      "transpose": -12,
+      "arp_tempo": 120,
+      "arp_mode": 3,
+      "arp_time_div": 1,
+      "arp_clock": 0,
+      "arp_latch": 0,
+      "arp_swing": 0,
+      "arp_octave": 0
+    },
+    "joystick": {
+      "x_positive": 127,
+      "x_negative": 0,
+      "y_positive": 1,
+      "y_negative": 0
+    },
+    "aftertouch": {
+      "mode": 0,
+      "threshold": 50,
+      "curve": 50
+    },
+    "pads": [
+      {
+        "pad_number": 1,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 2,
+        "note": 51,
+        "bank": "A"
+      },
+      {
+        "pad_number": 3,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 4,
+        "note": 12,
+        "bank": "A"
+      },
+      {
+        "pad_number": 5,
+        "note": 20,
+        "bank": "A"
+      },
+      {
+        "pad_number": 6,
+        "note": 5,
+        "bank": "A"
+      },
+      {
+        "pad_number": 7,
+        "note": 58,
+        "bank": "A"
+      },
+      {
+        "pad_number": 8,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 9,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 10,
+        "note": 24,
+        "bank": "B"
+      },
+      {
+        "pad_number": 11,
+        "note": 9,
+        "bank": "B"
+      },
+      {
+        "pad_number": 12,
+        "note": 65,
+        "bank": "B"
+      },
+      {
+        "pad_number": 13,
+        "note": 1,
+        "bank": "B"
+      },
+      {
+        "pad_number": 14,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 15,
+        "note": 28,
+        "bank": "B"
+      },
+      {
+        "pad_number": 16,
+        "note": 13,
+        "bank": "B"
+      }
+    ],
+    "knobs": [
+      {
+        "knob_number": 1,
+        "cc": 24,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob1"
+      },
+      {
+        "knob_number": 2,
+        "cc": 25,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob2"
+      },
+      {
+        "knob_number": 3,
+        "cc": 26,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob3"
+      },
+      {
+        "knob_number": 4,
+        "cc": 27,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob4"
+      },
+      {
+        "knob_number": 5,
+        "cc": 28,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob5"
+      },
+      {
+        "knob_number": 6,
+        "cc": 29,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob6"
+      },
+      {
+        "knob_number": 7,
+        "cc": 30,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob7"
+      },
+      {
+        "knob_number": 8,
+        "cc": 31,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob8"
+      }
+    ]
+  },
+  "7": {
+    "header": {
+      "manufacturer": 71,
+      "channel": 0,
+      "device_id": 93,
+      "function": 103,
+      "length": 315,
+      "preset_number": 7
+    },
+    "name": "USER6",
+    "global": {
+      "pad_channel": 10,
+      "key_channel": 5,
+      "octave": 8,
+      "transpose": -12,
+      "arp_tempo": 120,
+      "arp_mode": 3,
+      "arp_time_div": 1,
+      "arp_clock": 0,
+      "arp_latch": 0,
+      "arp_swing": 0,
+      "arp_octave": 0
+    },
+    "joystick": {
+      "x_positive": 127,
+      "x_negative": 0,
+      "y_positive": 1,
+      "y_negative": 0
+    },
+    "aftertouch": {
+      "mode": 0,
+      "threshold": 50,
+      "curve": 50
+    },
+    "pads": [
+      {
+        "pad_number": 1,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 2,
+        "note": 51,
+        "bank": "A"
+      },
+      {
+        "pad_number": 3,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 4,
+        "note": 12,
+        "bank": "A"
+      },
+      {
+        "pad_number": 5,
+        "note": 20,
+        "bank": "A"
+      },
+      {
+        "pad_number": 6,
+        "note": 5,
+        "bank": "A"
+      },
+      {
+        "pad_number": 7,
+        "note": 58,
+        "bank": "A"
+      },
+      {
+        "pad_number": 8,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 9,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 10,
+        "note": 24,
+        "bank": "B"
+      },
+      {
+        "pad_number": 11,
+        "note": 9,
+        "bank": "B"
+      },
+      {
+        "pad_number": 12,
+        "note": 65,
+        "bank": "B"
+      },
+      {
+        "pad_number": 13,
+        "note": 1,
+        "bank": "B"
+      },
+      {
+        "pad_number": 14,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 15,
+        "note": 28,
+        "bank": "B"
+      },
+      {
+        "pad_number": 16,
+        "note": 13,
+        "bank": "B"
+      }
+    ],
+    "knobs": [
+      {
+        "knob_number": 1,
+        "cc": 24,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob1"
+      },
+      {
+        "knob_number": 2,
+        "cc": 25,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob2"
+      },
+      {
+        "knob_number": 3,
+        "cc": 26,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob3"
+      },
+      {
+        "knob_number": 4,
+        "cc": 27,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob4"
+      },
+      {
+        "knob_number": 5,
+        "cc": 28,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob5"
+      },
+      {
+        "knob_number": 6,
+        "cc": 29,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob6"
+      },
+      {
+        "knob_number": 7,
+        "cc": 30,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob7"
+      },
+      {
+        "knob_number": 8,
+        "cc": 31,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob8"
+      }
+    ]
+  },
+  "8": {
+    "header": {
+      "manufacturer": 71,
+      "channel": 0,
+      "device_id": 93,
+      "function": 103,
+      "length": 315,
+      "preset_number": 8
+    },
+    "name": "USER7",
+    "global": {
+      "pad_channel": 10,
+      "key_channel": 5,
+      "octave": 8,
+      "transpose": -12,
+      "arp_tempo": 120,
+      "arp_mode": 3,
+      "arp_time_div": 1,
+      "arp_clock": 0,
+      "arp_latch": 0,
+      "arp_swing": 0,
+      "arp_octave": 0
+    },
+    "joystick": {
+      "x_positive": 127,
+      "x_negative": 0,
+      "y_positive": 1,
+      "y_negative": 0
+    },
+    "aftertouch": {
+      "mode": 0,
+      "threshold": 50,
+      "curve": 50
+    },
+    "pads": [
+      {
+        "pad_number": 1,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 2,
+        "note": 51,
+        "bank": "A"
+      },
+      {
+        "pad_number": 3,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 4,
+        "note": 12,
+        "bank": "A"
+      },
+      {
+        "pad_number": 5,
+        "note": 20,
+        "bank": "A"
+      },
+      {
+        "pad_number": 6,
+        "note": 5,
+        "bank": "A"
+      },
+      {
+        "pad_number": 7,
+        "note": 58,
+        "bank": "A"
+      },
+      {
+        "pad_number": 8,
+        "note": 1,
+        "bank": "A"
+      },
+      {
+        "pad_number": 9,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 10,
+        "note": 24,
+        "bank": "B"
+      },
+      {
+        "pad_number": 11,
+        "note": 9,
+        "bank": "B"
+      },
+      {
+        "pad_number": 12,
+        "note": 65,
+        "bank": "B"
+      },
+      {
+        "pad_number": 13,
+        "note": 1,
+        "bank": "B"
+      },
+      {
+        "pad_number": 14,
+        "note": 12,
+        "bank": "B"
+      },
+      {
+        "pad_number": 15,
+        "note": 28,
+        "bank": "B"
+      },
+      {
+        "pad_number": 16,
+        "note": 13,
+        "bank": "B"
+      }
+    ],
+    "knobs": [
+      {
+        "knob_number": 1,
+        "cc": 24,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob1"
+      },
+      {
+        "knob_number": 2,
+        "cc": 25,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob2"
+      },
+      {
+        "knob_number": 3,
+        "cc": 26,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob3"
+      },
+      {
+        "knob_number": 4,
+        "cc": 27,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob4"
+      },
+      {
+        "knob_number": 5,
+        "cc": 28,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob5"
+      },
+      {
+        "knob_number": 6,
+        "cc": 29,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob6"
+      },
+      {
+        "knob_number": 7,
+        "cc": 30,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob7"
+      },
+      {
+        "knob_number": 8,
+        "cc": 31,
+        "min": 0,
+        "max": 127,
+        "mode": 0,
+        "name": "Knob8"
+      }
+    ]
+  }
+}

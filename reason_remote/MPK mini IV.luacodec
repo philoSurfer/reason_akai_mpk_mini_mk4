@@ -1,0 +1,15 @@
+version={1,0,0}
+
+function remote_supported_control_surfaces()
+    local surfaces = {
+        {
+            manufacturer = "Akai",
+            model = "MPK mini IV",
+            source = "MPK mini IV.lua",
+            in_ports = {{ description = "In Port" }},
+            out_ports = {{ description = "Out Port", optional = true }},
+            has_keyboard = true,
+        },
+    }
+    return surfaces
+end

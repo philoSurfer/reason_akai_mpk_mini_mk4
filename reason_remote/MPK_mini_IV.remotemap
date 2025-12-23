@@ -1,0 +1,23 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Akai
+Control Surface Model	MPK mini IV
+Map Version	1.0.0
+
+Scope	Propellerheads	Master Keyboard
+Map	Keyboard		Keyboard
+Map	Pitch Bend		Pitch Bend
+Map	Mod Wheel		Mod Wheel
+
+Scope	Propellerheads	Reason Document
+Map	Play		Play
+Map	Stop		Stop
+Map	Loop		Loop On/Off
+Map	Record		Record
+Map	Forward		Fast Forward
+Map	Undo		Undo
+Map	Redo		Redo
+Map	Tap Tempo		Tap Tempo
+Map	Click		Click On/Off
+Map	Quantize		Auto-quantize
+
