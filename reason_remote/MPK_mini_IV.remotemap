@@ -4,12 +4,16 @@ Control Surface Manufacturer	Akai
 Control Surface Model	MPK mini IV
 Map Version	1.0.0
 
+
 Scope	Propellerheads	Master Keyboard
+
 Map	Keyboard		Keyboard
 Map	Pitch Bend		Pitch Bend
 Map	Mod Wheel		Mod Wheel
 
+
 Scope	Propellerheads	Reason Document
+
 Map	Play		Play
 Map	Stop		Stop
 Map	Loop		Loop On/Off
@@ -20,4 +24,1175 @@ Map	Redo		Redo
 Map	Tap Tempo		Tap Tempo
 Map	Click		Click On/Off
 Map	Quantize		Auto-quantize
+
+
+Scope	Propellerheads	RPG-8 Monophonic Arpeggiator
+Map	Knob 1		Rate
+Map	Knob 2		Gate Length
+Map	Knob 3		Mode
+Map	Knob 4		Octave
+Map	Knob 5		Aftertouch
+Map	Knob 6		Expression
+Map	Knob 7		Breath
+Map	Knob 8		Octave Shift
+
+Scope	Propellerhead Software	se.propellerheads.externalmidiinstrument
+Map	Knob 1		CC 7
+Map	Knob 2		CC 8
+Map	Knob 3		CC 9
+Map	Knob 4		CC 10
+Map	Knob 5		CC 12
+Map	Knob 6		CC 13
+Map	Knob 7		CC 70
+Map	Knob 8		CC 71
+
+Scope	Propellerhead Software	se.propellerheads.Pulsar
+Map	Knob 1		LFO1 Rate Free
+Map	Knob 2		LFO1 Rate Synced
+Map	Knob 3		LFO1 Waveform
+Map	Knob 4		LFO1 Level
+Map	Knob 5		LFO2 Rate Free
+Map	Knob 6		LFO2 Rate Synced
+Map	Knob 7		LFO2 Waveform
+Map	Knob 8		LFO2 Level
+
+Scope	Propellerheads	Mixer 14:2
+Define Group	Target	Level 1-7	Level 8-14
+Map	Knob 8		Master Level
+Map	Knob 1		Channel 1 Level			Level 1-7
+Map	Knob 2		Channel 2 Level			Level 1-7
+Map	Knob 3		Channel 3 Level			Level 1-7
+Map	Knob 4		Channel 4 Level			Level 1-7
+Map	Knob 5		Channel 5 Level			Level 1-7
+Map	Knob 6		Channel 6 Level			Level 1-7
+Map	Knob 7		Channel 7 Level			Level 1-7
+Map	Knob 1		Channel 8 Level			Level 8-14
+Map	Knob 2		Channel 9 Level			Level 8-14
+Map	Knob 3		Channel 10 Level			Level 8-14
+Map	Knob 4		Channel 11 Level			Level 8-14
+Map	Knob 5		Channel 12 Level			Level 8-14
+Map	Knob 6		Channel 13 Level			Level 8-14
+Map	Knob 7		Channel 14 Level			Level 8-14
+
+Scope	Propellerheads	Line Mixer 6:2
+Map	Knob 1		Channel 1 Level
+Map	Knob 2		Channel 2 Level
+Map	Knob 3		Channel 3 Level
+Map	Knob 4		Channel 4 Level
+Map	Knob 5		Channel 5 Level
+Map	Knob 6		Channel 6 Level
+Map	Knob 7		Master Level
+
+Scope	Propellerheads	Combinator
+Map	Knob 1		Rotary 1
+Map	Knob 2		Rotary 2
+Map	Knob 3		Rotary 3
+Map	Knob 4		Rotary 4
+Map	Knob 5		Button 1
+Map	Knob 6		Button 2
+Map	Knob 7		Button 3
+Map	Knob 8		Button 4
+
+Scope	Propellerheads	MClass Equalizer
+Define Group	Target	Low&Para1	Para2&Hi
+Map	Knob 1		Low Shelf Frequency			Low&Para1
+Map	Knob 2		Low Shelf Gain			Low&Para1
+Map	Knob 3		Low Shelf Q			Low&Para1
+Map	Knob 4		Parametric 1 Frequency			Low&Para1
+Map	Knob 5		Parametric 1 Gain			Low&Para1
+Map	Knob 6		Parametric 1 Q			Low&Para1
+Map	Knob 1		Parametric 2 Frequency			Para2&Hi
+Map	Knob 2		Parametric 2 Gain			Para2&Hi
+Map	Knob 3		Parametric 2 Q			Para2&Hi
+Map	Knob 4		Hi Shelf Frequency			Para2&Hi
+Map	Knob 5		Hi Shelf Gain			Para2&Hi
+Map	Knob 6		Hi Shelf Q			Para2&Hi
+
+Scope	Propellerheads	MClass Maximizer
+Map	Knob 1		Input Gain
+Map	Knob 2		Attack Speed
+Map	Knob 3		Release Speed
+Map	Knob 4		Output Gain
+Map	Knob 5		Soft Clip Amount
+
+Scope	Propellerheads	MClass Compressor
+Map	Knob 1		Input Gain
+Map	Knob 2		Threshold
+Map	Knob 3		Ratio
+Map	Knob 4		Attack
+Map	Knob 5		Release
+Map	Knob 6		Output Gain
+
+Scope	Propellerheads	MClass Stereo Imager
+Map	Knob 1		Low Width
+Map	Knob 2		X-Over Frequency
+Map	Knob 3		High Width
+
+Scope	Propellerheads	RV-7 Digital Reverb
+Map	Knob 1		Size
+Map	Knob 2		Decay
+Map	Knob 3		Damping
+Map	Knob 4		Dry/Wet
+
+Scope	Propellerheads	RV7000 Advanced Reverb
+Map	Knob 1		Decay
+Map	Knob 2		HF Damp
+Map	Knob 3		Hi EQ
+Map	Knob 4		Dry/Wet
+
+Scope	Propellerheads	Neptune Pitch Adjuster
+Map	Knob 1		Correction Speed
+Map	Knob 2		Preserve Expression
+Map	Knob 3		Semitones
+Map	Knob 4		Formant Shift
+Map	Knob 5		Vibrato Rate
+Map	Knob 7		Pitched Signal Level
+Map	Knob 8		Voice Synth Level
+
+Scope	Propellerheads	Reason Main Mixer Channel
+Define Group	Target	Inserts	EQ	FX Sends	Dyn
+Map	Knob 1		Rotary 1			Inserts
+Map	Knob 2		Rotary 2			Inserts
+Map	Knob 3		Rotary 3			Inserts
+Map	Knob 4		Rotary 4			Inserts
+Map	Knob 5		LPF Frequency			Inserts
+Map	Knob 6		HPF Frequency			Inserts
+Map	Knob 7		Pan			Inserts
+Map	Knob 8		Level			Inserts
+Map	Knob 1		LF Gain			EQ
+Map	Knob 2		LF Frequency			EQ
+Map	Knob 3		LMF Gain			EQ
+Map	Knob 4		LMF Frequency			EQ
+Map	Knob 5		HMF Gain			EQ
+Map	Knob 6		HMF Frequency			EQ
+Map	Knob 7		HF Gain			EQ
+Map	Knob 8		HF Frequency			EQ
+Map	Knob 1		FX1 Send Level			FX Sends
+Map	Knob 2		FX2 Send Level			FX Sends
+Map	Knob 3		FX3 Send Level			FX Sends
+Map	Knob 4		FX4 Send Level			FX Sends
+Map	Knob 5		FX5 Send Level			FX Sends
+Map	Knob 6		FX6 Send Level			FX Sends
+Map	Knob 7		FX7 Send Level			FX Sends
+Map	Knob 8		FX8 Send Level			FX Sends
+Map	Knob 1		Input Gain			Dyn
+Map	Knob 2		C Ratio			Dyn
+Map	Knob 3		C Threshold			Dyn
+Map	Knob 4		C Release			Dyn
+Map	Knob 5		G Range			Dyn
+Map	Knob 6		G Threshold			Dyn
+Map	Knob 7		G Release			Dyn
+Map	Knob 8		G Hold			Dyn
+
+Scope	Propellerheads	Reason Master Section
+Define Group	Target	Levels	Master	Returns
+Map	Knob 1		Channel 1 Level			Levels
+Map	Knob 2		Channel 2 Level			Levels
+Map	Knob 3		Channel 3 Level			Levels
+Map	Knob 4		Channel 4 Level			Levels
+Map	Knob 5		Channel 5 Level			Levels
+Map	Knob 6		Channel 6 Level			Levels
+Map	Knob 7		Channel 7 Level			Levels
+Map	Knob 8		Channel 8 Level			Levels
+Map	Knob 1		Rotary 1			Master
+Map	Knob 2		Rotary 2			Master
+Map	Knob 3		Rotary 3			Master
+Map	Knob 4		Rotary 4			Master
+Map	Knob 5		Threshold			Master
+Map	Knob 6		Ratio			Master
+Map	Knob 7		Make-Up Gain			Master
+Map	Knob 8		Master Level			Master
+Map	Knob 1		FX1 Return Level			Returns
+Map	Knob 2		FX2 Return Level			Returns
+Map	Knob 3		FX3 Return Level			Returns
+Map	Knob 4		FX4 Return Level			Returns
+Map	Knob 5		FX5 Return Level			Returns
+Map	Knob 6		FX6 Return Level			Returns
+Map	Knob 7		FX7 Return Level			Returns
+Map	Knob 8		FX8 Return Level			Returns
+
+Scope	Propellerheads	Reason Essentials Master Section
+Define Group	Target	Levels	Master	Returns
+Map	Knob 1		Channel 1 Level			Levels
+Map	Knob 2		Channel 2 Level			Levels
+Map	Knob 3		Channel 3 Level			Levels
+Map	Knob 4		Channel 4 Level			Levels
+Map	Knob 5		Channel 5 Level			Levels
+Map	Knob 6		Channel 6 Level			Levels
+Map	Knob 7		Channel 7 Level			Levels
+Map	Knob 8		Channel 8 Level			Levels
+Map	Knob 1		Rotary 1			Master
+Map	Knob 2		Rotary 2			Master
+Map	Knob 3		Rotary 3			Master
+Map	Knob 4		Rotary 4			Master
+Map	Knob 5		Threshold			Master
+Map	Knob 6		Ratio			Master
+Map	Knob 7		Make-Up Gain			Master
+Map	Knob 8		Master Level			Master
+Map	Knob 1		FX1 Return Level			Returns
+Map	Knob 2		FX2 Return Level			Returns
+Map	Knob 3		FX3 Return Level			Returns
+Map	Knob 4		FX4 Return Level			Returns
+Map	Knob 5		FX1 Pan			Returns
+Map	Knob 6		FX2 Pan			Returns
+Map	Knob 7		FX3 Pan			Returns
+Map	Knob 8		FX4 Pan			Returns
+
+Scope	Propellerheads	Reason Essentials Main Mixer Channel
+Define Group	Target	Inserts	EQ & Dyn	FX Sends
+Map	Knob 1		Rotary 1			Inserts
+Map	Knob 2		Rotary 2			Inserts
+Map	Knob 3		Rotary 3			Inserts
+Map	Knob 4		Rotary 4			Inserts
+Map	Knob 7		Pan			Inserts
+Map	Knob 8		Level			Inserts
+Map	Knob 1		LF Gain			EQ & Dyn
+Map	Knob 2		LF Frequency			EQ & Dyn
+Map	Knob 6		Input Gain			EQ & Dyn
+Map	Knob 7		HF Gain			EQ & Dyn
+Map	Knob 8		HF Frequency			EQ & Dyn
+Map	Knob 1		FX1 Send Level			FX Sends
+Map	Knob 2		FX2 Send Level			FX Sends
+Map	Knob 3		FX3 Send Level			FX Sends
+Map	Knob 4		FX4 Send Level			FX Sends
+
+Scope	Propellerheads	Malstrom Graintable Synthesizer
+Define Group	Target	Osc A	Osc B	Filter
+Map	Knob 1		Oscillator A Motion			Osc A
+Map	Knob 2		Oscillator A Index			Osc A
+Map	Knob 3		Oscillator A Shift			Osc A
+Map	Knob 4		Oscillator A Octave			Osc A
+Map	Knob 5		Oscillator A Attack			Osc A
+Map	Knob 6		Oscillator A Decay			Osc A
+Map	Knob 7		Oscillator A Sustain			Osc A
+Map	Knob 8		Oscillator A Release			Osc A
+Map	Knob 1		Oscillator B Motion			Osc B
+Map	Knob 2		Oscillator B Index			Osc B
+Map	Knob 3		Oscillator B Shift			Osc B
+Map	Knob 4		Oscillator B Octave			Osc B
+Map	Knob 5		Oscillator B Attack			Osc B
+Map	Knob 6		Oscillator B Decay			Osc B
+Map	Knob 7		Oscillator B Sustain			Osc B
+Map	Knob 8		Oscillator B Release			Osc B
+Map	Knob 1		Filter A Freq			Filter
+Map	Knob 2		Filter A Resonance			Filter
+Map	Knob 3		Filter B Freq			Filter
+Map	Knob 4		Filter B Resonance			Filter
+Map	Knob 5		Filter Env Attack			Filter
+Map	Knob 6		Filter Env Decay			Filter
+Map	Knob 7		Filter Env Sustain			Filter
+Map	Knob 8		Filter Env Release			Filter
+
+Scope	Propellerheads	Alligator
+Define Group	Target	Aux1	Aux2	Aux3	Aux4	Aux5
+Map	Knob 1		Pattern
+Map	Knob 1		Resolution			Aux1
+Map	Knob 1		Shift			Aux2
+Map	Knob 2		LFO Freq			Aux3
+Map	Knob 1		LFO Waveform			Aux3
+Map	Knob 8		Delay Pan			Aux3
+Map	Knob 6		Delay Time			Aux3
+Map	Knob 7		Delay Feedback			Aux3
+Map	Knob 2		High Pass Frequency
+Map	Knob 3		Band Pass Frequency
+Map	Knob 4		Low Pass Frequency
+Map	Knob 5		High Pass Volume
+Map	Knob 6		Band Pass Volume
+Map	Knob 7		Low Pass Volume
+Map	Knob 8		Master Volume
+Map	Knob 8		Ducking			Aux5
+Map	Knob 8		Dry Pan			Aux1
+Map	Knob 8		Dry Volume			Aux2
+Map	Knob 5		High Pass Drive Amount			Aux2
+Map	Knob 6		Band Pass Drive Amount			Aux2
+Map	Knob 7		Low Pass Drive Amount			Aux2
+Map	Knob 2		High Pass Resonance			Aux1
+Map	Knob 3		Band Pass Resonance			Aux1
+Map	Knob 4		Low Pass Resonance			Aux1
+Map	Knob 7		Phaser Rate			Aux4
+Map	Knob 8		Phaser Feedback			Aux4
+Map	Knob 3		High Pass Phaser Amount			Aux3
+Map	Knob 4		Band Pass Phaser Amount			Aux3
+Map	Knob 5		Low Pass Phaser Amount			Aux3
+Map	Knob 2		High Pass Delay Amount			Aux2
+Map	Knob 3		Band Pass Delay Amount			Aux2
+Map	Knob 4		Low Pass Delay Amount			Aux2
+Map	Knob 1		Amp Env Attack			Aux4
+Map	Knob 2		Amp Env Decay			Aux4
+Map	Knob 3		Amp Env Release			Aux4
+Map	Knob 4		Filter Env Attack			Aux4
+Map	Knob 5		Filter Env Decay			Aux4
+Map	Knob 6		Filter Env Release			Aux4
+Map	Knob 5		High Pass Pan			Aux1
+Map	Knob 6		Band Pass Pan			Aux1
+Map	Knob 7		Low Pass Pan			Aux1
+Map	Knob 1		High Pass LFO Amount			Aux5
+Map	Knob 2		Band Pass LFO Amount			Aux5
+Map	Knob 3		Low Pass LFO Amount			Aux5
+Map	Knob 4		High Pass Env Amount			Aux5
+Map	Knob 5		Band Pass Env Amount			Aux5
+Map	Knob 6		Low Pass Env Amount			Aux5
+
+Scope	Propellerheads	BV512 Digital Vocoder
+Define Group	Target	Basic	Band 1-8	Band 9-16	Band 17-24	Band 25-32
+Map	Knob 1		Shift			Basic
+Map	Knob 2		HF Emphasis			Basic
+Map	Knob 3		Attack			Basic
+Map	Knob 4		Decay			Basic
+Map	Knob 8		Dry/Wet			Basic
+Map	Knob 1		Band Level 1			Band 1-8
+Map	Knob 2		Band Level 2			Band 1-8
+Map	Knob 3		Band Level 3			Band 1-8
+Map	Knob 4		Band Level 4			Band 1-8
+Map	Knob 5		Band Level 5			Band 1-8
+Map	Knob 6		Band Level 6			Band 1-8
+Map	Knob 7		Band Level 7			Band 1-8
+Map	Knob 8		Band Level 8			Band 1-8
+Map	Knob 1		Band Level 9			Band 9-16
+Map	Knob 2		Band Level 10			Band 9-16
+Map	Knob 3		Band Level 11			Band 9-16
+Map	Knob 4		Band Level 12			Band 9-16
+Map	Knob 5		Band Level 13			Band 9-16
+Map	Knob 6		Band Level 14			Band 9-16
+Map	Knob 7		Band Level 15			Band 9-16
+Map	Knob 8		Band Level 16			Band 9-16
+Map	Knob 1		Band Level 17			Band 17-24
+Map	Knob 2		Band Level 18			Band 17-24
+Map	Knob 3		Band Level 19			Band 17-24
+Map	Knob 4		Band Level 20			Band 17-24
+Map	Knob 5		Band Level 21			Band 17-24
+Map	Knob 6		Band Level 22			Band 17-24
+Map	Knob 7		Band Level 23			Band 17-24
+Map	Knob 8		Band Level 24			Band 17-24
+Map	Knob 1		Band Level 25			Band 25-32
+Map	Knob 2		Band Level 26			Band 25-32
+Map	Knob 3		Band Level 27			Band 25-32
+Map	Knob 4		Band Level 28			Band 25-32
+Map	Knob 5		Band Level 29			Band 25-32
+Map	Knob 6		Band Level 30			Band 25-32
+Map	Knob 7		Band Level 31			Band 25-32
+Map	Knob 8		Band Level 32			Band 25-32
+
+Scope	Propellerheads	CF-101 Chorus/Flanger
+Map	Knob 1		Delay
+Map	Knob 2		Feedback
+Map	Knob 3		Rate
+Map	Knob 4		Modulation Amount
+
+Scope	Propellerheads	COMP-01 Compressor/Limiter
+Map	Knob 1		Ratio
+Map	Knob 2		Threshold
+Map	Knob 3		Attack
+Map	Knob 4		Release
+
+Scope	Propellerheads	THOR Polysonic Synthesizer
+Define Group	Target	Filters	Env	Modulation
+Map	Knob 1		Rotary 1			Filters
+Map	Knob 2		Rotary 2			Filters
+Map	Knob 3		Filter 1 Freq			Filters
+Map	Knob 4		Filter 1 Res			Filters
+Map	Knob 5		Filter 2 Freq			Filters
+Map	Knob 6		Filter 2 Res			Filters
+Map	Knob 7		Filter 3 Freq			Filters
+Map	Knob 8		Filter 3 Res			Filters
+Map	Knob 1		Filter Env Attack			Env
+Map	Knob 2		Filter Env Decay			Env
+Map	Knob 3		Filter Env Sustain			Env
+Map	Knob 4		Filter Env Release			Env
+Map	Knob 5		Amp Env Attack			Env
+Map	Knob 6		Amp Env Decay			Env
+Map	Knob 7		Amp Env Sustain			Env
+Map	Knob 8		Amp Env Release			Env
+Map	Knob 1		LFO 1 Rate			Modulation
+Map	Knob 2		LFO 2 Rate			Modulation
+Map	Knob 3		Delay Dry Wet			Modulation
+Map	Knob 4		Delay Time			Modulation
+Map	Knob 5		Chorus Dry Wet			Modulation
+Map	Knob 6		Chorus Delay			Modulation
+Map	Knob 7		Chorus Rate			Modulation
+Map	Knob 8		Chorus Feedback			Modulation
+
+Scope	Propellerhead Software	se.propellerheads.BVXVocoder
+Define Group	Target	Env	Mod	Rvb	LFO	Unison
+Map	Knob 1		Env Attack			Env
+Map	Knob 2		Env Decay			Env
+Map	Knob 3		Env Sustain			Env
+Map	Knob 4		Env Release			Env
+Map	Knob 1		Mod1 Amt			Mod
+Map	Knob 2		Mod2 Amt			Mod
+Map	Knob 3		Mod3 Amt			Mod
+Map	Knob 4		Mod4 Amt			Mod
+Map	Knob 1		Reverb Level			Rvb
+Map	Knob 3		Reverb Decay			Rvb
+Map	Knob 4		Reverb LF Damp			Rvb
+Map	Knob 2		Reverb Early Level			Rvb
+Map	Knob 3		LFO Rate			LFO
+Map	Knob 4		LFO Synced Rate			LFO
+Map	Knob 1		Vibrato Delay			LFO
+Map	Knob 2		Vibrato Rate			LFO
+Map	Knob 1		Unison Blend			Unison
+Map	Knob 2		Unison Timing			Unison
+Map	Knob 3		Unison Detune			Unison
+Map	Knob 4		Unison Spread			Unison
+Map	Knob 5		Low Frequency
+Map	Knob 6		High Frequency Gain
+Map	Knob 7		Formant Shift
+Map	Knob 8		Master Volume
+
+Scope	Propellerhead Software	se.propellerheads.Quartet
+Map	Knob 1		Chorus Depth
+Map	Knob 2		Chorus Rate
+Map	Knob 3		Chorus Feedback
+Map	Knob 4		FFT Depth
+Map	Knob 5		BBD Rate
+Map	Knob 6		BBD Depth
+Map	Knob 7		Grain Depth
+Map	Knob 8		Grain Density
+
+Scope	Propellerheads	The Echo
+Define Group	Target	Aux1	Aux2
+Map	Knob 1		Input Mode
+Map	Knob 2		Delay Time
+Map	Knob 3		Right Ch Time Offset
+Map	Knob 4		Ping-Pong Pan
+Map	Knob 5		Feedback
+Map	Knob 6		Right Ch Feedback Offset
+Map	Knob 2		Drive Type			Aux1
+Map	Knob 1		Drive Amount			Aux1
+Map	Knob 3		Envelope			Aux1
+Map	Knob 4		Wobble			Aux1
+Map	Knob 3		Filter Frequency			Aux2
+Map	Knob 4		Filter Resonance			Aux2
+Map	Knob 5		Diffuse Spread			Aux1
+Map	Knob 6		Diffuse Amount			Aux1
+Map	Knob 5		LFO Rate			Aux2
+Map	Knob 6		LFO Amount			Aux2
+Map	Knob 7		Ducking
+Map	Knob 8		Dry/Wet Balance
+
+Scope	Propellerheads	Scream 4 Distortion
+Define Group	Target	Damage & Cut	Body
+Map	Knob 8		Master Level
+Map	Knob 1		Damage Control			Damage & Cut
+Map	Knob 2		Damage Type			Damage & Cut
+Map	Knob 3		Parameter 1			Damage & Cut
+Map	Knob 4		Parameter 2			Damage & Cut
+Map	Knob 5		Cut Lo			Damage & Cut
+Map	Knob 6		Cut Mid			Damage & Cut
+Map	Knob 7		Cut Hi			Damage & Cut
+Map	Knob 1		Body Resonance			Body
+Map	Knob 2		Body Scale			Body
+Map	Knob 3		Body Auto			Body
+Map	Knob 4		Body Type			Body
+
+Scope	Propellerhead Software	se.propellerheads.Sweeper
+Map	Knob 1		Freq
+Map	Knob 2		Feedback
+Map	Knob 3		Reso
+Map	Knob 4		Volume
+Map	Knob 5		LFO Freq Mod
+Map	Knob 6		LFO Rate
+Map	Knob 7		LFO Synced Rate
+Map	Knob 8		Env Freq Mod
+
+Scope	Propellerheads	Pulveriser
+Define Group	Target	Aux1	Aux2
+Map	Knob 1		Squash
+Map	Knob 2		Dirt
+Map	Knob 3		Filter Frequency
+Map	Knob 4		Peak
+Map	Knob 5		Tremor Rate
+Map	Knob 6		Follower Threshold
+Map	Knob 7		Follower Attack			Aux1
+Map	Knob 8		Follower Release			Aux1
+Map	Knob 8		Volume
+Map	Knob 3		Filter Mode			Aux1
+Map	Knob 1		Release			Aux1
+Map	Knob 2		Tone			Aux1
+Map	Knob 4		Tremor Waveform			Aux1
+Map	Knob 5		Tremor Lag			Aux1
+Map	Knob 6		Tremor to Frequency			Aux1
+Map	Knob 6		Follower to Rate			Aux2
+Map	Knob 7		Follower to Frequency			Aux2
+Map	Knob 8		Tremor to Volume			Aux2
+Map	Knob 7		Blend
+
+Scope	Propellerhead Software	se.propellerheads.ReasonAmp
+Map	Knob 1		Gain
+Map	Knob 2		Bass
+Map	Knob 3		Mid
+Map	Knob 4		Treble
+Map	Knob 5		Amp Switch
+Map	Knob 6		Cab Switch
+Map	Knob 7		Poweramp Gain
+Map	Knob 8		Volume
+
+Scope	Propellerhead Software	se.propellerheads.ReasonBassAmp
+Map	Knob 1		Bass
+Map	Knob 2		Middle
+Map	Knob 3		Mid Freq
+Map	Knob 4		Treble
+Map	Knob 5		Amp Switch
+Map	Knob 6		Cab Switch
+Map	Knob 7		Drive
+Map	Knob 8		Volume
+
+Scope	Propellerhead Software	se.propellerheads.Synchronous
+Map	Knob 1		Dist Amount
+Map	Knob 2		Filter Freq
+Map	Knob 3		Filter Reso
+Map	Knob 4		Reverb Amount
+Map	Knob 5		Delay  Amount
+Map	Knob 6		Delay Feedback
+Map	Knob 7		DryWet
+Map	Knob 8		Master Level
+
+Scope	Propellerhead Software	se.propellerheads.Audiomatic
+Map	Knob 1		Input Gain
+Map	Knob 2		Transform
+Map	Knob 3		Dry Wet
+Map	Knob 4		Volume
+
+Scope	Propellerheads	DDL-1 Digital Delay Line
+Map	Knob 1		DelayTime (steps)
+Map	Knob 2		DelayTime (ms)
+Map	Knob 3		Feedback
+Map	Knob 4		Pan
+Map	Knob 5		Dry/Wet Balance
+
+Scope	Propellerheads	D-11 Foldback Distortion
+Map	Knob 1		Amount
+Map	Knob 2		Foldback
+
+Scope	Propellerheads	ECF-42 Envelope Controlled Filter
+Map	Knob 1		Frequency
+Map	Knob 2		Resonance
+Map	Knob 3		Env Amount
+Map	Knob 4		Velocity
+Map	Knob 5		Attack
+Map	Knob 6		Decay
+Map	Knob 7		Sustain
+Map	Knob 8		Release
+
+Scope	Propellerheads	PH-90 Phaser
+Map	Knob 1		Frequency
+Map	Knob 2		Split
+Map	Knob 3		Width
+Map	Knob 4		Rate
+Map	Knob 5		Frequency Modulation
+Map	Knob 6		Feedback
+
+Scope	Propellerheads	UN-16 Unison
+Map	Knob 2		Detune
+Map	Knob 3		Dry/Wet
+
+Scope	Propellerheads	PEQ-2 Two Band Parametric EQ
+Map	Knob 1		Filter A Freq
+Map	Knob 2		Filter A Q
+Map	Knob 3		Filter A Gain
+Map	Knob 5		Filter B Freq
+Map	Knob 6		Filter B Q
+Map	Knob 7		Filter B Gain
+
+Scope	Propellerhead Software	se.propellerheads.Polar
+Map	Knob 5		Delay/Buffer Position
+Map	Knob 6		Buffer LFO Amount
+Map	Knob 1		Filter Frequency
+Map	Knob 2		Filter Resonance
+Map	Knob 3		Filter Keyboard Tracking
+Map	Knob 4		Filter LFO Amount
+Map	Knob 7		Shifter 1 Semi
+Map	Knob 8		Shifter 2 Semi
+
+Scope	Propellerhead Software	se.propellerheads.Rotor
+Map	Knob 1		Drive
+Map	Knob 2		X-Over Frequency
+Map	Knob 3		Slow Speed
+Map	Knob 4		Fast Speed
+Map	Knob 5		Doppler
+Map	Knob 6		Dry Wet
+Map	Knob 7		Blend
+Map	Knob 8		Volume
+
+Scope	Propellerhead Software	se.propellerheads.MasterCompressor
+Map	Knob 1		Input Gain
+Map	Knob 2		Threshold
+Map	Knob 3		Ratio
+Map	Knob 4		Make-Up Gain
+Map	Knob 5		Mix
+Map	Knob 6		Attack
+Map	Knob 7		Release
+
+Scope	Propellerhead Software	se.propellerheads.ChannelDynamics
+Map	Knob 1		Input Gain
+Map	Knob 2		Comp Ratio
+Map	Knob 3		Comp Threshold
+Map	Knob 4		Comp Release
+Map	Knob 5		Gate Range
+Map	Knob 6		Gate Hold
+Map	Knob 7		Gate Threshold
+Map	Knob 8		Mix
+
+Scope	Propellerhead Software	se.propellerheads.ChannelEQ
+Map	Knob 5		LF Gain
+Map	Knob 1		LF Frequency
+Map	Knob 6		LMF Gain
+Map	Knob 2		LMF Frequency
+Map	Knob 7		HMF Gain
+Map	Knob 3		HMF Frequency
+Map	Knob 8		HF Gain
+Map	Knob 4		HF Frequency
+
+Scope	Propellerhead Software	se.propellerheads.BeatMap
+Map	Knob 1		Kick Density
+Map	Knob 2		Snare Density
+Map	Knob 3		Hat Density
+Map	Knob 4		Perc Density
+Map	Knob 5		X Position
+Map	Knob 6		Y Position
+Map	Knob 7		Shuffle
+Map	Knob 8		Beat Map
+
+Scope	Propellerheads	Kong Drum Designer
+Define Group	Target	Levels	Pitch	Decay	Master
+Map	Knob 1		Drum 1 Level			Levels
+Map	Knob 2		Drum 2 Level			Levels
+Map	Knob 3		Drum 3 Level			Levels
+Map	Knob 4		Drum 4 Level			Levels
+Map	Knob 5		Drum 5 Level			Levels
+Map	Knob 6		Drum 6 Level			Levels
+Map	Knob 7		Drum 7 Level			Levels
+Map	Knob 8		Drum 8 Level			Levels
+Map	Knob 1		Drum 1 Pitch Offset			Pitch
+Map	Knob 2		Drum 2 Pitch Offset			Pitch
+Map	Knob 3		Drum 3 Pitch Offset			Pitch
+Map	Knob 4		Drum 4 Pitch Offset			Pitch
+Map	Knob 5		Drum 5 Pitch Offset			Pitch
+Map	Knob 6		Drum 6 Pitch Offset			Pitch
+Map	Knob 7		Drum 7 Pitch Offset			Pitch
+Map	Knob 8		Drum 8 Pitch Offset			Pitch
+Map	Knob 1		Drum 1 Decay Offset			Decay
+Map	Knob 2		Drum 2 Decay Offset			Decay
+Map	Knob 3		Drum 3 Decay Offset			Decay
+Map	Knob 4		Drum 4 Decay Offset			Decay
+Map	Knob 5		Drum 5 Decay Offset			Decay
+Map	Knob 6		Drum 6 Decay Offset			Decay
+Map	Knob 7		Drum 7 Decay Offset			Decay
+Map	Knob 8		Drum 8 Decay Offset			Decay
+Map	Knob 1		Bus FX P1			Master
+Map	Knob 2		Bus FX P2			Master
+Map	Knob 3		Master FX P1			Master
+Map	Knob 4		Master FX P2			Master
+Map	Knob 8		Master Level			Master
+
+Scope	Propellerheads	Redrum Drum Computer
+Define Group	Target	Level	Pitch	Length
+Map	Knob 1		Drum 1 Level			Level
+Map	Knob 2		Drum 2 Level			Level
+Map	Knob 3		Drum 3 Level			Level
+Map	Knob 4		Drum 4 Level			Level
+Map	Knob 5		Drum 5 Level			Level
+Map	Knob 6		Drum 6 Level			Level
+Map	Knob 7		Drum 7 Level			Level
+Map	Knob 8		Drum 8 Level			Level
+Map	Knob 1		Drum 1 Pitch			Pitch
+Map	Knob 2		Drum 2 Pitch			Pitch
+Map	Knob 3		Drum 3 Pitch			Pitch
+Map	Knob 4		Drum 4 Pitch			Pitch
+Map	Knob 5		Drum 5 Pitch			Pitch
+Map	Knob 6		Drum 6 Pitch			Pitch
+Map	Knob 7		Drum 7 Pitch			Pitch
+Map	Knob 8		Drum 8 Pitch			Pitch
+Map	Knob 1		Drum 1 Length			Length
+Map	Knob 2		Drum 2 Length			Length
+Map	Knob 3		Drum 3 Length			Length
+Map	Knob 4		Drum 4 Length			Length
+Map	Knob 5		Drum 5 Length			Length
+Map	Knob 6		Drum 6 Length			Length
+Map	Knob 7		Drum 7 Length			Length
+Map	Knob 8		Drum 8 Length			Length
+
+Scope	Propellerheads	Dr.REX Loop Player
+Define Group	Target	Filter & Osc	Env
+Map	Knob 1		Filter Freq			Filter & Osc
+Map	Knob 2		Filter Res			Filter & Osc
+Map	Knob 3		Filter Env Amount			Filter & Osc
+Map	Knob 4		Filter Env Vel Amount			Filter & Osc
+Map	Knob 5		Osc Octave			Filter & Osc
+Map	Knob 6		Transpose			Filter & Osc
+Map	Knob 7		LFO1 Rate			Filter & Osc
+Map	Knob 8		LFO1 Amount			Filter & Osc
+Map	Knob 1		Filter Env Attack			Env
+Map	Knob 2		Filter Env Decay			Env
+Map	Knob 3		Filter Env Sustain			Env
+Map	Knob 4		Filter Env Release			Env
+Map	Knob 5		Amp Env Attack			Env
+Map	Knob 6		Amp Env Decay			Env
+Map	Knob 7		Amp Env Sustain			Env
+Map	Knob 8		Amp Env Release			Env
+
+Scope	Propellerhead Software	se.propellerheads.Europa
+Define Group	Target	Osc1	Osc2	Osc3	Filter & Amp	Reverb & Delay
+Map	Knob 1		Osc1 Shape			Osc1
+Map	Knob 2		Osc1 Shape Amt			Osc1
+Map	Knob 3		Osc1 Shape Vel			Osc1
+Map	Knob 5		Osc1 Filter Freq			Osc1
+Map	Knob 6		Osc1 Filter Reso			Osc1
+Map	Knob 7		Osc1 Filter Mod			Osc1
+Map	Knob 4		Osc1 Mod1 Amt			Osc1
+Map	Knob 1		Osc2 Shape			Osc2
+Map	Knob 2		Osc2 Shape Amt			Osc2
+Map	Knob 3		Osc2 Shape Vel			Osc2
+Map	Knob 5		Osc2 Filter Freq			Osc2
+Map	Knob 6		Osc2 Filter Reso			Osc2
+Map	Knob 7		Osc2 Filter Mod			Osc2
+Map	Knob 4		Osc2 Mod1 Amt			Osc2
+Map	Knob 1		Osc3 Shape			Osc3
+Map	Knob 2		Osc3 Shape Amt			Osc3
+Map	Knob 3		Osc3 Shape Vel			Osc3
+Map	Knob 5		Osc3 Filter Freq			Osc3
+Map	Knob 6		Osc3 Filter Reso			Osc3
+Map	Knob 7		Osc3 Filter Mod			Osc3
+Map	Knob 4		Osc3 Mod1 Amt			Osc3
+Map	Knob 7		Filter Freq			Filter & Amp
+Map	Knob 6		Filter Reso			Filter & Amp
+Map	Knob 5		Filter Drive			Filter & Amp
+Map	Knob 1		Amp Attack			Filter & Amp
+Map	Knob 2		Amp Decay			Filter & Amp
+Map	Knob 3		Amp Sustain			Filter & Amp
+Map	Knob 4		Amp Release			Filter & Amp
+Map	Knob 3		Delay Amount			Reverb & Delay
+Map	Knob 2		Delay FB			Reverb & Delay
+Map	Knob 4		Delay Synced Time			Reverb & Delay
+Map	Knob 1		Delay Pan			Reverb & Delay
+Map	Knob 5		Reverb Size			Reverb & Delay
+Map	Knob 6		Reverb Damp			Reverb & Delay
+Map	Knob 7		Reverb Amount			Reverb & Delay
+Map	Knob 8		Master Volume
+
+Scope	Propellerhead Software	se.propellerheads.Grain
+Define Group	Target	Main	LFO1/Mod1	LFO2/Mod2	LFO3/Mod3	Filter	Amp & Effect	Reverb & Delay	Dist & Comp
+Map	Knob 1		Position			Main
+Map	Knob 2		End Pos			Main
+Map	Knob 3		Speed			Main
+Map	Knob 4		Jitter			Main
+Map	Knob 5		Oct			Main
+Map	Knob 6		Semi			Main
+Map	Knob 7		Tune			Main
+Map	Knob 1		Mod1 Dest1 Amt			LFO1/Mod1
+Map	Knob 2		Mod1 Dest2 Amt			LFO1/Mod1
+Map	Knob 3		Mod1 Scale Amt			LFO1/Mod1
+Map	Knob 4		Mod1 Scale			LFO1/Mod1
+Map	Knob 5		LFO 1 Rate			LFO1/Mod1
+Map	Knob 6		LFO 1 SyncRate			LFO1/Mod1
+Map	Knob 7		LFO 1 Delay			LFO1/Mod1
+Map	Knob 1		Mod2 Dest1 Amt			LFO2/Mod2
+Map	Knob 2		Mod2 Dest2 Amt			LFO2/Mod2
+Map	Knob 3		Mod2 Scale Amt			LFO2/Mod2
+Map	Knob 4		Mod2 Scale			LFO2/Mod2
+Map	Knob 5		LFO 2 Rate			LFO2/Mod2
+Map	Knob 6		LFO 2 SyncRate			LFO2/Mod2
+Map	Knob 7		LFO 2 Delay			LFO2/Mod2
+Map	Knob 1		Mod3 Dest1 Amt			LFO3/Mod3
+Map	Knob 2		Mod3 Dest2 Amt			LFO3/Mod3
+Map	Knob 3		Mod3 Scale Amt			LFO3/Mod3
+Map	Knob 4		Mod3 Scale			LFO3/Mod3
+Map	Knob 5		LFO 3 Rate			LFO3/Mod3
+Map	Knob 6		LFO 3 SyncRate			LFO3/Mod3
+Map	Knob 7		LFO 3 Delay			LFO3/Mod3
+Map	Knob 1		Filter Freq			Filter
+Map	Knob 2		Filter Reso			Filter
+Map	Knob 3		Semi			Filter
+Map	Knob 4		Tune			Filter
+Map	Knob 5		Filter Env2			Filter
+Map	Knob 6		Filter Vel			Filter
+Map	Knob 7		Filter Kbd			Filter
+Map	Knob 5		Mod Effect Amount			Amp & Effect
+Map	Knob 6		Mod Effect Rate			Amp & Effect
+Map	Knob 7		Mod Effect Depth			Amp & Effect
+Map	Knob 1		Amp Attack			Amp & Effect
+Map	Knob 2		Amp Decay			Amp & Effect
+Map	Knob 3		Amp Sustain			Amp & Effect
+Map	Knob 4		Amp Release			Amp & Effect
+Map	Knob 1		Delay Amount			Reverb & Delay
+Map	Knob 2		Delay FB			Reverb & Delay
+Map	Knob 3		Delay Time			Reverb & Delay
+Map	Knob 4		Delay Synced Time			Reverb & Delay
+Map	Knob 5		Reverb Size			Reverb & Delay
+Map	Knob 6		Reverb Damp			Reverb & Delay
+Map	Knob 7		Reverb Amount			Reverb & Delay
+Map	Knob 1		Comp Attack			Dist & Comp
+Map	Knob 2		Comp Threshold			Dist & Comp
+Map	Knob 3		Dist Drive			Dist & Comp
+Map	Knob 4		Dist Tone			Dist & Comp
+Map	Knob 5		Comp Release			Dist & Comp
+Map	Knob 6		Comp Ratio			Dist & Comp
+Map	Knob 7		Dist Amount			Dist & Comp
+Map	Knob 8		Master Volume
+
+Scope	Propellerhead Software	se.propellerheads.Mimic
+Define Group	Target	1	2	3	4	5	6	7	8
+Map	Knob 1		Filter Freq 1			1
+Map	Knob 2		Filter Reso 1			1
+Map	Knob 3		Stretch Speed 1			1
+Map	Knob 4		Loop Length 1			1
+Map	Knob 5		Start Pos 1			1
+Map	Knob 6		End Pos 1			1
+Map	Knob 7		Pitch Semi 1			1
+Map	Knob 1		Filter Freq 2			2
+Map	Knob 2		Filter Reso 2			2
+Map	Knob 3		Stretch Speed 2			2
+Map	Knob 4		Loop Length 2			2
+Map	Knob 5		Start Pos 2			2
+Map	Knob 6		End Pos 2			2
+Map	Knob 7		Pitch Semi 2			2
+Map	Knob 1		Filter Freq 3			3
+Map	Knob 2		Filter Reso 3			3
+Map	Knob 3		Stretch Speed 3			3
+Map	Knob 4		Loop Length 3			3
+Map	Knob 5		Start Pos 3			3
+Map	Knob 6		End Pos 3			3
+Map	Knob 7		Pitch Semi 3			3
+Map	Knob 1		Filter Freq 4			4
+Map	Knob 2		Filter Reso 4			4
+Map	Knob 3		Stretch Speed 4			4
+Map	Knob 4		Loop Length 4			4
+Map	Knob 5		Start Pos 4			4
+Map	Knob 6		End Pos 4			4
+Map	Knob 7		Pitch Semi 4			4
+Map	Knob 1		Filter Freq 5			5
+Map	Knob 2		Filter Reso 5			5
+Map	Knob 3		Stretch Speed 5			5
+Map	Knob 4		Loop Length 5			5
+Map	Knob 5		Start Pos 5			5
+Map	Knob 6		End Pos 5			5
+Map	Knob 7		Pitch Semi 5			5
+Map	Knob 1		Filter Freq 6			6
+Map	Knob 2		Filter Reso 6			6
+Map	Knob 3		Stretch Speed 6			6
+Map	Knob 4		Loop Length 6			6
+Map	Knob 5		Start Pos 6			6
+Map	Knob 6		End Pos 6			6
+Map	Knob 7		Pitch Semi 6			6
+Map	Knob 1		Filter Freq 7			7
+Map	Knob 2		Filter Reso 7			7
+Map	Knob 3		Stretch Speed 7			7
+Map	Knob 4		Loop Length 7			7
+Map	Knob 5		Start Pos 7			7
+Map	Knob 6		End Pos 7			7
+Map	Knob 7		Pitch Semi 7			7
+Map	Knob 1		Filter Freq 8			8
+Map	Knob 2		Filter Reso 8			8
+Map	Knob 3		Stretch Speed 8			8
+Map	Knob 4		Loop Length 8			8
+Map	Knob 5		Start Pos 8			8
+Map	Knob 6		End Pos 8			8
+Map	Knob 7		Pitch Semi 8			8
+Map	Knob 8		Master Volume
+
+Scope	Propellerhead Software	se.propellerheads.Monotone
+Map	Knob 5		Osc Mix
+Map	Knob 6		Filter Freq
+Map	Knob 1		Amp Attack
+Map	Knob 2		Amp Decay
+Map	Knob 3		Amp Sustain
+Map	Knob 4		Amp Release
+Map	Knob 7		Chorus Amount
+Map	Knob 8		Volume
+
+Scope	Propellerheads	ID8 Instrument Device
+Map	Knob 1		Parameter 1
+Map	Knob 2		Parameter 2
+Map	Knob 3		Volume
+
+Scope	Propellerhead Software	se.propellerheads.DMFC
+Map	Knob 1		Master_Filter
+Map	Knob 2		Master_Pitch
+Map	Knob 3		Master_Delay
+Map	Knob 4		Master_Reverb
+Map	Knob 5		Master_Decay
+Map	Knob 6		Master_Distortion
+Map	Knob 7		Master_Volume
+Map	Knob 8		Reverb_Decay
+
+Scope	Propellerhead Software	se.propellerheads.radicalpiano
+Map	Knob 1		Character
+Map	Knob 2		Microphone and Instrument Blend
+Map	Knob 3		EQ Lo Gain
+Map	Knob 4		EQ Mid Gain
+Map	Knob 5		EQ Hi Gain
+Map	Knob 7		Compression Amount
+Map	Knob 6		Ambience Level
+Map	Knob 8		Master Volume
+
+Scope	Propellerhead Software	se.propellerheads.Klang
+Map	Knob 1		Filter_Cutoff
+Map	Knob 2		Filter_Reso
+Map	Knob 3		Filter_Velocity
+Map	Knob 4		Filter_KeyFollow
+Map	Knob 5		Delay_Time
+Map	Knob 6		Synced_Delay_Time
+Map	Knob 7		Delay_Feedback
+Map	Knob 8		Master_Volume
+
+Scope	Propellerhead Software	se.propellerheads.Pangea
+Map	Knob 1		Filter_Cutoff
+Map	Knob 2		Filter_Reso
+Map	Knob 3		Filter_Velocity
+Map	Knob 4		Filter_KeyFollow
+Map	Knob 5		Delay_Time
+Map	Knob 6		Synced_Delay_Time
+Map	Knob 7		Delay_Feedback
+Map	Knob 8		Master_Volume
+
+Scope	Propellerhead Software	se.propellerheads.Humana
+Map	Knob 1		Filter_Cutoff
+Map	Knob 2		Filter_Reso
+Map	Knob 3		Filter_Velocity
+Map	Knob 4		Filter_KeyFollow
+Map	Knob 5		Delay_Time
+Map	Knob 6		Synced_Delay_Time
+Map	Knob 7		Delay_Feedback
+Map	Knob 8		Master_Volume
+
+Scope	Propellerheads	NN-XT Advanced Sampler
+Map	Knob 1		Filter Freq
+Map	Knob 2		Filter Res
+Map	Knob 5		Amp Env Attack
+Map	Knob 6		Amp Env Decay
+Map	Knob 7		Amp Env Release
+Map	Knob 8		Mod Env Decay
+Map	Knob 3		External Controller
+Map	Knob 4		Master Volume
+
+Scope	Propellerheads	NN19 Digital Sampler
+Define Group	Target	Filter	Env & Mod
+Map	Knob 1		Filter Freq			Filter
+Map	Knob 2		Filter Res			Filter
+Map	Knob 3		Filter Kbd Track			Filter
+Map	Knob 4		Filter Env Amount			Filter
+Map	Knob 5		Filter Env Attack			Filter
+Map	Knob 6		Filter Env Decay			Filter
+Map	Knob 7		Filter Env Sustain			Filter
+Map	Knob 8		Filter Env Release			Filter
+Map	Knob 1		Osc Octave			Env & Mod
+Map	Knob 2		Portamento			Env & Mod
+Map	Knob 3		LFO Rate			Env & Mod
+Map	Knob 4		LFO Amount			Env & Mod
+Map	Knob 5		Amp Env Attack			Env & Mod
+Map	Knob 6		Amp Env Decay			Env & Mod
+Map	Knob 7		Amp Env Sustain			Env & Mod
+Map	Knob 8		Amp Env Release			Env & Mod
+
+Scope	Propellerhead Software	se.propellerheads.Algoritm
+Map	Knob 1		EQ Freq
+Map	Knob 2		EQ Gain
+Map	Knob 3		EQ Hi Gain
+Map	Knob 4		EQ Lo Gain
+Map	Knob 5		Delay Amount
+Map	Knob 6		Delay Feedback
+Map	Knob 7		Delay Synced Time
+Map	Knob 8		Delay Time
+
+Scope	Propellerhead Software	se.propellerheads.Complex
+Map	Knob 1		Filter Freq
+Map	Knob 2		Filter Freq Amt1
+Map	Knob 3		Filter Freq Amt2
+Map	Knob 4		Filter FM Amt
+Map	Knob 5		Noise Color
+Map	Knob 6		Noise Color Amt
+Map	Knob 7		LFO Rate
+Map	Knob 8		Osc Mix
+
+Scope	Propellerhead Software	se.propellerheads.Friktion
+Map	Knob 1		EQ Lo Gain
+Map	Knob 2		EQ Hi Gain
+Map	Knob 5		Vibrato Amount
+Map	Knob 4		Reverb Level
+Map	Knob 3		Reverb Early Reflections
+Map	Knob 6		Resonator Size
+Map	Knob 7		Resonator Smear
+Map	Knob 8		Master Level
+
+Scope	Propellerhead Software	se.propellerheads.layers
+Map	Knob 1		GL_PBRange
+Map	Knob 2		GL_LFO2_Rate
+Map	Knob 3		GL_LFO2_Wave
+Map	Knob 4		GL_Delay_FB
+Map	Knob 5		GL_Delay_TimeSec
+Map	Knob 6		GL_Reverb_Time
+Map	Knob 7		GL_Reverb_LowCut
+Map	Knob 8		Main_Volume
+
+Scope	Propellerhead Software	se.propellerheads.layers_wave_edition
+Map	Knob 1		GL_PBRange
+Map	Knob 2		GL_LFO2_Rate
+Map	Knob 3		GL_LFO2_Wave
+Map	Knob 4		GL_Delay_FB
+Map	Knob 5		GL_Delay_TimeSec
+Map	Knob 6		GL_Reverb_Time
+Map	Knob 7		GL_Reverb_LowCut
+Map	Knob 8		Main_Volume
+
+Scope	Propellerhead Software	se.propellerheads.Parsec
+Map	Knob 1		A Cutoff Freq
+Map	Knob 2		A Cutoff Slope
+Map	Knob 3		A Mod1 X
+Map	Knob 4		A Gen X
+Map	Knob 5		Amp Attack
+Map	Knob 6		Amp Decay
+Map	Knob 7		Amp Sustain
+Map	Knob 8		Amp Release
+
+Scope	Propellerhead Software	se.propellerheads.ProcessedPianos
+Map	Knob 1		EQ_LowFreq
+Map	Knob 5		EQ_LowGain
+Map	Knob 2		EQ_LoMidFreq
+Map	Knob 6		EQ_LoMidGain
+Map	Knob 3		EQ_HiMidFreq
+Map	Knob 7		EQ_HiMidGain
+Map	Knob 4		EQ_HiFreq
+Map	Knob 8		EQ_HiGain
+
+Scope	Propellerhead Software	se.propellerheads.RadicalKeys
+Map	Knob 1		Eq Lo Gain
+Map	Knob 2		Eq Mid Gain
+Map	Knob 3		Eq Hi Gain
+Map	Knob 4		Master Volume
+Map	Knob 5		Instrument Blend
+Map	Knob 6		Comp Fast
+Map	Knob 7		Comp Amount
+Map	Knob 8		Character
+
+Scope	Propellerhead Software	se.propellerheads.RDK
+Map	Knob 1		bd_mix_vol
+Map	Knob 2		sd_mix_vol
+Map	Knob 3		tm_mix_vol
+Map	Knob 4		hh_mix_vol
+Map	Knob 5		oh_mix_vol
+Map	Knob 6		am_mix_vol
+Map	Knob 7		mst_mix_vol
+
+Scope	Propellerhead Software	se.propellerheads.ElectricBass
+Map	Knob 1		EQ Band 1
+Map	Knob 5		EQ Band 2
+Map	Knob 2		EQ Band 3
+Map	Knob 6		EQ Band 4
+Map	Knob 3		EQ Band 5
+Map	Knob 7		EQ Gain
+Map	Knob 4		Bass
+Map	Knob 8		Volume
+
+Scope	Propellerhead Software	se.propellerheads.ScenicHybrid
+Map	Knob 1		Macro1
+Map	Knob 2		Macro2
+Map	Knob 3		Macro3
+Map	Knob 4		Engine_Balance
+Map	Knob 8		MasterFX_Volume
+
+Scope	Propellerhead Software	se.propellerheads.Umpf
+Map	Knob 1		Compressor_Threshold
+Map	Knob 2		Compressor_Ratio
+Map	Knob 3		Delay_Time
+Map	Knob 4		Delay_Synced_Time
+Map	Knob 5		Delay_Feedback
+Map	Knob 6		LFO_1_Rate
+Map	Knob 7		LFO_2_Rate
+Map	Knob 8		Master_Volume
+
+Scope	Propellerhead Software	se.propellerheads.UmpfRetroBeats
+Map	Knob 1		Tape_Master_Drive
+Map	Knob 2		Tape_Master_Compress
+Map	Knob 3		Delay_Time
+Map	Knob 4		Delay_Synced_Time
+Map	Knob 5		Delay_Feedback
+Map	Knob 6		Gated_Reverb_Hold
+Map	Knob 7		Gated_Reverb_Decay
+Map	Knob 8		Master_Volume
+
+Scope	Propellerhead Software	se.propellerheads.Objekt			
+Map	Knob 1		Impact Freq
+Map	Knob 2		Modal Decay
+Map	Knob 3		Obj 1 Decay
+Map	Knob 4		Obj 1 Damping Hi Freq
+Map	Knob 5		Obj 1 Damping Hi Slope
+Map	Knob 6		Obj 2 Decay
+Map	Knob 7		Obj 2 Damping Hi Freq
+Map	Knob 8		Obj 2 Damping Hi Slope	
+
+Scope	Propellerhead Software	se.propellerheads.Polytone
+Define Group	Layer	LayerA	LayerB
+Map	Knob 1		Osc 1 Shape A			LayerA
+Map	Knob 2		Osc 2 Shape A			LayerA
+Map	Knob 3		FM Amt A			LayerA
+Map	Knob 4		Osc Mix A			LayerA
+Map	Knob 5		Filter Freq A			LayerA
+Map	Knob 6		Filter Reso A			LayerA
+Map	Knob 7		Layer Balance			LayerA
+Map	Knob 8		Master Volume			LayerA
+Map	Knob 1		Osc 1 Shape B			LayerB
+Map	Knob 2		Osc 2 Shape B			LayerB
+Map	Knob 3		FM Amt B			LayerB
+Map	Knob 4		Osc Mix B			LayerB
+Map	Knob 5		Filter Freq B			LayerB
+Map	Knob 6		Filter Reso B			LayerB
+Map	Knob 7		Chorus Amount			LayerB
+Map	Knob 8		Reverb Amount			LayerB
+
+Scope	Propellerhead Software	se.propellerheads.Ripley
+Define Group	Section	Delay	FX
+Map	Knob 1		Delay Time			Delay
+Map	Knob 2		Synced Time			Delay
+Map	Knob 3		Time Multiplier			Delay
+Map	Knob 4		Feedback			Delay
+Map	Knob 5		Band Freq Shift			Delay
+Map	Knob 6		Lo Cut Freq			Delay
+Map	Knob 7		Hi Cut Freq			Delay
+Map	Knob 8		Dry-Wet			Delay
+Map	Knob 1		Space Amount			FX
+Map	Knob 2		Space Decay			FX
+Map	Knob 3		Noise Amount			FX
+Map	Knob 4		Dist Dry-Wet			FX
+Map	Knob 5		Dist Drive			FX
+Map	Knob 6		Digital Dry-Wet			FX
+Map	Knob 7		Rate Crush			FX
+Map	Knob 8		Bit Crush			FX
+
+Scope	Propellerhead Software	se.propellerheads.Osmium
+Define Group	Effects	Dist	Filter
+Map	Knob 1		Drive 2			Dist
+Map	Knob 2		Tone 2			Dist
+Map	Knob 3		Overdrive Type 2			Dist
+Map	Knob 4		Fold Type 2			Dist
+Map	Knob 5		Bitcrush Rate 2			Dist
+Map	Knob 6		Bitcrush Bits 2			Dist
+Map	Knob 7		Mix 2			Dist
+Map	Knob 8		Level 2			Dist
+Map	Knob 1		Morph X 2			Filter
+Map	Knob 2		Morph Y 2			Filter
+Map	Knob 3		Morph Width 2			Filter
+Map	Knob 4		Morph Type 2			Filter
+Map	Knob 5		Filter Reso 2			Filter
+Map	Knob 6		Filter Freq 2			Filter
+Map	Knob 7		DryWet			Filter
+Map	Knob 8		Master Level			Filter
+
+Scope	Propellerhead Software	se.propellerheads.ArpeggioLab
+Define Group	Layer	LayerA	LayerB
+Map	Knob 1		Anchor Pattern			LayerA
+Map	Knob 2		Anchor Note Length			LayerA
+Map	Knob 3		Anchor Octave			LayerA
+Map	Knob 4		Anchor Velocity Offset			LayerA
+Map	Knob 5		Movement Density			LayerA
+Map	Knob 6		Movement Shape			LayerA
+Map	Knob 7		Movement Shift Rhythm			LayerA
+Map	Knob 8		Steps			LayerA
+Map	Knob 1		Movement Note Length			LayerB
+Map	Knob 2		Movement Velocity Offset			LayerB
+Map	Knob 3		Movement Octave			LayerB
+Map	Knob 4		Movement Humanize			LayerB
+Map	Knob 5		Rhythm Mod Amount			LayerB
+Map	Knob 6		Rhythm Mod Notes			LayerB
+Map	Knob 7		Octave Mod Amount			LayerB
+Map	Knob 8		Octave Mod Transpose			LayerB
 
