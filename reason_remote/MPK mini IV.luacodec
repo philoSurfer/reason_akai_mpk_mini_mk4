@@ -1,4 +1,4 @@
-version={1,0,0}
+version={1,0,1}
 
 function remote_supported_control_surfaces()
     local surfaces = {
@@ -6,9 +6,16 @@ function remote_supported_control_surfaces()
             manufacturer = "Akai",
             model = "MPK mini IV",
             source = "MPK mini IV.lua",
-            in_ports = {{ description = "In Port" }},
-            out_ports = {{ description = "Out Port", optional = true }},
+            -- Two input ports: DAW Port (port=1) for transport/bank, MIDI Port (port=2) for notes/knobs
+            in_ports = {
+                { description = "MPK mini IV DAW Port" },
+                { description = "MPK mini IV MIDI Port" }
+            },
+            out_ports = {
+                { description = "MPK mini IV Software Port", optional = true }
+            },
             has_keyboard = true,
+            setup_info_text = "For Kong/Redrum compatibility, select preset 2 on the controller (PROG SELECT + Pad 2).",
         },
     }
     return surfaces

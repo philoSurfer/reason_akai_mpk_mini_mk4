@@ -24,6 +24,8 @@ Map	Redo		Redo
 Map	Tap Tempo		Tap Tempo
 Map	Click		Click On/Off
 Map	Quantize		Auto-quantize
+Map	Bank -		Select Prev Patch for Target Device
+Map	Bank +		Select Next Patch for Target Device
 
 
 Scope	Propellerheads	RPG-8 Monophonic Arpeggiator

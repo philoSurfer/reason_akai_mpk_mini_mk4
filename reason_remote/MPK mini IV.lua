@@ -19,6 +19,10 @@ function remote_init()
         { name="Tap Tempo", input="button" },
         { name="Click", input="button" },
 
+        -- Bank navigation
+        { name="Bank -", input="button" },
+        { name="Bank +", input="button" },
+
         -- Joystick
         { name="Pitch Bend", input="value", min=0, max=16383 },
         { name="Mod Wheel", input="value", min=0, max=127 },
@@ -45,29 +49,33 @@ function remote_init()
     end
 
     local inputs = {
-        -- Transport (directly mapped ones)
-        { pattern="b0 4a xx", name="Loop" },        -- CC 74
-        { pattern="b0 4e xx", name="Forward" },     -- CC 78
+        -- Transport buttons come from DAW Port (port=1)
+        { pattern="b0 4a xx", name="Loop", port=1 },        -- CC 74
+        { pattern="b0 4e xx", name="Forward", port=1 },     -- CC 78
 
-        -- Joystick
-        { pattern="e? xx yy", name="Pitch Bend", value="y*128 + x" },
-        { pattern="b? 01 xx", name="Mod Wheel" },
+        -- Bank navigation buttons come from DAW Port (port=1)
+        { pattern="b0 0f xx", name="Bank -", port=1 },      -- CC 15
+        { pattern="b0 10 xx", name="Bank +", port=1 },      -- CC 16
 
-        -- Knobs (Channel 1, CC 24-31)
-        { pattern="b0 18 xx", name="Knob 1" },
-        { pattern="b0 19 xx", name="Knob 2" },
-        { pattern="b0 1a xx", name="Knob 3" },
-        { pattern="b0 1b xx", name="Knob 4" },
-        { pattern="b0 1c xx", name="Knob 5" },
-        { pattern="b0 1d xx", name="Knob 6" },
-        { pattern="b0 1e xx", name="Knob 7" },
-        { pattern="b0 1f xx", name="Knob 8" },
+        -- Joystick comes from MIDI Port (port=2)
+        { pattern="e? xx yy", name="Pitch Bend", value="y*128 + x", port=2 },
+        { pattern="b? 01 xx", name="Mod Wheel", port=2 },
 
-        -- Keyboard handles ALL notes including channel 10 pads
+        -- Knobs (Channel 1, CC 24-31) come from MIDI Port (port=2)
+        { pattern="b0 18 xx", name="Knob 1", port=2 },
+        { pattern="b0 19 xx", name="Knob 2", port=2 },
+        { pattern="b0 1a xx", name="Knob 3", port=2 },
+        { pattern="b0 1b xx", name="Knob 4", port=2 },
+        { pattern="b0 1c xx", name="Knob 5", port=2 },
+        { pattern="b0 1d xx", name="Knob 6", port=2 },
+        { pattern="b0 1e xx", name="Knob 7", port=2 },
+        { pattern="b0 1f xx", name="Knob 8", port=2 },
+
+        -- Keyboard handles ALL notes including channel 10 pads (from MIDI Port)
         -- Pads will play as notes on the target instrument (Kong, Redrum, etc.)
-        {pattern="8? xx yy", name="Keyboard", value="0", note="x", velocity="64"},
-        {pattern="9? xx 00", name="Keyboard", value="0", note="x", velocity="64"},
-        {pattern="<100x>? yy zz", name="Keyboard"},
+        {pattern="8? xx yy", name="Keyboard", value="0", note="x", velocity="64", port=2},
+        {pattern="9? xx 00", name="Keyboard", value="0", note="x", velocity="64", port=2},
+        {pattern="<100x>? yy zz", name="Keyboard", port=2},
     }
     remote.define_auto_inputs(inputs)
 end
@@ -95,57 +103,60 @@ function remote_process_midi(event)
     -- Channel 10 notes (pads) pass through to auto_inputs -> Keyboard
     -- Don't intercept them here - let keyboard patterns handle them
 
-    -- Transport CC handling only
-    local ret = remote.match_midi("b0 xx yy", event)
-    if ret then
-        local cc = ret.x
-        local value = ret.y
+    -- Transport CC handling - only process events from DAW Port (port=1)
+    -- Note: event.port is 1-indexed in Reason Remote
+    if event.port == 1 then
+        local ret = remote.match_midi("b0 xx yy", event)
+        if ret then
+            local cc = ret.x
+            local value = ret.y
 
-        -- CC 76 = Play/Stop toggle button
-        if cc == 0x4c and value > 0 then
-            g_is_playing = not g_is_playing
-            if g_is_playing then
-                remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Play"], value=1 })
-            else
-                remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Stop"], value=1 })
+            -- CC 76 = Play/Stop toggle button
+            if cc == 0x4c and value > 0 then
+                g_is_playing = not g_is_playing
+                if g_is_playing then
+                    remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Play"], value=1 })
+                else
+                    remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Stop"], value=1 })
+                end
+                return true
             end
-            return true
-        end
 
-        -- CC 17 = SHIFT button
-        if cc == 0x11 then
-            g_shift_held = (value > 0)
-            return true
-        end
-
-        -- CC 77 = Record button (or Quantize when SHIFT held)
-        if cc == 0x4d and value > 0 then
-            if g_shift_held then
-                remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Quantize"], value=1 })
-            else
-                remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Record"], value=1 })
+            -- CC 17 = SHIFT button
+            if cc == 0x11 then
+                g_shift_held = (value > 0)
+                return true
             end
-            return true
-        end
 
-        -- CC 73 = Undo button (or Redo when SHIFT held)
-        if cc == 0x49 and value > 0 then
-            if g_shift_held then
-                remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Redo"], value=1 })
-            else
-                remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Undo"], value=1 })
+            -- CC 77 = Record button (or Quantize when SHIFT held)
+            if cc == 0x4d and value > 0 then
+                if g_shift_held then
+                    remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Quantize"], value=1 })
+                else
+                    remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Record"], value=1 })
+                end
+                return true
             end
-            return true
-        end
 
-        -- CC 11 = Tap Tempo button (or Click when SHIFT held)
-        if cc == 0x0b then
-            if g_shift_held and value > 0 then
-                remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Click"], value=1 })
-            else
-                remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Tap Tempo"], value=value })
+            -- CC 73 = Undo button (or Redo when SHIFT held)
+            if cc == 0x49 and value > 0 then
+                if g_shift_held then
+                    remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Redo"], value=1 })
+                else
+                    remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Undo"], value=1 })
+                end
+                return true
             end
-            return true
+
+            -- CC 11 = Tap Tempo button (or Click when SHIFT held)
+            if cc == 0x0b then
+                if g_shift_held and value > 0 then
+                    remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Click"], value=1 })
+                else
+                    remote.handle_input({ time_stamp=event.time_stamp, item=g_items["Tap Tempo"], value=value })
+                end
+                return true
+            end
         end
     end
 
