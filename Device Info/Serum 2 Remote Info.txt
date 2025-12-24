@@ -1,0 +1,2646 @@
+Scope
+Manufacturer	Model
+Xfer Records	vst3.56534558667350736572756D20320000.Serum 2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Main Vol	0	4194304	Value	ValueOutput
+Main Tuning	0	4194304	Value	ValueOutput
+Amp	0	4194304	Value	ValueOutput
+Porta Time	0	4194304	Value	ValueOutput
+Porta Curve	0	4194304	Value	ValueOutput
+Bend Up	0	48	Value	ValueOutput
+Bend Down	0	48	Value	ValueOutput
+Pitch Bend	0	4194304	Value	ValueOutput
+Mod Wheel	0	4194304	Value	ValueOutput
+Mono Toggle	0	1	Value	ValueOutput
+Legato	0	1	Value	ValueOutput
+Porta Always	0	1	Value	ValueOutput
+Porta Scaled	0	1	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Swing Div	0	6	Value	ValueOutput
+Transpose	0	48	Value	ValueOutput
+Bypass	0	1	Value	ValueOutput
+Direct Vol	0	4194304	Value	ValueOutput
+Bus 1 Vol	0	4194304	Value	ValueOutput
+Bus 2 Vol	0	4194304	Value	ValueOutput
+A Enable	0	1	Value	ValueOutput
+A Level	0	4194304	Value	ValueOutput
+A Pan	0	4194304	Value	ValueOutput
+A Octave	0	8	Value	ValueOutput
+A Semi	0	24	Value	ValueOutput
+A Fine	0	4194304	Value	ValueOutput
+A Ratio	0	4194304	Value	ValueOutput
+A Hz Offset	0	4194304	Value	ValueOutput
+A Coarse Pitch	0	4194304	Value	ValueOutput
+A Pitch Track	0	1	Value	ValueOutput
+A Start	0	4194304	Value	ValueOutput
+A End	0	4194304	Value	ValueOutput
+A Reverse	0	1	Value	ValueOutput
+A Scan Rate	0	4194304	Value	ValueOutput
+A Scan BPM Rate	0	6	Value	ValueOutput
+A Scan Key Track	0	1	Value	ValueOutput
+A Position	0	4194304	Value	ValueOutput
+A Loop Start	0	4194304	Value	ValueOutput
+A Loop End	0	4194304	Value	ValueOutput
+A Loop X-Fade	0	4194304	Value	ValueOutput
+A Loop Mode	0	4	Value	ValueOutput
+A Relative Loop	0	1	Value	ValueOutput
+A Single Slice	0	99	Value	ValueOutput
+A Slice Play Mode	0	1	Value	ValueOutput
+A Unison	0	15	Value	ValueOutput
+A Uni Stack	0	8	Value	ValueOutput
+A Uni Detune	0	4194304	Value	ValueOutput
+A Uni Blend	0	4194304	Value	ValueOutput
+A Uni Width	0	4194304	Value	ValueOutput
+A Uni Span	0	4194304	Value	ValueOutput
+A Uni Rand Start	0	4194304	Value	ValueOutput
+A Uni Warp	0	4194304	Value	ValueOutput
+A Uni Warp 2	0	4194304	Value	ValueOutput
+A Warp	0	4194304	Value	ValueOutput
+A Warp Var	0	4194304	Value	ValueOutput
+A Warp Mode	0	69	Value	ValueOutput
+A Warp 2	0	4194304	Value	ValueOutput
+A Warp 2 Var	0	4194304	Value	ValueOutput
+A Warp 2 Mode	0	69	Value	ValueOutput
+A WT Pos	0	4194304	Value	ValueOutput
+A Uni WT Pos	0	4194304	Value	ValueOutput
+A Phase	0	4194304	Value	ValueOutput
+A Rand Phase	0	4194304	Value	ValueOutput
+A Param44	0	4194304	Value	ValueOutput
+A Param45	0	4194304	Value	ValueOutput
+A Param46	0	4194304	Value	ValueOutput
+A Param47	0	4194304	Value	ValueOutput
+A Param48	0	4194304	Value	ValueOutput
+A Param49	0	4194304	Value	ValueOutput
+A Param50	0	4194304	Value	ValueOutput
+A Param51	0	4194304	Value	ValueOutput
+A Param52	0	4194304	Value	ValueOutput
+A Param53	0	4194304	Value	ValueOutput
+A Param54	0	4194304	Value	ValueOutput
+A Param55	0	4194304	Value	ValueOutput
+B Enable	0	1	Value	ValueOutput
+B Level	0	4194304	Value	ValueOutput
+B Pan	0	4194304	Value	ValueOutput
+B Octave	0	8	Value	ValueOutput
+B Semi	0	24	Value	ValueOutput
+B Fine	0	4194304	Value	ValueOutput
+B Ratio	0	4194304	Value	ValueOutput
+B Hz Offset	0	4194304	Value	ValueOutput
+B Coarse Pitch	0	4194304	Value	ValueOutput
+B Pitch Track	0	1	Value	ValueOutput
+B Start	0	4194304	Value	ValueOutput
+B End	0	4194304	Value	ValueOutput
+B Reverse	0	1	Value	ValueOutput
+B Scan Rate	0	4194304	Value	ValueOutput
+B Scan BPM Rate	0	6	Value	ValueOutput
+B Scan Key Track	0	1	Value	ValueOutput
+B Position	0	4194304	Value	ValueOutput
+B Loop Start	0	4194304	Value	ValueOutput
+B Loop End	0	4194304	Value	ValueOutput
+B Loop X-Fade	0	4194304	Value	ValueOutput
+B Loop Mode	0	4	Value	ValueOutput
+B Relative Loop	0	1	Value	ValueOutput
+B Single Slice	0	99	Value	ValueOutput
+B Slice Play Mode	0	1	Value	ValueOutput
+B Unison	0	15	Value	ValueOutput
+B Uni Stack	0	8	Value	ValueOutput
+B Uni Detune	0	4194304	Value	ValueOutput
+B Uni Blend	0	4194304	Value	ValueOutput
+B Uni Width	0	4194304	Value	ValueOutput
+B Uni Span	0	4194304	Value	ValueOutput
+B Uni Rand Start	0	4194304	Value	ValueOutput
+B Uni Warp	0	4194304	Value	ValueOutput
+B Uni Warp 2	0	4194304	Value	ValueOutput
+B Warp	0	4194304	Value	ValueOutput
+B Warp Var	0	4194304	Value	ValueOutput
+B Warp Mode	0	69	Value	ValueOutput
+B Warp 2	0	4194304	Value	ValueOutput
+B Warp 2 Var	0	4194304	Value	ValueOutput
+B Warp 2 Mode	0	69	Value	ValueOutput
+B WT Pos	0	4194304	Value	ValueOutput
+B Uni WT Pos	0	4194304	Value	ValueOutput
+B Phase	0	4194304	Value	ValueOutput
+B Rand Phase	0	4194304	Value	ValueOutput
+B Param44	0	4194304	Value	ValueOutput
+B Param45	0	4194304	Value	ValueOutput
+B Param46	0	4194304	Value	ValueOutput
+B Param47	0	4194304	Value	ValueOutput
+B Param48	0	4194304	Value	ValueOutput
+B Param49	0	4194304	Value	ValueOutput
+B Param50	0	4194304	Value	ValueOutput
+B Param51	0	4194304	Value	ValueOutput
+B Param52	0	4194304	Value	ValueOutput
+B Param53	0	4194304	Value	ValueOutput
+B Param54	0	4194304	Value	ValueOutput
+B Param55	0	4194304	Value	ValueOutput
+C Enable	0	1	Value	ValueOutput
+C Level	0	4194304	Value	ValueOutput
+C Pan	0	4194304	Value	ValueOutput
+C Octave	0	8	Value	ValueOutput
+C Semi	0	24	Value	ValueOutput
+C Fine	0	4194304	Value	ValueOutput
+C Ratio	0	4194304	Value	ValueOutput
+C Hz Offset	0	4194304	Value	ValueOutput
+C Coarse Pitch	0	4194304	Value	ValueOutput
+C Pitch Track	0	1	Value	ValueOutput
+C Start	0	4194304	Value	ValueOutput
+C End	0	4194304	Value	ValueOutput
+C Reverse	0	1	Value	ValueOutput
+C Scan Rate	0	4194304	Value	ValueOutput
+C Scan BPM Rate	0	6	Value	ValueOutput
+C Scan Key Track	0	1	Value	ValueOutput
+C Position	0	4194304	Value	ValueOutput
+C Loop Start	0	4194304	Value	ValueOutput
+C Loop End	0	4194304	Value	ValueOutput
+C Loop X-Fade	0	4194304	Value	ValueOutput
+C Loop Mode	0	4	Value	ValueOutput
+C Relative Loop	0	1	Value	ValueOutput
+C Single Slice	0	99	Value	ValueOutput
+C Slice Play Mode	0	1	Value	ValueOutput
+C Unison	0	15	Value	ValueOutput
+C Uni Stack	0	8	Value	ValueOutput
+C Uni Detune	0	4194304	Value	ValueOutput
+C Uni Blend	0	4194304	Value	ValueOutput
+C Uni Width	0	4194304	Value	ValueOutput
+C Uni Span	0	4194304	Value	ValueOutput
+C Uni Rand Start	0	4194304	Value	ValueOutput
+C Uni Warp	0	4194304	Value	ValueOutput
+C Uni Warp 2	0	4194304	Value	ValueOutput
+C Warp	0	4194304	Value	ValueOutput
+C Warp Var	0	4194304	Value	ValueOutput
+C Warp Mode	0	69	Value	ValueOutput
+C Warp 2	0	4194304	Value	ValueOutput
+C Warp 2 Var	0	4194304	Value	ValueOutput
+C Warp 2 Mode	0	69	Value	ValueOutput
+C WT Pos	0	4194304	Value	ValueOutput
+C Uni WT Pos	0	4194304	Value	ValueOutput
+C Phase	0	4194304	Value	ValueOutput
+C Rand Phase	0	4194304	Value	ValueOutput
+C Param44	0	4194304	Value	ValueOutput
+C Param45	0	4194304	Value	ValueOutput
+C Param46	0	4194304	Value	ValueOutput
+C Param47	0	4194304	Value	ValueOutput
+C Param48	0	4194304	Value	ValueOutput
+C Param49	0	4194304	Value	ValueOutput
+C Param50	0	4194304	Value	ValueOutput
+C Param51	0	4194304	Value	ValueOutput
+C Param52	0	4194304	Value	ValueOutput
+C Param53	0	4194304	Value	ValueOutput
+C Param54	0	4194304	Value	ValueOutput
+C Param55	0	4194304	Value	ValueOutput
+Noise Enable	0	1	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Noise Pan	0	4194304	Value	ValueOutput
+Noise Pitch Track	0	1	Value	ValueOutput
+Noise Pitch	0	4194304	Value	ValueOutput
+Noise Fine	0	4194304	Value	ValueOutput
+Noise Phase	0	4194304	Value	ValueOutput
+Noise Rand Phase	0	4194304	Value	ValueOutput
+Sub Enable	0	1	Value	ValueOutput
+Sub Level	0	4194304	Value	ValueOutput
+Sub Pan	0	4194304	Value	ValueOutput
+Sub Octave	0	8	Value	ValueOutput
+Sub Coarse Pitch	0	4194304	Value	ValueOutput
+Sub Pitch Track	0	1	Value	ValueOutput
+Sub Shape	0	5	Value	ValueOutput
+Sub Phase	0	4194304	Value	ValueOutput
+Sub Cont. Phase	0	1	Value	ValueOutput
+Filter 1 Level	0	4194304	Value	ValueOutput
+Filter 1 On	0	1	Value	ValueOutput
+Filter 1 Type	0	106	Value	ValueOutput
+Filter 1 Freq	0	4194304	Value	ValueOutput
+Filter 1 Res	0	4194304	Value	ValueOutput
+Filter 1 Drive	0	4194304	Value	ValueOutput
+Filter 1 Var	0	4194304	Value	ValueOutput
+Filter 1 Wet	0	4194304	Value	ValueOutput
+Filter 1 Stereo	0	4194304	Value	ValueOutput
+Filter 1 X	0	4194304	Value	ValueOutput
+Filter 1 Y	0	4194304	Value	ValueOutput
+Filter 2 Level	0	4194304	Value	ValueOutput
+Filter 2 On	0	1	Value	ValueOutput
+Filter 2 Type	0	106	Value	ValueOutput
+Filter 2 Freq	0	4194304	Value	ValueOutput
+Filter 2 Res	0	4194304	Value	ValueOutput
+Filter 2 Drive	0	4194304	Value	ValueOutput
+Filter 2 Var	0	4194304	Value	ValueOutput
+Filter 2 Wet	0	4194304	Value	ValueOutput
+Filter 2 Stereo	0	4194304	Value	ValueOutput
+Filter 2 X	0	4194304	Value	ValueOutput
+Filter 2 Y	0	4194304	Value	ValueOutput
+Env 1 Attack	0	4194304	Value	ValueOutput
+Env 1 Hold	0	4194304	Value	ValueOutput
+Env 1 Decay	0	4194304	Value	ValueOutput
+Env 1 Sustain	0	4194304	Value	ValueOutput
+Env 1 Release	0	4194304	Value	ValueOutput
+Env 1 Atk Curve	0	4194304	Value	ValueOutput
+Env 1 Dec Curve	0	4194304	Value	ValueOutput
+Env 1 Rel Curve	0	4194304	Value	ValueOutput
+Env 2 Attack	0	4194304	Value	ValueOutput
+Env 2 Hold	0	4194304	Value	ValueOutput
+Env 2 Decay	0	4194304	Value	ValueOutput
+Env 2 Sustain	0	4194304	Value	ValueOutput
+Env 2 Release	0	4194304	Value	ValueOutput
+Env 2 Atk Curve	0	4194304	Value	ValueOutput
+Env 2 Dec Curve	0	4194304	Value	ValueOutput
+Env 2 Rel Curve	0	4194304	Value	ValueOutput
+Env 2 Start	0	4194304	Value	ValueOutput
+Env 2 End	0	4194304	Value	ValueOutput
+Env 3 Attack	0	4194304	Value	ValueOutput
+Env 3 Hold	0	4194304	Value	ValueOutput
+Env 3 Decay	0	4194304	Value	ValueOutput
+Env 3 Sustain	0	4194304	Value	ValueOutput
+Env 3 Release	0	4194304	Value	ValueOutput
+Env 3 Atk Curve	0	4194304	Value	ValueOutput
+Env 3 Dec Curve	0	4194304	Value	ValueOutput
+Env 3 Rel Curve	0	4194304	Value	ValueOutput
+Env 3 Start	0	4194304	Value	ValueOutput
+Env 3 End	0	4194304	Value	ValueOutput
+Env 4 Attack	0	4194304	Value	ValueOutput
+Env 4 Hold	0	4194304	Value	ValueOutput
+Env 4 Decay	0	4194304	Value	ValueOutput
+Env 4 Sustain	0	4194304	Value	ValueOutput
+Env 4 Release	0	4194304	Value	ValueOutput
+Env 4 Atk Curve	0	4194304	Value	ValueOutput
+Env 4 Dec Curve	0	4194304	Value	ValueOutput
+Env 4 Rel Curve	0	4194304	Value	ValueOutput
+Env 4 Start	0	4194304	Value	ValueOutput
+Env 4 End	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Smooth	0	4194304	Value	ValueOutput
+LFO 1 Rise	0	4194304	Value	ValueOutput
+LFO 1 Delay	0	4194304	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Smooth	0	4194304	Value	ValueOutput
+LFO 2 Rise	0	4194304	Value	ValueOutput
+LFO 2 Delay	0	4194304	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 3 Rate	0	4194304	Value	ValueOutput
+LFO 3 Smooth	0	4194304	Value	ValueOutput
+LFO 3 Rise	0	4194304	Value	ValueOutput
+LFO 3 Delay	0	4194304	Value	ValueOutput
+LFO 3 Phase	0	4194304	Value	ValueOutput
+LFO 4 Rate	0	4194304	Value	ValueOutput
+LFO 4 Smooth	0	4194304	Value	ValueOutput
+LFO 4 Rise	0	4194304	Value	ValueOutput
+LFO 4 Delay	0	4194304	Value	ValueOutput
+LFO 4 Phase	0	4194304	Value	ValueOutput
+LFO 5 Rate	0	4194304	Value	ValueOutput
+LFO 5 Smooth	0	4194304	Value	ValueOutput
+LFO 5 Rise	0	4194304	Value	ValueOutput
+LFO 5 Delay	0	4194304	Value	ValueOutput
+LFO 5 Phase	0	4194304	Value	ValueOutput
+LFO 6 Rate	0	4194304	Value	ValueOutput
+LFO 6 Smooth	0	4194304	Value	ValueOutput
+LFO 6 Rise	0	4194304	Value	ValueOutput
+LFO 6 Delay	0	4194304	Value	ValueOutput
+LFO 6 Phase	0	4194304	Value	ValueOutput
+LFO 7 Rate	0	4194304	Value	ValueOutput
+LFO 7 Smooth	0	4194304	Value	ValueOutput
+LFO 7 Rise	0	4194304	Value	ValueOutput
+LFO 7 Delay	0	4194304	Value	ValueOutput
+LFO 7 Phase	0	4194304	Value	ValueOutput
+LFO 8 Rate	0	4194304	Value	ValueOutput
+LFO 8 Smooth	0	4194304	Value	ValueOutput
+LFO 8 Rise	0	4194304	Value	ValueOutput
+LFO 8 Delay	0	4194304	Value	ValueOutput
+LFO 8 Phase	0	4194304	Value	ValueOutput
+LFO 9 Rate	0	4194304	Value	ValueOutput
+LFO 9 Smooth	0	4194304	Value	ValueOutput
+LFO 9 Rise	0	4194304	Value	ValueOutput
+LFO 9 Delay	0	4194304	Value	ValueOutput
+LFO 9 Phase	0	4194304	Value	ValueOutput
+LFO 10 Rate	0	4194304	Value	ValueOutput
+LFO 10 Smooth	0	4194304	Value	ValueOutput
+LFO 10 Rise	0	4194304	Value	ValueOutput
+LFO 10 Delay	0	4194304	Value	ValueOutput
+LFO 10 Phase	0	4194304	Value	ValueOutput
+Mod 1 Amount	0	4194304	Value	ValueOutput
+Mod 1 Out	0	4194304	Value	ValueOutput
+Mod 2 Amount	0	4194304	Value	ValueOutput
+Mod 2 Out	0	4194304	Value	ValueOutput
+Mod 3 Amount	0	4194304	Value	ValueOutput
+Mod 3 Out	0	4194304	Value	ValueOutput
+Mod 4 Amount	0	4194304	Value	ValueOutput
+Mod 4 Out	0	4194304	Value	ValueOutput
+Mod 5 Amount	0	4194304	Value	ValueOutput
+Mod 5 Out	0	4194304	Value	ValueOutput
+Mod 6 Amount	0	4194304	Value	ValueOutput
+Mod 6 Out	0	4194304	Value	ValueOutput
+Mod 7 Amount	0	4194304	Value	ValueOutput
+Mod 7 Out	0	4194304	Value	ValueOutput
+Mod 8 Amount	0	4194304	Value	ValueOutput
+Mod 8 Out	0	4194304	Value	ValueOutput
+Mod 9 Amount	0	4194304	Value	ValueOutput
+Mod 9 Out	0	4194304	Value	ValueOutput
+Mod 10 Amount	0	4194304	Value	ValueOutput
+Mod 10 Out	0	4194304	Value	ValueOutput
+Mod 11 Amount	0	4194304	Value	ValueOutput
+Mod 11 Out	0	4194304	Value	ValueOutput
+Mod 12 Amount	0	4194304	Value	ValueOutput
+Mod 12 Out	0	4194304	Value	ValueOutput
+Mod 13 Amount	0	4194304	Value	ValueOutput
+Mod 13 Out	0	4194304	Value	ValueOutput
+Mod 14 Amount	0	4194304	Value	ValueOutput
+Mod 14 Out	0	4194304	Value	ValueOutput
+Mod 15 Amount	0	4194304	Value	ValueOutput
+Mod 15 Out	0	4194304	Value	ValueOutput
+Mod 16 Amount	0	4194304	Value	ValueOutput
+Mod 16 Out	0	4194304	Value	ValueOutput
+Mod 17 Amount	0	4194304	Value	ValueOutput
+Mod 17 Out	0	4194304	Value	ValueOutput
+Mod 18 Amount	0	4194304	Value	ValueOutput
+Mod 18 Out	0	4194304	Value	ValueOutput
+Mod 19 Amount	0	4194304	Value	ValueOutput
+Mod 19 Out	0	4194304	Value	ValueOutput
+Mod 20 Amount	0	4194304	Value	ValueOutput
+Mod 20 Out	0	4194304	Value	ValueOutput
+Mod 21 Amount	0	4194304	Value	ValueOutput
+Mod 21 Out	0	4194304	Value	ValueOutput
+Mod 22 Amount	0	4194304	Value	ValueOutput
+Mod 22 Out	0	4194304	Value	ValueOutput
+Mod 23 Amount	0	4194304	Value	ValueOutput
+Mod 23 Out	0	4194304	Value	ValueOutput
+Mod 24 Amount	0	4194304	Value	ValueOutput
+Mod 24 Out	0	4194304	Value	ValueOutput
+Mod 25 Amount	0	4194304	Value	ValueOutput
+Mod 25 Out	0	4194304	Value	ValueOutput
+Mod 26 Amount	0	4194304	Value	ValueOutput
+Mod 26 Out	0	4194304	Value	ValueOutput
+Mod 27 Amount	0	4194304	Value	ValueOutput
+Mod 27 Out	0	4194304	Value	ValueOutput
+Mod 28 Amount	0	4194304	Value	ValueOutput
+Mod 28 Out	0	4194304	Value	ValueOutput
+Mod 29 Amount	0	4194304	Value	ValueOutput
+Mod 29 Out	0	4194304	Value	ValueOutput
+Mod 30 Amount	0	4194304	Value	ValueOutput
+Mod 30 Out	0	4194304	Value	ValueOutput
+Mod 31 Amount	0	4194304	Value	ValueOutput
+Mod 31 Out	0	4194304	Value	ValueOutput
+Mod 32 Amount	0	4194304	Value	ValueOutput
+Mod 32 Out	0	4194304	Value	ValueOutput
+Mod 33 Amount	0	4194304	Value	ValueOutput
+Mod 33 Out	0	4194304	Value	ValueOutput
+Mod 34 Amount	0	4194304	Value	ValueOutput
+Mod 34 Out	0	4194304	Value	ValueOutput
+Mod 35 Amount	0	4194304	Value	ValueOutput
+Mod 35 Out	0	4194304	Value	ValueOutput
+Mod 36 Amount	0	4194304	Value	ValueOutput
+Mod 36 Out	0	4194304	Value	ValueOutput
+Mod 37 Amount	0	4194304	Value	ValueOutput
+Mod 37 Out	0	4194304	Value	ValueOutput
+Mod 38 Amount	0	4194304	Value	ValueOutput
+Mod 38 Out	0	4194304	Value	ValueOutput
+Mod 39 Amount	0	4194304	Value	ValueOutput
+Mod 39 Out	0	4194304	Value	ValueOutput
+Mod 40 Amount	0	4194304	Value	ValueOutput
+Mod 40 Out	0	4194304	Value	ValueOutput
+Mod 41 Amount	0	4194304	Value	ValueOutput
+Mod 41 Out	0	4194304	Value	ValueOutput
+Mod 42 Amount	0	4194304	Value	ValueOutput
+Mod 42 Out	0	4194304	Value	ValueOutput
+Mod 43 Amount	0	4194304	Value	ValueOutput
+Mod 43 Out	0	4194304	Value	ValueOutput
+Mod 44 Amount	0	4194304	Value	ValueOutput
+Mod 44 Out	0	4194304	Value	ValueOutput
+Mod 45 Amount	0	4194304	Value	ValueOutput
+Mod 45 Out	0	4194304	Value	ValueOutput
+Mod 46 Amount	0	4194304	Value	ValueOutput
+Mod 46 Out	0	4194304	Value	ValueOutput
+Mod 47 Amount	0	4194304	Value	ValueOutput
+Mod 47 Out	0	4194304	Value	ValueOutput
+Mod 48 Amount	0	4194304	Value	ValueOutput
+Mod 48 Out	0	4194304	Value	ValueOutput
+Mod 49 Amount	0	4194304	Value	ValueOutput
+Mod 49 Out	0	4194304	Value	ValueOutput
+Mod 50 Amount	0	4194304	Value	ValueOutput
+Mod 50 Out	0	4194304	Value	ValueOutput
+Mod 51 Amount	0	4194304	Value	ValueOutput
+Mod 51 Out	0	4194304	Value	ValueOutput
+Mod 52 Amount	0	4194304	Value	ValueOutput
+Mod 52 Out	0	4194304	Value	ValueOutput
+Mod 53 Amount	0	4194304	Value	ValueOutput
+Mod 53 Out	0	4194304	Value	ValueOutput
+Mod 54 Amount	0	4194304	Value	ValueOutput
+Mod 54 Out	0	4194304	Value	ValueOutput
+Mod 55 Amount	0	4194304	Value	ValueOutput
+Mod 55 Out	0	4194304	Value	ValueOutput
+Mod 56 Amount	0	4194304	Value	ValueOutput
+Mod 56 Out	0	4194304	Value	ValueOutput
+Mod 57 Amount	0	4194304	Value	ValueOutput
+Mod 57 Out	0	4194304	Value	ValueOutput
+Mod 58 Amount	0	4194304	Value	ValueOutput
+Mod 58 Out	0	4194304	Value	ValueOutput
+Mod 59 Amount	0	4194304	Value	ValueOutput
+Mod 59 Out	0	4194304	Value	ValueOutput
+Mod 60 Amount	0	4194304	Value	ValueOutput
+Mod 60 Out	0	4194304	Value	ValueOutput
+Mod 61 Amount	0	4194304	Value	ValueOutput
+Mod 61 Out	0	4194304	Value	ValueOutput
+Mod 62 Amount	0	4194304	Value	ValueOutput
+Mod 62 Out	0	4194304	Value	ValueOutput
+Mod 63 Amount	0	4194304	Value	ValueOutput
+Mod 63 Out	0	4194304	Value	ValueOutput
+Mod 64 Amount	0	4194304	Value	ValueOutput
+Mod 64 Out	0	4194304	Value	ValueOutput
+Macro 1	0	4194304	Value	ValueOutput
+Macro 2	0	4194304	Value	ValueOutput
+Macro 3	0	4194304	Value	ValueOutput
+Macro 4	0	4194304	Value	ValueOutput
+Macro 5	0	4194304	Value	ValueOutput
+Macro 6	0	4194304	Value	ValueOutput
+Macro 7	0	4194304	Value	ValueOutput
+Macro 8	0	4194304	Value	ValueOutput
+A>Filter Balance	0	4194304	Value	ValueOutput
+A>BUS1	0	4194304	Value	ValueOutput
+A>BUS2	0	4194304	Value	ValueOutput
+B>Filter Balance	0	4194304	Value	ValueOutput
+B>BUS1	0	4194304	Value	ValueOutput
+B>BUS2	0	4194304	Value	ValueOutput
+C>Filter Balance	0	4194304	Value	ValueOutput
+C>BUS1	0	4194304	Value	ValueOutput
+C>BUS2	0	4194304	Value	ValueOutput
+Noise>Filter Balance	0	4194304	Value	ValueOutput
+Noise>BUS1	0	4194304	Value	ValueOutput
+Noise>BUS2	0	4194304	Value	ValueOutput
+Sub Osc>Filter Balance	0	4194304	Value	ValueOutput
+Sub Osc>BUS1	0	4194304	Value	ValueOutput
+Sub Osc>BUS2	0	4194304	Value	ValueOutput
+Filter 1>BUS1	0	4194304	Value	ValueOutput
+Filter 1>BUS2	0	4194304	Value	ValueOutput
+Filter 2>BUS1	0	4194304	Value	ValueOutput
+Filter 2>BUS2	0	4194304	Value	ValueOutput
+Osc Detune Rnd	0	4194304	Value	ValueOutput
+Osc Pan Rand	0	4194304	Value	ValueOutput
+Env Rand	0	4194304	Value	ValueOutput
+Cutoff Rand	0	4194304	Value	ValueOutput
+FX Main Param 1	0	4194304	Value	ValueOutput
+FX Main Param 2	0	4194304	Value	ValueOutput
+FX Main Param 3	0	4194304	Value	ValueOutput
+FX Main Param 4	0	4194304	Value	ValueOutput
+FX Main Param 5	0	4194304	Value	ValueOutput
+FX Main Param 6	0	4194304	Value	ValueOutput
+FX Main Param 7	0	4194304	Value	ValueOutput
+FX Main Param 8	0	4194304	Value	ValueOutput
+FX Main Param 9	0	4194304	Value	ValueOutput
+FX Main Param 10	0	4194304	Value	ValueOutput
+FX Main Param 11	0	4194304	Value	ValueOutput
+FX Main Param 12	0	4194304	Value	ValueOutput
+FX Main Param 13	0	4194304	Value	ValueOutput
+FX Main Param 14	0	4194304	Value	ValueOutput
+FX Main Param 15	0	4194304	Value	ValueOutput
+FX Main Param 16	0	4194304	Value	ValueOutput
+FX Bus 1 Param 1	0	4194304	Value	ValueOutput
+FX Bus 1 Param 2	0	4194304	Value	ValueOutput
+FX Bus 1 Param 3	0	4194304	Value	ValueOutput
+FX Bus 1 Param 4	0	4194304	Value	ValueOutput
+FX Bus 1 Param 5	0	4194304	Value	ValueOutput
+FX Bus 1 Param 6	0	4194304	Value	ValueOutput
+FX Bus 1 Param 7	0	4194304	Value	ValueOutput
+FX Bus 1 Param 8	0	4194304	Value	ValueOutput
+FX Bus 1 Param 9	0	4194304	Value	ValueOutput
+FX Bus 1 Param 10	0	4194304	Value	ValueOutput
+FX Bus 1 Param 11	0	4194304	Value	ValueOutput
+FX Bus 1 Param 12	0	4194304	Value	ValueOutput
+FX Bus 1 Param 13	0	4194304	Value	ValueOutput
+FX Bus 1 Param 14	0	4194304	Value	ValueOutput
+FX Bus 1 Param 15	0	4194304	Value	ValueOutput
+FX Bus 1 Param 16	0	4194304	Value	ValueOutput
+FX Bus 2 Param 1	0	4194304	Value	ValueOutput
+FX Bus 2 Param 2	0	4194304	Value	ValueOutput
+FX Bus 2 Param 3	0	4194304	Value	ValueOutput
+FX Bus 2 Param 4	0	4194304	Value	ValueOutput
+FX Bus 2 Param 5	0	4194304	Value	ValueOutput
+FX Bus 2 Param 6	0	4194304	Value	ValueOutput
+FX Bus 2 Param 7	0	4194304	Value	ValueOutput
+FX Bus 2 Param 8	0	4194304	Value	ValueOutput
+FX Bus 2 Param 9	0	4194304	Value	ValueOutput
+FX Bus 2 Param 10	0	4194304	Value	ValueOutput
+FX Bus 2 Param 11	0	4194304	Value	ValueOutput
+FX Bus 2 Param 12	0	4194304	Value	ValueOutput
+FX Bus 2 Param 13	0	4194304	Value	ValueOutput
+FX Bus 2 Param 14	0	4194304	Value	ValueOutput
+FX Bus 2 Param 15	0	4194304	Value	ValueOutput
+FX Bus 2 Param 16	0	4194304	Value	ValueOutput
+Clip Player Enable	0	1	Value	ValueOutput
+Clip Player Transpose	0	4194304	Value	ValueOutput
+Clip Player Rate	0	4194304	Value	ValueOutput
+Clip Player Offset	0	4194304	Value	ValueOutput
+Arp Enable	0	1	Value	ValueOutput
+Arp Rate	0	4194304	Value	ValueOutput
+Arp Shift	0	4194304	Value	ValueOutput
+Arp Range	0	4194304	Value	ValueOutput
+Arp Offset	0	4194304	Value	ValueOutput
+Arp Repeats	0	4194304	Value	ValueOutput
+Arp Gate	0	4194304	Value	ValueOutput
+Arp Chance	0	4194304	Value	ValueOutput
+Arp Retrig Rate	0	4194304	Value	ValueOutput
+Arp Velo Decay	0	4194304	Value	ValueOutput
+Arp Velo Target	0	4194304	Value	ValueOutput
+Arp Transpose	0	4194304	Value	ValueOutput
+Arp Wrap Transpose	0	4194304	Value	ValueOutput
+Arp Wrap Range	0	4194304	Value	ValueOutput
+Arp Wrap Phantom Note	0	4194304	Value	ValueOutput
+Key	0	12	Value	ValueOutput
+Scale	0	63	Value	ValueOutput
+Bank	0	127	Value	ValueOutput
+Pitch Bend Chan 1	0	4194304	Value	ValueOutput
+Aftertouch Chan 1	0	4194304	Value	ValueOutput
+CC0 Chan 1	0	4194304	Value	ValueOutput
+CC1 Chan 1	0	4194304	Value	ValueOutput
+CC2 Chan 1	0	4194304	Value	ValueOutput
+CC3 Chan 1	0	4194304	Value	ValueOutput
+CC4 Chan 1	0	4194304	Value	ValueOutput
+CC5 Chan 1	0	4194304	Value	ValueOutput
+CC6 Chan 1	0	4194304	Value	ValueOutput
+CC7 Chan 1	0	4194304	Value	ValueOutput
+CC8 Chan 1	0	4194304	Value	ValueOutput
+CC9 Chan 1	0	4194304	Value	ValueOutput
+CC10 Chan 1	0	4194304	Value	ValueOutput
+CC11 Chan 1	0	4194304	Value	ValueOutput
+CC12 Chan 1	0	4194304	Value	ValueOutput
+CC13 Chan 1	0	4194304	Value	ValueOutput
+CC14 Chan 1	0	4194304	Value	ValueOutput
+CC15 Chan 1	0	4194304	Value	ValueOutput
+CC16 Chan 1	0	4194304	Value	ValueOutput
+CC17 Chan 1	0	4194304	Value	ValueOutput
+CC18 Chan 1	0	4194304	Value	ValueOutput
+CC19 Chan 1	0	4194304	Value	ValueOutput
+CC20 Chan 1	0	4194304	Value	ValueOutput
+CC21 Chan 1	0	4194304	Value	ValueOutput
+CC22 Chan 1	0	4194304	Value	ValueOutput
+CC23 Chan 1	0	4194304	Value	ValueOutput
+CC24 Chan 1	0	4194304	Value	ValueOutput
+CC25 Chan 1	0	4194304	Value	ValueOutput
+CC26 Chan 1	0	4194304	Value	ValueOutput
+CC27 Chan 1	0	4194304	Value	ValueOutput
+CC28 Chan 1	0	4194304	Value	ValueOutput
+CC29 Chan 1	0	4194304	Value	ValueOutput
+CC30 Chan 1	0	4194304	Value	ValueOutput
+CC31 Chan 1	0	4194304	Value	ValueOutput
+CC32 Chan 1	0	4194304	Value	ValueOutput
+CC33 Chan 1	0	4194304	Value	ValueOutput
+CC34 Chan 1	0	4194304	Value	ValueOutput
+CC35 Chan 1	0	4194304	Value	ValueOutput
+CC36 Chan 1	0	4194304	Value	ValueOutput
+CC37 Chan 1	0	4194304	Value	ValueOutput
+CC38 Chan 1	0	4194304	Value	ValueOutput
+CC39 Chan 1	0	4194304	Value	ValueOutput
+CC40 Chan 1	0	4194304	Value	ValueOutput
+CC41 Chan 1	0	4194304	Value	ValueOutput
+CC42 Chan 1	0	4194304	Value	ValueOutput
+CC43 Chan 1	0	4194304	Value	ValueOutput
+CC44 Chan 1	0	4194304	Value	ValueOutput
+CC45 Chan 1	0	4194304	Value	ValueOutput
+CC46 Chan 1	0	4194304	Value	ValueOutput
+CC47 Chan 1	0	4194304	Value	ValueOutput
+CC48 Chan 1	0	4194304	Value	ValueOutput
+CC49 Chan 1	0	4194304	Value	ValueOutput
+CC50 Chan 1	0	4194304	Value	ValueOutput
+CC51 Chan 1	0	4194304	Value	ValueOutput
+CC52 Chan 1	0	4194304	Value	ValueOutput
+CC53 Chan 1	0	4194304	Value	ValueOutput
+CC54 Chan 1	0	4194304	Value	ValueOutput
+CC55 Chan 1	0	4194304	Value	ValueOutput
+CC56 Chan 1	0	4194304	Value	ValueOutput
+CC57 Chan 1	0	4194304	Value	ValueOutput
+CC58 Chan 1	0	4194304	Value	ValueOutput
+CC59 Chan 1	0	4194304	Value	ValueOutput
+CC60 Chan 1	0	4194304	Value	ValueOutput
+CC61 Chan 1	0	4194304	Value	ValueOutput
+CC62 Chan 1	0	4194304	Value	ValueOutput
+CC63 Chan 1	0	4194304	Value	ValueOutput
+CC64 Chan 1	0	4194304	Value	ValueOutput
+CC65 Chan 1	0	4194304	Value	ValueOutput
+CC66 Chan 1	0	4194304	Value	ValueOutput
+CC67 Chan 1	0	4194304	Value	ValueOutput
+CC68 Chan 1	0	4194304	Value	ValueOutput
+CC69 Chan 1	0	4194304	Value	ValueOutput
+CC70 Chan 1	0	4194304	Value	ValueOutput
+CC71 Chan 1	0	4194304	Value	ValueOutput
+CC72 Chan 1	0	4194304	Value	ValueOutput
+CC73 Chan 1	0	4194304	Value	ValueOutput
+CC74 Chan 1	0	4194304	Value	ValueOutput
+CC75 Chan 1	0	4194304	Value	ValueOutput
+CC76 Chan 1	0	4194304	Value	ValueOutput
+CC77 Chan 1	0	4194304	Value	ValueOutput
+CC78 Chan 1	0	4194304	Value	ValueOutput
+CC79 Chan 1	0	4194304	Value	ValueOutput
+CC80 Chan 1	0	4194304	Value	ValueOutput
+CC81 Chan 1	0	4194304	Value	ValueOutput
+CC82 Chan 1	0	4194304	Value	ValueOutput
+CC83 Chan 1	0	4194304	Value	ValueOutput
+CC84 Chan 1	0	4194304	Value	ValueOutput
+CC85 Chan 1	0	4194304	Value	ValueOutput
+CC86 Chan 1	0	4194304	Value	ValueOutput
+CC87 Chan 1	0	4194304	Value	ValueOutput
+CC88 Chan 1	0	4194304	Value	ValueOutput
+CC89 Chan 1	0	4194304	Value	ValueOutput
+CC90 Chan 1	0	4194304	Value	ValueOutput
+CC91 Chan 1	0	4194304	Value	ValueOutput
+CC92 Chan 1	0	4194304	Value	ValueOutput
+CC93 Chan 1	0	4194304	Value	ValueOutput
+CC94 Chan 1	0	4194304	Value	ValueOutput
+CC95 Chan 1	0	4194304	Value	ValueOutput
+CC96 Chan 1	0	4194304	Value	ValueOutput
+CC97 Chan 1	0	4194304	Value	ValueOutput
+CC98 Chan 1	0	4194304	Value	ValueOutput
+CC99 Chan 1	0	4194304	Value	ValueOutput
+CC100 Chan 1	0	4194304	Value	ValueOutput
+CC101 Chan 1	0	4194304	Value	ValueOutput
+CC102 Chan 1	0	4194304	Value	ValueOutput
+CC103 Chan 1	0	4194304	Value	ValueOutput
+CC104 Chan 1	0	4194304	Value	ValueOutput
+CC105 Chan 1	0	4194304	Value	ValueOutput
+CC106 Chan 1	0	4194304	Value	ValueOutput
+CC107 Chan 1	0	4194304	Value	ValueOutput
+CC108 Chan 1	0	4194304	Value	ValueOutput
+CC109 Chan 1	0	4194304	Value	ValueOutput
+CC110 Chan 1	0	4194304	Value	ValueOutput
+CC111 Chan 1	0	4194304	Value	ValueOutput
+CC112 Chan 1	0	4194304	Value	ValueOutput
+CC113 Chan 1	0	4194304	Value	ValueOutput
+CC114 Chan 1	0	4194304	Value	ValueOutput
+CC115 Chan 1	0	4194304	Value	ValueOutput
+CC116 Chan 1	0	4194304	Value	ValueOutput
+CC117 Chan 1	0	4194304	Value	ValueOutput
+CC118 Chan 1	0	4194304	Value	ValueOutput
+CC119 Chan 1	0	4194304	Value	ValueOutput
+CC120 Chan 1	0	4194304	Value	ValueOutput
+CC121 Chan 1	0	4194304	Value	ValueOutput
+CC122 Chan 1	0	4194304	Value	ValueOutput
+CC123 Chan 1	0	4194304	Value	ValueOutput
+CC124 Chan 1	0	4194304	Value	ValueOutput
+CC125 Chan 1	0	4194304	Value	ValueOutput
+CC126 Chan 1	0	4194304	Value	ValueOutput
+CC127 Chan 1	0	4194304	Value	ValueOutput
+Pitch Bend Chan 2	0	4194304	Value	ValueOutput
+Aftertouch Chan 2	0	4194304	Value	ValueOutput
+CC0 Chan 2	0	4194304	Value	ValueOutput
+CC1 Chan 2	0	4194304	Value	ValueOutput
+CC2 Chan 2	0	4194304	Value	ValueOutput
+CC3 Chan 2	0	4194304	Value	ValueOutput
+CC4 Chan 2	0	4194304	Value	ValueOutput
+CC5 Chan 2	0	4194304	Value	ValueOutput
+CC6 Chan 2	0	4194304	Value	ValueOutput
+CC7 Chan 2	0	4194304	Value	ValueOutput
+CC8 Chan 2	0	4194304	Value	ValueOutput
+CC9 Chan 2	0	4194304	Value	ValueOutput
+CC10 Chan 2	0	4194304	Value	ValueOutput
+CC11 Chan 2	0	4194304	Value	ValueOutput
+CC12 Chan 2	0	4194304	Value	ValueOutput
+CC13 Chan 2	0	4194304	Value	ValueOutput
+CC14 Chan 2	0	4194304	Value	ValueOutput
+CC15 Chan 2	0	4194304	Value	ValueOutput
+CC16 Chan 2	0	4194304	Value	ValueOutput
+CC17 Chan 2	0	4194304	Value	ValueOutput
+CC18 Chan 2	0	4194304	Value	ValueOutput
+CC19 Chan 2	0	4194304	Value	ValueOutput
+CC20 Chan 2	0	4194304	Value	ValueOutput
+CC21 Chan 2	0	4194304	Value	ValueOutput
+CC22 Chan 2	0	4194304	Value	ValueOutput
+CC23 Chan 2	0	4194304	Value	ValueOutput
+CC24 Chan 2	0	4194304	Value	ValueOutput
+CC25 Chan 2	0	4194304	Value	ValueOutput
+CC26 Chan 2	0	4194304	Value	ValueOutput
+CC27 Chan 2	0	4194304	Value	ValueOutput
+CC28 Chan 2	0	4194304	Value	ValueOutput
+CC29 Chan 2	0	4194304	Value	ValueOutput
+CC30 Chan 2	0	4194304	Value	ValueOutput
+CC31 Chan 2	0	4194304	Value	ValueOutput
+CC32 Chan 2	0	4194304	Value	ValueOutput
+CC33 Chan 2	0	4194304	Value	ValueOutput
+CC34 Chan 2	0	4194304	Value	ValueOutput
+CC35 Chan 2	0	4194304	Value	ValueOutput
+CC36 Chan 2	0	4194304	Value	ValueOutput
+CC37 Chan 2	0	4194304	Value	ValueOutput
+CC38 Chan 2	0	4194304	Value	ValueOutput
+CC39 Chan 2	0	4194304	Value	ValueOutput
+CC40 Chan 2	0	4194304	Value	ValueOutput
+CC41 Chan 2	0	4194304	Value	ValueOutput
+CC42 Chan 2	0	4194304	Value	ValueOutput
+CC43 Chan 2	0	4194304	Value	ValueOutput
+CC44 Chan 2	0	4194304	Value	ValueOutput
+CC45 Chan 2	0	4194304	Value	ValueOutput
+CC46 Chan 2	0	4194304	Value	ValueOutput
+CC47 Chan 2	0	4194304	Value	ValueOutput
+CC48 Chan 2	0	4194304	Value	ValueOutput
+CC49 Chan 2	0	4194304	Value	ValueOutput
+CC50 Chan 2	0	4194304	Value	ValueOutput
+CC51 Chan 2	0	4194304	Value	ValueOutput
+CC52 Chan 2	0	4194304	Value	ValueOutput
+CC53 Chan 2	0	4194304	Value	ValueOutput
+CC54 Chan 2	0	4194304	Value	ValueOutput
+CC55 Chan 2	0	4194304	Value	ValueOutput
+CC56 Chan 2	0	4194304	Value	ValueOutput
+CC57 Chan 2	0	4194304	Value	ValueOutput
+CC58 Chan 2	0	4194304	Value	ValueOutput
+CC59 Chan 2	0	4194304	Value	ValueOutput
+CC60 Chan 2	0	4194304	Value	ValueOutput
+CC61 Chan 2	0	4194304	Value	ValueOutput
+CC62 Chan 2	0	4194304	Value	ValueOutput
+CC63 Chan 2	0	4194304	Value	ValueOutput
+CC64 Chan 2	0	4194304	Value	ValueOutput
+CC65 Chan 2	0	4194304	Value	ValueOutput
+CC66 Chan 2	0	4194304	Value	ValueOutput
+CC67 Chan 2	0	4194304	Value	ValueOutput
+CC68 Chan 2	0	4194304	Value	ValueOutput
+CC69 Chan 2	0	4194304	Value	ValueOutput
+CC70 Chan 2	0	4194304	Value	ValueOutput
+CC71 Chan 2	0	4194304	Value	ValueOutput
+CC72 Chan 2	0	4194304	Value	ValueOutput
+CC73 Chan 2	0	4194304	Value	ValueOutput
+CC74 Chan 2	0	4194304	Value	ValueOutput
+CC75 Chan 2	0	4194304	Value	ValueOutput
+CC76 Chan 2	0	4194304	Value	ValueOutput
+CC77 Chan 2	0	4194304	Value	ValueOutput
+CC78 Chan 2	0	4194304	Value	ValueOutput
+CC79 Chan 2	0	4194304	Value	ValueOutput
+CC80 Chan 2	0	4194304	Value	ValueOutput
+CC81 Chan 2	0	4194304	Value	ValueOutput
+CC82 Chan 2	0	4194304	Value	ValueOutput
+CC83 Chan 2	0	4194304	Value	ValueOutput
+CC84 Chan 2	0	4194304	Value	ValueOutput
+CC85 Chan 2	0	4194304	Value	ValueOutput
+CC86 Chan 2	0	4194304	Value	ValueOutput
+CC87 Chan 2	0	4194304	Value	ValueOutput
+CC88 Chan 2	0	4194304	Value	ValueOutput
+CC89 Chan 2	0	4194304	Value	ValueOutput
+CC90 Chan 2	0	4194304	Value	ValueOutput
+CC91 Chan 2	0	4194304	Value	ValueOutput
+CC92 Chan 2	0	4194304	Value	ValueOutput
+CC93 Chan 2	0	4194304	Value	ValueOutput
+CC94 Chan 2	0	4194304	Value	ValueOutput
+CC95 Chan 2	0	4194304	Value	ValueOutput
+CC96 Chan 2	0	4194304	Value	ValueOutput
+CC97 Chan 2	0	4194304	Value	ValueOutput
+CC98 Chan 2	0	4194304	Value	ValueOutput
+CC99 Chan 2	0	4194304	Value	ValueOutput
+CC100 Chan 2	0	4194304	Value	ValueOutput
+CC101 Chan 2	0	4194304	Value	ValueOutput
+CC102 Chan 2	0	4194304	Value	ValueOutput
+CC103 Chan 2	0	4194304	Value	ValueOutput
+CC104 Chan 2	0	4194304	Value	ValueOutput
+CC105 Chan 2	0	4194304	Value	ValueOutput
+CC106 Chan 2	0	4194304	Value	ValueOutput
+CC107 Chan 2	0	4194304	Value	ValueOutput
+CC108 Chan 2	0	4194304	Value	ValueOutput
+CC109 Chan 2	0	4194304	Value	ValueOutput
+CC110 Chan 2	0	4194304	Value	ValueOutput
+CC111 Chan 2	0	4194304	Value	ValueOutput
+CC112 Chan 2	0	4194304	Value	ValueOutput
+CC113 Chan 2	0	4194304	Value	ValueOutput
+CC114 Chan 2	0	4194304	Value	ValueOutput
+CC115 Chan 2	0	4194304	Value	ValueOutput
+CC116 Chan 2	0	4194304	Value	ValueOutput
+CC117 Chan 2	0	4194304	Value	ValueOutput
+CC118 Chan 2	0	4194304	Value	ValueOutput
+CC119 Chan 2	0	4194304	Value	ValueOutput
+CC120 Chan 2	0	4194304	Value	ValueOutput
+CC121 Chan 2	0	4194304	Value	ValueOutput
+CC122 Chan 2	0	4194304	Value	ValueOutput
+CC123 Chan 2	0	4194304	Value	ValueOutput
+CC124 Chan 2	0	4194304	Value	ValueOutput
+CC125 Chan 2	0	4194304	Value	ValueOutput
+CC126 Chan 2	0	4194304	Value	ValueOutput
+CC127 Chan 2	0	4194304	Value	ValueOutput
+Pitch Bend Chan 3	0	4194304	Value	ValueOutput
+Aftertouch Chan 3	0	4194304	Value	ValueOutput
+CC0 Chan 3	0	4194304	Value	ValueOutput
+CC1 Chan 3	0	4194304	Value	ValueOutput
+CC2 Chan 3	0	4194304	Value	ValueOutput
+CC3 Chan 3	0	4194304	Value	ValueOutput
+CC4 Chan 3	0	4194304	Value	ValueOutput
+CC5 Chan 3	0	4194304	Value	ValueOutput
+CC6 Chan 3	0	4194304	Value	ValueOutput
+CC7 Chan 3	0	4194304	Value	ValueOutput
+CC8 Chan 3	0	4194304	Value	ValueOutput
+CC9 Chan 3	0	4194304	Value	ValueOutput
+CC10 Chan 3	0	4194304	Value	ValueOutput
+CC11 Chan 3	0	4194304	Value	ValueOutput
+CC12 Chan 3	0	4194304	Value	ValueOutput
+CC13 Chan 3	0	4194304	Value	ValueOutput
+CC14 Chan 3	0	4194304	Value	ValueOutput
+CC15 Chan 3	0	4194304	Value	ValueOutput
+CC16 Chan 3	0	4194304	Value	ValueOutput
+CC17 Chan 3	0	4194304	Value	ValueOutput
+CC18 Chan 3	0	4194304	Value	ValueOutput
+CC19 Chan 3	0	4194304	Value	ValueOutput
+CC20 Chan 3	0	4194304	Value	ValueOutput
+CC21 Chan 3	0	4194304	Value	ValueOutput
+CC22 Chan 3	0	4194304	Value	ValueOutput
+CC23 Chan 3	0	4194304	Value	ValueOutput
+CC24 Chan 3	0	4194304	Value	ValueOutput
+CC25 Chan 3	0	4194304	Value	ValueOutput
+CC26 Chan 3	0	4194304	Value	ValueOutput
+CC27 Chan 3	0	4194304	Value	ValueOutput
+CC28 Chan 3	0	4194304	Value	ValueOutput
+CC29 Chan 3	0	4194304	Value	ValueOutput
+CC30 Chan 3	0	4194304	Value	ValueOutput
+CC31 Chan 3	0	4194304	Value	ValueOutput
+CC32 Chan 3	0	4194304	Value	ValueOutput
+CC33 Chan 3	0	4194304	Value	ValueOutput
+CC34 Chan 3	0	4194304	Value	ValueOutput
+CC35 Chan 3	0	4194304	Value	ValueOutput
+CC36 Chan 3	0	4194304	Value	ValueOutput
+CC37 Chan 3	0	4194304	Value	ValueOutput
+CC38 Chan 3	0	4194304	Value	ValueOutput
+CC39 Chan 3	0	4194304	Value	ValueOutput
+CC40 Chan 3	0	4194304	Value	ValueOutput
+CC41 Chan 3	0	4194304	Value	ValueOutput
+CC42 Chan 3	0	4194304	Value	ValueOutput
+CC43 Chan 3	0	4194304	Value	ValueOutput
+CC44 Chan 3	0	4194304	Value	ValueOutput
+CC45 Chan 3	0	4194304	Value	ValueOutput
+CC46 Chan 3	0	4194304	Value	ValueOutput
+CC47 Chan 3	0	4194304	Value	ValueOutput
+CC48 Chan 3	0	4194304	Value	ValueOutput
+CC49 Chan 3	0	4194304	Value	ValueOutput
+CC50 Chan 3	0	4194304	Value	ValueOutput
+CC51 Chan 3	0	4194304	Value	ValueOutput
+CC52 Chan 3	0	4194304	Value	ValueOutput
+CC53 Chan 3	0	4194304	Value	ValueOutput
+CC54 Chan 3	0	4194304	Value	ValueOutput
+CC55 Chan 3	0	4194304	Value	ValueOutput
+CC56 Chan 3	0	4194304	Value	ValueOutput
+CC57 Chan 3	0	4194304	Value	ValueOutput
+CC58 Chan 3	0	4194304	Value	ValueOutput
+CC59 Chan 3	0	4194304	Value	ValueOutput
+CC60 Chan 3	0	4194304	Value	ValueOutput
+CC61 Chan 3	0	4194304	Value	ValueOutput
+CC62 Chan 3	0	4194304	Value	ValueOutput
+CC63 Chan 3	0	4194304	Value	ValueOutput
+CC64 Chan 3	0	4194304	Value	ValueOutput
+CC65 Chan 3	0	4194304	Value	ValueOutput
+CC66 Chan 3	0	4194304	Value	ValueOutput
+CC67 Chan 3	0	4194304	Value	ValueOutput
+CC68 Chan 3	0	4194304	Value	ValueOutput
+CC69 Chan 3	0	4194304	Value	ValueOutput
+CC70 Chan 3	0	4194304	Value	ValueOutput
+CC71 Chan 3	0	4194304	Value	ValueOutput
+CC72 Chan 3	0	4194304	Value	ValueOutput
+CC73 Chan 3	0	4194304	Value	ValueOutput
+CC74 Chan 3	0	4194304	Value	ValueOutput
+CC75 Chan 3	0	4194304	Value	ValueOutput
+CC76 Chan 3	0	4194304	Value	ValueOutput
+CC77 Chan 3	0	4194304	Value	ValueOutput
+CC78 Chan 3	0	4194304	Value	ValueOutput
+CC79 Chan 3	0	4194304	Value	ValueOutput
+CC80 Chan 3	0	4194304	Value	ValueOutput
+CC81 Chan 3	0	4194304	Value	ValueOutput
+CC82 Chan 3	0	4194304	Value	ValueOutput
+CC83 Chan 3	0	4194304	Value	ValueOutput
+CC84 Chan 3	0	4194304	Value	ValueOutput
+CC85 Chan 3	0	4194304	Value	ValueOutput
+CC86 Chan 3	0	4194304	Value	ValueOutput
+CC87 Chan 3	0	4194304	Value	ValueOutput
+CC88 Chan 3	0	4194304	Value	ValueOutput
+CC89 Chan 3	0	4194304	Value	ValueOutput
+CC90 Chan 3	0	4194304	Value	ValueOutput
+CC91 Chan 3	0	4194304	Value	ValueOutput
+CC92 Chan 3	0	4194304	Value	ValueOutput
+CC93 Chan 3	0	4194304	Value	ValueOutput
+CC94 Chan 3	0	4194304	Value	ValueOutput
+CC95 Chan 3	0	4194304	Value	ValueOutput
+CC96 Chan 3	0	4194304	Value	ValueOutput
+CC97 Chan 3	0	4194304	Value	ValueOutput
+CC98 Chan 3	0	4194304	Value	ValueOutput
+CC99 Chan 3	0	4194304	Value	ValueOutput
+CC100 Chan 3	0	4194304	Value	ValueOutput
+CC101 Chan 3	0	4194304	Value	ValueOutput
+CC102 Chan 3	0	4194304	Value	ValueOutput
+CC103 Chan 3	0	4194304	Value	ValueOutput
+CC104 Chan 3	0	4194304	Value	ValueOutput
+CC105 Chan 3	0	4194304	Value	ValueOutput
+CC106 Chan 3	0	4194304	Value	ValueOutput
+CC107 Chan 3	0	4194304	Value	ValueOutput
+CC108 Chan 3	0	4194304	Value	ValueOutput
+CC109 Chan 3	0	4194304	Value	ValueOutput
+CC110 Chan 3	0	4194304	Value	ValueOutput
+CC111 Chan 3	0	4194304	Value	ValueOutput
+CC112 Chan 3	0	4194304	Value	ValueOutput
+CC113 Chan 3	0	4194304	Value	ValueOutput
+CC114 Chan 3	0	4194304	Value	ValueOutput
+CC115 Chan 3	0	4194304	Value	ValueOutput
+CC116 Chan 3	0	4194304	Value	ValueOutput
+CC117 Chan 3	0	4194304	Value	ValueOutput
+CC118 Chan 3	0	4194304	Value	ValueOutput
+CC119 Chan 3	0	4194304	Value	ValueOutput
+CC120 Chan 3	0	4194304	Value	ValueOutput
+CC121 Chan 3	0	4194304	Value	ValueOutput
+CC122 Chan 3	0	4194304	Value	ValueOutput
+CC123 Chan 3	0	4194304	Value	ValueOutput
+CC124 Chan 3	0	4194304	Value	ValueOutput
+CC125 Chan 3	0	4194304	Value	ValueOutput
+CC126 Chan 3	0	4194304	Value	ValueOutput
+CC127 Chan 3	0	4194304	Value	ValueOutput
+Pitch Bend Chan 4	0	4194304	Value	ValueOutput
+Aftertouch Chan 4	0	4194304	Value	ValueOutput
+CC0 Chan 4	0	4194304	Value	ValueOutput
+CC1 Chan 4	0	4194304	Value	ValueOutput
+CC2 Chan 4	0	4194304	Value	ValueOutput
+CC3 Chan 4	0	4194304	Value	ValueOutput
+CC4 Chan 4	0	4194304	Value	ValueOutput
+CC5 Chan 4	0	4194304	Value	ValueOutput
+CC6 Chan 4	0	4194304	Value	ValueOutput
+CC7 Chan 4	0	4194304	Value	ValueOutput
+CC8 Chan 4	0	4194304	Value	ValueOutput
+CC9 Chan 4	0	4194304	Value	ValueOutput
+CC10 Chan 4	0	4194304	Value	ValueOutput
+CC11 Chan 4	0	4194304	Value	ValueOutput
+CC12 Chan 4	0	4194304	Value	ValueOutput
+CC13 Chan 4	0	4194304	Value	ValueOutput
+CC14 Chan 4	0	4194304	Value	ValueOutput
+CC15 Chan 4	0	4194304	Value	ValueOutput
+CC16 Chan 4	0	4194304	Value	ValueOutput
+CC17 Chan 4	0	4194304	Value	ValueOutput
+CC18 Chan 4	0	4194304	Value	ValueOutput
+CC19 Chan 4	0	4194304	Value	ValueOutput
+CC20 Chan 4	0	4194304	Value	ValueOutput
+CC21 Chan 4	0	4194304	Value	ValueOutput
+CC22 Chan 4	0	4194304	Value	ValueOutput
+CC23 Chan 4	0	4194304	Value	ValueOutput
+CC24 Chan 4	0	4194304	Value	ValueOutput
+CC25 Chan 4	0	4194304	Value	ValueOutput
+CC26 Chan 4	0	4194304	Value	ValueOutput
+CC27 Chan 4	0	4194304	Value	ValueOutput
+CC28 Chan 4	0	4194304	Value	ValueOutput
+CC29 Chan 4	0	4194304	Value	ValueOutput
+CC30 Chan 4	0	4194304	Value	ValueOutput
+CC31 Chan 4	0	4194304	Value	ValueOutput
+CC32 Chan 4	0	4194304	Value	ValueOutput
+CC33 Chan 4	0	4194304	Value	ValueOutput
+CC34 Chan 4	0	4194304	Value	ValueOutput
+CC35 Chan 4	0	4194304	Value	ValueOutput
+CC36 Chan 4	0	4194304	Value	ValueOutput
+CC37 Chan 4	0	4194304	Value	ValueOutput
+CC38 Chan 4	0	4194304	Value	ValueOutput
+CC39 Chan 4	0	4194304	Value	ValueOutput
+CC40 Chan 4	0	4194304	Value	ValueOutput
+CC41 Chan 4	0	4194304	Value	ValueOutput
+CC42 Chan 4	0	4194304	Value	ValueOutput
+CC43 Chan 4	0	4194304	Value	ValueOutput
+CC44 Chan 4	0	4194304	Value	ValueOutput
+CC45 Chan 4	0	4194304	Value	ValueOutput
+CC46 Chan 4	0	4194304	Value	ValueOutput
+CC47 Chan 4	0	4194304	Value	ValueOutput
+CC48 Chan 4	0	4194304	Value	ValueOutput
+CC49 Chan 4	0	4194304	Value	ValueOutput
+CC50 Chan 4	0	4194304	Value	ValueOutput
+CC51 Chan 4	0	4194304	Value	ValueOutput
+CC52 Chan 4	0	4194304	Value	ValueOutput
+CC53 Chan 4	0	4194304	Value	ValueOutput
+CC54 Chan 4	0	4194304	Value	ValueOutput
+CC55 Chan 4	0	4194304	Value	ValueOutput
+CC56 Chan 4	0	4194304	Value	ValueOutput
+CC57 Chan 4	0	4194304	Value	ValueOutput
+CC58 Chan 4	0	4194304	Value	ValueOutput
+CC59 Chan 4	0	4194304	Value	ValueOutput
+CC60 Chan 4	0	4194304	Value	ValueOutput
+CC61 Chan 4	0	4194304	Value	ValueOutput
+CC62 Chan 4	0	4194304	Value	ValueOutput
+CC63 Chan 4	0	4194304	Value	ValueOutput
+CC64 Chan 4	0	4194304	Value	ValueOutput
+CC65 Chan 4	0	4194304	Value	ValueOutput
+CC66 Chan 4	0	4194304	Value	ValueOutput
+CC67 Chan 4	0	4194304	Value	ValueOutput
+CC68 Chan 4	0	4194304	Value	ValueOutput
+CC69 Chan 4	0	4194304	Value	ValueOutput
+CC70 Chan 4	0	4194304	Value	ValueOutput
+CC71 Chan 4	0	4194304	Value	ValueOutput
+CC72 Chan 4	0	4194304	Value	ValueOutput
+CC73 Chan 4	0	4194304	Value	ValueOutput
+CC74 Chan 4	0	4194304	Value	ValueOutput
+CC75 Chan 4	0	4194304	Value	ValueOutput
+CC76 Chan 4	0	4194304	Value	ValueOutput
+CC77 Chan 4	0	4194304	Value	ValueOutput
+CC78 Chan 4	0	4194304	Value	ValueOutput
+CC79 Chan 4	0	4194304	Value	ValueOutput
+CC80 Chan 4	0	4194304	Value	ValueOutput
+CC81 Chan 4	0	4194304	Value	ValueOutput
+CC82 Chan 4	0	4194304	Value	ValueOutput
+CC83 Chan 4	0	4194304	Value	ValueOutput
+CC84 Chan 4	0	4194304	Value	ValueOutput
+CC85 Chan 4	0	4194304	Value	ValueOutput
+CC86 Chan 4	0	4194304	Value	ValueOutput
+CC87 Chan 4	0	4194304	Value	ValueOutput
+CC88 Chan 4	0	4194304	Value	ValueOutput
+CC89 Chan 4	0	4194304	Value	ValueOutput
+CC90 Chan 4	0	4194304	Value	ValueOutput
+CC91 Chan 4	0	4194304	Value	ValueOutput
+CC92 Chan 4	0	4194304	Value	ValueOutput
+CC93 Chan 4	0	4194304	Value	ValueOutput
+CC94 Chan 4	0	4194304	Value	ValueOutput
+CC95 Chan 4	0	4194304	Value	ValueOutput
+CC96 Chan 4	0	4194304	Value	ValueOutput
+CC97 Chan 4	0	4194304	Value	ValueOutput
+CC98 Chan 4	0	4194304	Value	ValueOutput
+CC99 Chan 4	0	4194304	Value	ValueOutput
+CC100 Chan 4	0	4194304	Value	ValueOutput
+CC101 Chan 4	0	4194304	Value	ValueOutput
+CC102 Chan 4	0	4194304	Value	ValueOutput
+CC103 Chan 4	0	4194304	Value	ValueOutput
+CC104 Chan 4	0	4194304	Value	ValueOutput
+CC105 Chan 4	0	4194304	Value	ValueOutput
+CC106 Chan 4	0	4194304	Value	ValueOutput
+CC107 Chan 4	0	4194304	Value	ValueOutput
+CC108 Chan 4	0	4194304	Value	ValueOutput
+CC109 Chan 4	0	4194304	Value	ValueOutput
+CC110 Chan 4	0	4194304	Value	ValueOutput
+CC111 Chan 4	0	4194304	Value	ValueOutput
+CC112 Chan 4	0	4194304	Value	ValueOutput
+CC113 Chan 4	0	4194304	Value	ValueOutput
+CC114 Chan 4	0	4194304	Value	ValueOutput
+CC115 Chan 4	0	4194304	Value	ValueOutput
+CC116 Chan 4	0	4194304	Value	ValueOutput
+CC117 Chan 4	0	4194304	Value	ValueOutput
+CC118 Chan 4	0	4194304	Value	ValueOutput
+CC119 Chan 4	0	4194304	Value	ValueOutput
+CC120 Chan 4	0	4194304	Value	ValueOutput
+CC121 Chan 4	0	4194304	Value	ValueOutput
+CC122 Chan 4	0	4194304	Value	ValueOutput
+CC123 Chan 4	0	4194304	Value	ValueOutput
+CC124 Chan 4	0	4194304	Value	ValueOutput
+CC125 Chan 4	0	4194304	Value	ValueOutput
+CC126 Chan 4	0	4194304	Value	ValueOutput
+CC127 Chan 4	0	4194304	Value	ValueOutput
+Pitch Bend Chan 5	0	4194304	Value	ValueOutput
+Aftertouch Chan 5	0	4194304	Value	ValueOutput
+CC0 Chan 5	0	4194304	Value	ValueOutput
+CC1 Chan 5	0	4194304	Value	ValueOutput
+CC2 Chan 5	0	4194304	Value	ValueOutput
+CC3 Chan 5	0	4194304	Value	ValueOutput
+CC4 Chan 5	0	4194304	Value	ValueOutput
+CC5 Chan 5	0	4194304	Value	ValueOutput
+CC6 Chan 5	0	4194304	Value	ValueOutput
+CC7 Chan 5	0	4194304	Value	ValueOutput
+CC8 Chan 5	0	4194304	Value	ValueOutput
+CC9 Chan 5	0	4194304	Value	ValueOutput
+CC10 Chan 5	0	4194304	Value	ValueOutput
+CC11 Chan 5	0	4194304	Value	ValueOutput
+CC12 Chan 5	0	4194304	Value	ValueOutput
+CC13 Chan 5	0	4194304	Value	ValueOutput
+CC14 Chan 5	0	4194304	Value	ValueOutput
+CC15 Chan 5	0	4194304	Value	ValueOutput
+CC16 Chan 5	0	4194304	Value	ValueOutput
+CC17 Chan 5	0	4194304	Value	ValueOutput
+CC18 Chan 5	0	4194304	Value	ValueOutput
+CC19 Chan 5	0	4194304	Value	ValueOutput
+CC20 Chan 5	0	4194304	Value	ValueOutput
+CC21 Chan 5	0	4194304	Value	ValueOutput
+CC22 Chan 5	0	4194304	Value	ValueOutput
+CC23 Chan 5	0	4194304	Value	ValueOutput
+CC24 Chan 5	0	4194304	Value	ValueOutput
+CC25 Chan 5	0	4194304	Value	ValueOutput
+CC26 Chan 5	0	4194304	Value	ValueOutput
+CC27 Chan 5	0	4194304	Value	ValueOutput
+CC28 Chan 5	0	4194304	Value	ValueOutput
+CC29 Chan 5	0	4194304	Value	ValueOutput
+CC30 Chan 5	0	4194304	Value	ValueOutput
+CC31 Chan 5	0	4194304	Value	ValueOutput
+CC32 Chan 5	0	4194304	Value	ValueOutput
+CC33 Chan 5	0	4194304	Value	ValueOutput
+CC34 Chan 5	0	4194304	Value	ValueOutput
+CC35 Chan 5	0	4194304	Value	ValueOutput
+CC36 Chan 5	0	4194304	Value	ValueOutput
+CC37 Chan 5	0	4194304	Value	ValueOutput
+CC38 Chan 5	0	4194304	Value	ValueOutput
+CC39 Chan 5	0	4194304	Value	ValueOutput
+CC40 Chan 5	0	4194304	Value	ValueOutput
+CC41 Chan 5	0	4194304	Value	ValueOutput
+CC42 Chan 5	0	4194304	Value	ValueOutput
+CC43 Chan 5	0	4194304	Value	ValueOutput
+CC44 Chan 5	0	4194304	Value	ValueOutput
+CC45 Chan 5	0	4194304	Value	ValueOutput
+CC46 Chan 5	0	4194304	Value	ValueOutput
+CC47 Chan 5	0	4194304	Value	ValueOutput
+CC48 Chan 5	0	4194304	Value	ValueOutput
+CC49 Chan 5	0	4194304	Value	ValueOutput
+CC50 Chan 5	0	4194304	Value	ValueOutput
+CC51 Chan 5	0	4194304	Value	ValueOutput
+CC52 Chan 5	0	4194304	Value	ValueOutput
+CC53 Chan 5	0	4194304	Value	ValueOutput
+CC54 Chan 5	0	4194304	Value	ValueOutput
+CC55 Chan 5	0	4194304	Value	ValueOutput
+CC56 Chan 5	0	4194304	Value	ValueOutput
+CC57 Chan 5	0	4194304	Value	ValueOutput
+CC58 Chan 5	0	4194304	Value	ValueOutput
+CC59 Chan 5	0	4194304	Value	ValueOutput
+CC60 Chan 5	0	4194304	Value	ValueOutput
+CC61 Chan 5	0	4194304	Value	ValueOutput
+CC62 Chan 5	0	4194304	Value	ValueOutput
+CC63 Chan 5	0	4194304	Value	ValueOutput
+CC64 Chan 5	0	4194304	Value	ValueOutput
+CC65 Chan 5	0	4194304	Value	ValueOutput
+CC66 Chan 5	0	4194304	Value	ValueOutput
+CC67 Chan 5	0	4194304	Value	ValueOutput
+CC68 Chan 5	0	4194304	Value	ValueOutput
+CC69 Chan 5	0	4194304	Value	ValueOutput
+CC70 Chan 5	0	4194304	Value	ValueOutput
+CC71 Chan 5	0	4194304	Value	ValueOutput
+CC72 Chan 5	0	4194304	Value	ValueOutput
+CC73 Chan 5	0	4194304	Value	ValueOutput
+CC74 Chan 5	0	4194304	Value	ValueOutput
+CC75 Chan 5	0	4194304	Value	ValueOutput
+CC76 Chan 5	0	4194304	Value	ValueOutput
+CC77 Chan 5	0	4194304	Value	ValueOutput
+CC78 Chan 5	0	4194304	Value	ValueOutput
+CC79 Chan 5	0	4194304	Value	ValueOutput
+CC80 Chan 5	0	4194304	Value	ValueOutput
+CC81 Chan 5	0	4194304	Value	ValueOutput
+CC82 Chan 5	0	4194304	Value	ValueOutput
+CC83 Chan 5	0	4194304	Value	ValueOutput
+CC84 Chan 5	0	4194304	Value	ValueOutput
+CC85 Chan 5	0	4194304	Value	ValueOutput
+CC86 Chan 5	0	4194304	Value	ValueOutput
+CC87 Chan 5	0	4194304	Value	ValueOutput
+CC88 Chan 5	0	4194304	Value	ValueOutput
+CC89 Chan 5	0	4194304	Value	ValueOutput
+CC90 Chan 5	0	4194304	Value	ValueOutput
+CC91 Chan 5	0	4194304	Value	ValueOutput
+CC92 Chan 5	0	4194304	Value	ValueOutput
+CC93 Chan 5	0	4194304	Value	ValueOutput
+CC94 Chan 5	0	4194304	Value	ValueOutput
+CC95 Chan 5	0	4194304	Value	ValueOutput
+CC96 Chan 5	0	4194304	Value	ValueOutput
+CC97 Chan 5	0	4194304	Value	ValueOutput
+CC98 Chan 5	0	4194304	Value	ValueOutput
+CC99 Chan 5	0	4194304	Value	ValueOutput
+CC100 Chan 5	0	4194304	Value	ValueOutput
+CC101 Chan 5	0	4194304	Value	ValueOutput
+CC102 Chan 5	0	4194304	Value	ValueOutput
+CC103 Chan 5	0	4194304	Value	ValueOutput
+CC104 Chan 5	0	4194304	Value	ValueOutput
+CC105 Chan 5	0	4194304	Value	ValueOutput
+CC106 Chan 5	0	4194304	Value	ValueOutput
+CC107 Chan 5	0	4194304	Value	ValueOutput
+CC108 Chan 5	0	4194304	Value	ValueOutput
+CC109 Chan 5	0	4194304	Value	ValueOutput
+CC110 Chan 5	0	4194304	Value	ValueOutput
+CC111 Chan 5	0	4194304	Value	ValueOutput
+CC112 Chan 5	0	4194304	Value	ValueOutput
+CC113 Chan 5	0	4194304	Value	ValueOutput
+CC114 Chan 5	0	4194304	Value	ValueOutput
+CC115 Chan 5	0	4194304	Value	ValueOutput
+CC116 Chan 5	0	4194304	Value	ValueOutput
+CC117 Chan 5	0	4194304	Value	ValueOutput
+CC118 Chan 5	0	4194304	Value	ValueOutput
+CC119 Chan 5	0	4194304	Value	ValueOutput
+CC120 Chan 5	0	4194304	Value	ValueOutput
+CC121 Chan 5	0	4194304	Value	ValueOutput
+CC122 Chan 5	0	4194304	Value	ValueOutput
+CC123 Chan 5	0	4194304	Value	ValueOutput
+CC124 Chan 5	0	4194304	Value	ValueOutput
+CC125 Chan 5	0	4194304	Value	ValueOutput
+CC126 Chan 5	0	4194304	Value	ValueOutput
+CC127 Chan 5	0	4194304	Value	ValueOutput
+Pitch Bend Chan 6	0	4194304	Value	ValueOutput
+Aftertouch Chan 6	0	4194304	Value	ValueOutput
+CC0 Chan 6	0	4194304	Value	ValueOutput
+CC1 Chan 6	0	4194304	Value	ValueOutput
+CC2 Chan 6	0	4194304	Value	ValueOutput
+CC3 Chan 6	0	4194304	Value	ValueOutput
+CC4 Chan 6	0	4194304	Value	ValueOutput
+CC5 Chan 6	0	4194304	Value	ValueOutput
+CC6 Chan 6	0	4194304	Value	ValueOutput
+CC7 Chan 6	0	4194304	Value	ValueOutput
+CC8 Chan 6	0	4194304	Value	ValueOutput
+CC9 Chan 6	0	4194304	Value	ValueOutput
+CC10 Chan 6	0	4194304	Value	ValueOutput
+CC11 Chan 6	0	4194304	Value	ValueOutput
+CC12 Chan 6	0	4194304	Value	ValueOutput
+CC13 Chan 6	0	4194304	Value	ValueOutput
+CC14 Chan 6	0	4194304	Value	ValueOutput
+CC15 Chan 6	0	4194304	Value	ValueOutput
+CC16 Chan 6	0	4194304	Value	ValueOutput
+CC17 Chan 6	0	4194304	Value	ValueOutput
+CC18 Chan 6	0	4194304	Value	ValueOutput
+CC19 Chan 6	0	4194304	Value	ValueOutput
+CC20 Chan 6	0	4194304	Value	ValueOutput
+CC21 Chan 6	0	4194304	Value	ValueOutput
+CC22 Chan 6	0	4194304	Value	ValueOutput
+CC23 Chan 6	0	4194304	Value	ValueOutput
+CC24 Chan 6	0	4194304	Value	ValueOutput
+CC25 Chan 6	0	4194304	Value	ValueOutput
+CC26 Chan 6	0	4194304	Value	ValueOutput
+CC27 Chan 6	0	4194304	Value	ValueOutput
+CC28 Chan 6	0	4194304	Value	ValueOutput
+CC29 Chan 6	0	4194304	Value	ValueOutput
+CC30 Chan 6	0	4194304	Value	ValueOutput
+CC31 Chan 6	0	4194304	Value	ValueOutput
+CC32 Chan 6	0	4194304	Value	ValueOutput
+CC33 Chan 6	0	4194304	Value	ValueOutput
+CC34 Chan 6	0	4194304	Value	ValueOutput
+CC35 Chan 6	0	4194304	Value	ValueOutput
+CC36 Chan 6	0	4194304	Value	ValueOutput
+CC37 Chan 6	0	4194304	Value	ValueOutput
+CC38 Chan 6	0	4194304	Value	ValueOutput
+CC39 Chan 6	0	4194304	Value	ValueOutput
+CC40 Chan 6	0	4194304	Value	ValueOutput
+CC41 Chan 6	0	4194304	Value	ValueOutput
+CC42 Chan 6	0	4194304	Value	ValueOutput
+CC43 Chan 6	0	4194304	Value	ValueOutput
+CC44 Chan 6	0	4194304	Value	ValueOutput
+CC45 Chan 6	0	4194304	Value	ValueOutput
+CC46 Chan 6	0	4194304	Value	ValueOutput
+CC47 Chan 6	0	4194304	Value	ValueOutput
+CC48 Chan 6	0	4194304	Value	ValueOutput
+CC49 Chan 6	0	4194304	Value	ValueOutput
+CC50 Chan 6	0	4194304	Value	ValueOutput
+CC51 Chan 6	0	4194304	Value	ValueOutput
+CC52 Chan 6	0	4194304	Value	ValueOutput
+CC53 Chan 6	0	4194304	Value	ValueOutput
+CC54 Chan 6	0	4194304	Value	ValueOutput
+CC55 Chan 6	0	4194304	Value	ValueOutput
+CC56 Chan 6	0	4194304	Value	ValueOutput
+CC57 Chan 6	0	4194304	Value	ValueOutput
+CC58 Chan 6	0	4194304	Value	ValueOutput
+CC59 Chan 6	0	4194304	Value	ValueOutput
+CC60 Chan 6	0	4194304	Value	ValueOutput
+CC61 Chan 6	0	4194304	Value	ValueOutput
+CC62 Chan 6	0	4194304	Value	ValueOutput
+CC63 Chan 6	0	4194304	Value	ValueOutput
+CC64 Chan 6	0	4194304	Value	ValueOutput
+CC65 Chan 6	0	4194304	Value	ValueOutput
+CC66 Chan 6	0	4194304	Value	ValueOutput
+CC67 Chan 6	0	4194304	Value	ValueOutput
+CC68 Chan 6	0	4194304	Value	ValueOutput
+CC69 Chan 6	0	4194304	Value	ValueOutput
+CC70 Chan 6	0	4194304	Value	ValueOutput
+CC71 Chan 6	0	4194304	Value	ValueOutput
+CC72 Chan 6	0	4194304	Value	ValueOutput
+CC73 Chan 6	0	4194304	Value	ValueOutput
+CC74 Chan 6	0	4194304	Value	ValueOutput
+CC75 Chan 6	0	4194304	Value	ValueOutput
+CC76 Chan 6	0	4194304	Value	ValueOutput
+CC77 Chan 6	0	4194304	Value	ValueOutput
+CC78 Chan 6	0	4194304	Value	ValueOutput
+CC79 Chan 6	0	4194304	Value	ValueOutput
+CC80 Chan 6	0	4194304	Value	ValueOutput
+CC81 Chan 6	0	4194304	Value	ValueOutput
+CC82 Chan 6	0	4194304	Value	ValueOutput
+CC83 Chan 6	0	4194304	Value	ValueOutput
+CC84 Chan 6	0	4194304	Value	ValueOutput
+CC85 Chan 6	0	4194304	Value	ValueOutput
+CC86 Chan 6	0	4194304	Value	ValueOutput
+CC87 Chan 6	0	4194304	Value	ValueOutput
+CC88 Chan 6	0	4194304	Value	ValueOutput
+CC89 Chan 6	0	4194304	Value	ValueOutput
+CC90 Chan 6	0	4194304	Value	ValueOutput
+CC91 Chan 6	0	4194304	Value	ValueOutput
+CC92 Chan 6	0	4194304	Value	ValueOutput
+CC93 Chan 6	0	4194304	Value	ValueOutput
+CC94 Chan 6	0	4194304	Value	ValueOutput
+CC95 Chan 6	0	4194304	Value	ValueOutput
+CC96 Chan 6	0	4194304	Value	ValueOutput
+CC97 Chan 6	0	4194304	Value	ValueOutput
+CC98 Chan 6	0	4194304	Value	ValueOutput
+CC99 Chan 6	0	4194304	Value	ValueOutput
+CC100 Chan 6	0	4194304	Value	ValueOutput
+CC101 Chan 6	0	4194304	Value	ValueOutput
+CC102 Chan 6	0	4194304	Value	ValueOutput
+CC103 Chan 6	0	4194304	Value	ValueOutput
+CC104 Chan 6	0	4194304	Value	ValueOutput
+CC105 Chan 6	0	4194304	Value	ValueOutput
+CC106 Chan 6	0	4194304	Value	ValueOutput
+CC107 Chan 6	0	4194304	Value	ValueOutput
+CC108 Chan 6	0	4194304	Value	ValueOutput
+CC109 Chan 6	0	4194304	Value	ValueOutput
+CC110 Chan 6	0	4194304	Value	ValueOutput
+CC111 Chan 6	0	4194304	Value	ValueOutput
+CC112 Chan 6	0	4194304	Value	ValueOutput
+CC113 Chan 6	0	4194304	Value	ValueOutput
+CC114 Chan 6	0	4194304	Value	ValueOutput
+CC115 Chan 6	0	4194304	Value	ValueOutput
+CC116 Chan 6	0	4194304	Value	ValueOutput
+CC117 Chan 6	0	4194304	Value	ValueOutput
+CC118 Chan 6	0	4194304	Value	ValueOutput
+CC119 Chan 6	0	4194304	Value	ValueOutput
+CC120 Chan 6	0	4194304	Value	ValueOutput
+CC121 Chan 6	0	4194304	Value	ValueOutput
+CC122 Chan 6	0	4194304	Value	ValueOutput
+CC123 Chan 6	0	4194304	Value	ValueOutput
+CC124 Chan 6	0	4194304	Value	ValueOutput
+CC125 Chan 6	0	4194304	Value	ValueOutput
+CC126 Chan 6	0	4194304	Value	ValueOutput
+CC127 Chan 6	0	4194304	Value	ValueOutput
+Pitch Bend Chan 7	0	4194304	Value	ValueOutput
+Aftertouch Chan 7	0	4194304	Value	ValueOutput
+CC0 Chan 7	0	4194304	Value	ValueOutput
+CC1 Chan 7	0	4194304	Value	ValueOutput
+CC2 Chan 7	0	4194304	Value	ValueOutput
+CC3 Chan 7	0	4194304	Value	ValueOutput
+CC4 Chan 7	0	4194304	Value	ValueOutput
+CC5 Chan 7	0	4194304	Value	ValueOutput
+CC6 Chan 7	0	4194304	Value	ValueOutput
+CC7 Chan 7	0	4194304	Value	ValueOutput
+CC8 Chan 7	0	4194304	Value	ValueOutput
+CC9 Chan 7	0	4194304	Value	ValueOutput
+CC10 Chan 7	0	4194304	Value	ValueOutput
+CC11 Chan 7	0	4194304	Value	ValueOutput
+CC12 Chan 7	0	4194304	Value	ValueOutput
+CC13 Chan 7	0	4194304	Value	ValueOutput
+CC14 Chan 7	0	4194304	Value	ValueOutput
+CC15 Chan 7	0	4194304	Value	ValueOutput
+CC16 Chan 7	0	4194304	Value	ValueOutput
+CC17 Chan 7	0	4194304	Value	ValueOutput
+CC18 Chan 7	0	4194304	Value	ValueOutput
+CC19 Chan 7	0	4194304	Value	ValueOutput
+CC20 Chan 7	0	4194304	Value	ValueOutput
+CC21 Chan 7	0	4194304	Value	ValueOutput
+CC22 Chan 7	0	4194304	Value	ValueOutput
+CC23 Chan 7	0	4194304	Value	ValueOutput
+CC24 Chan 7	0	4194304	Value	ValueOutput
+CC25 Chan 7	0	4194304	Value	ValueOutput
+CC26 Chan 7	0	4194304	Value	ValueOutput
+CC27 Chan 7	0	4194304	Value	ValueOutput
+CC28 Chan 7	0	4194304	Value	ValueOutput
+CC29 Chan 7	0	4194304	Value	ValueOutput
+CC30 Chan 7	0	4194304	Value	ValueOutput
+CC31 Chan 7	0	4194304	Value	ValueOutput
+CC32 Chan 7	0	4194304	Value	ValueOutput
+CC33 Chan 7	0	4194304	Value	ValueOutput
+CC34 Chan 7	0	4194304	Value	ValueOutput
+CC35 Chan 7	0	4194304	Value	ValueOutput
+CC36 Chan 7	0	4194304	Value	ValueOutput
+CC37 Chan 7	0	4194304	Value	ValueOutput
+CC38 Chan 7	0	4194304	Value	ValueOutput
+CC39 Chan 7	0	4194304	Value	ValueOutput
+CC40 Chan 7	0	4194304	Value	ValueOutput
+CC41 Chan 7	0	4194304	Value	ValueOutput
+CC42 Chan 7	0	4194304	Value	ValueOutput
+CC43 Chan 7	0	4194304	Value	ValueOutput
+CC44 Chan 7	0	4194304	Value	ValueOutput
+CC45 Chan 7	0	4194304	Value	ValueOutput
+CC46 Chan 7	0	4194304	Value	ValueOutput
+CC47 Chan 7	0	4194304	Value	ValueOutput
+CC48 Chan 7	0	4194304	Value	ValueOutput
+CC49 Chan 7	0	4194304	Value	ValueOutput
+CC50 Chan 7	0	4194304	Value	ValueOutput
+CC51 Chan 7	0	4194304	Value	ValueOutput
+CC52 Chan 7	0	4194304	Value	ValueOutput
+CC53 Chan 7	0	4194304	Value	ValueOutput
+CC54 Chan 7	0	4194304	Value	ValueOutput
+CC55 Chan 7	0	4194304	Value	ValueOutput
+CC56 Chan 7	0	4194304	Value	ValueOutput
+CC57 Chan 7	0	4194304	Value	ValueOutput
+CC58 Chan 7	0	4194304	Value	ValueOutput
+CC59 Chan 7	0	4194304	Value	ValueOutput
+CC60 Chan 7	0	4194304	Value	ValueOutput
+CC61 Chan 7	0	4194304	Value	ValueOutput
+CC62 Chan 7	0	4194304	Value	ValueOutput
+CC63 Chan 7	0	4194304	Value	ValueOutput
+CC64 Chan 7	0	4194304	Value	ValueOutput
+CC65 Chan 7	0	4194304	Value	ValueOutput
+CC66 Chan 7	0	4194304	Value	ValueOutput
+CC67 Chan 7	0	4194304	Value	ValueOutput
+CC68 Chan 7	0	4194304	Value	ValueOutput
+CC69 Chan 7	0	4194304	Value	ValueOutput
+CC70 Chan 7	0	4194304	Value	ValueOutput
+CC71 Chan 7	0	4194304	Value	ValueOutput
+CC72 Chan 7	0	4194304	Value	ValueOutput
+CC73 Chan 7	0	4194304	Value	ValueOutput
+CC74 Chan 7	0	4194304	Value	ValueOutput
+CC75 Chan 7	0	4194304	Value	ValueOutput
+CC76 Chan 7	0	4194304	Value	ValueOutput
+CC77 Chan 7	0	4194304	Value	ValueOutput
+CC78 Chan 7	0	4194304	Value	ValueOutput
+CC79 Chan 7	0	4194304	Value	ValueOutput
+CC80 Chan 7	0	4194304	Value	ValueOutput
+CC81 Chan 7	0	4194304	Value	ValueOutput
+CC82 Chan 7	0	4194304	Value	ValueOutput
+CC83 Chan 7	0	4194304	Value	ValueOutput
+CC84 Chan 7	0	4194304	Value	ValueOutput
+CC85 Chan 7	0	4194304	Value	ValueOutput
+CC86 Chan 7	0	4194304	Value	ValueOutput
+CC87 Chan 7	0	4194304	Value	ValueOutput
+CC88 Chan 7	0	4194304	Value	ValueOutput
+CC89 Chan 7	0	4194304	Value	ValueOutput
+CC90 Chan 7	0	4194304	Value	ValueOutput
+CC91 Chan 7	0	4194304	Value	ValueOutput
+CC92 Chan 7	0	4194304	Value	ValueOutput
+CC93 Chan 7	0	4194304	Value	ValueOutput
+CC94 Chan 7	0	4194304	Value	ValueOutput
+CC95 Chan 7	0	4194304	Value	ValueOutput
+CC96 Chan 7	0	4194304	Value	ValueOutput
+CC97 Chan 7	0	4194304	Value	ValueOutput
+CC98 Chan 7	0	4194304	Value	ValueOutput
+CC99 Chan 7	0	4194304	Value	ValueOutput
+CC100 Chan 7	0	4194304	Value	ValueOutput
+CC101 Chan 7	0	4194304	Value	ValueOutput
+CC102 Chan 7	0	4194304	Value	ValueOutput
+CC103 Chan 7	0	4194304	Value	ValueOutput
+CC104 Chan 7	0	4194304	Value	ValueOutput
+CC105 Chan 7	0	4194304	Value	ValueOutput
+CC106 Chan 7	0	4194304	Value	ValueOutput
+CC107 Chan 7	0	4194304	Value	ValueOutput
+CC108 Chan 7	0	4194304	Value	ValueOutput
+CC109 Chan 7	0	4194304	Value	ValueOutput
+CC110 Chan 7	0	4194304	Value	ValueOutput
+CC111 Chan 7	0	4194304	Value	ValueOutput
+CC112 Chan 7	0	4194304	Value	ValueOutput
+CC113 Chan 7	0	4194304	Value	ValueOutput
+CC114 Chan 7	0	4194304	Value	ValueOutput
+CC115 Chan 7	0	4194304	Value	ValueOutput
+CC116 Chan 7	0	4194304	Value	ValueOutput
+CC117 Chan 7	0	4194304	Value	ValueOutput
+CC118 Chan 7	0	4194304	Value	ValueOutput
+CC119 Chan 7	0	4194304	Value	ValueOutput
+CC120 Chan 7	0	4194304	Value	ValueOutput
+CC121 Chan 7	0	4194304	Value	ValueOutput
+CC122 Chan 7	0	4194304	Value	ValueOutput
+CC123 Chan 7	0	4194304	Value	ValueOutput
+CC124 Chan 7	0	4194304	Value	ValueOutput
+CC125 Chan 7	0	4194304	Value	ValueOutput
+CC126 Chan 7	0	4194304	Value	ValueOutput
+CC127 Chan 7	0	4194304	Value	ValueOutput
+Pitch Bend Chan 8	0	4194304	Value	ValueOutput
+Aftertouch Chan 8	0	4194304	Value	ValueOutput
+CC0 Chan 8	0	4194304	Value	ValueOutput
+CC1 Chan 8	0	4194304	Value	ValueOutput
+CC2 Chan 8	0	4194304	Value	ValueOutput
+CC3 Chan 8	0	4194304	Value	ValueOutput
+CC4 Chan 8	0	4194304	Value	ValueOutput
+CC5 Chan 8	0	4194304	Value	ValueOutput
+CC6 Chan 8	0	4194304	Value	ValueOutput
+CC7 Chan 8	0	4194304	Value	ValueOutput
+CC8 Chan 8	0	4194304	Value	ValueOutput
+CC9 Chan 8	0	4194304	Value	ValueOutput
+CC10 Chan 8	0	4194304	Value	ValueOutput
+CC11 Chan 8	0	4194304	Value	ValueOutput
+CC12 Chan 8	0	4194304	Value	ValueOutput
+CC13 Chan 8	0	4194304	Value	ValueOutput
+CC14 Chan 8	0	4194304	Value	ValueOutput
+CC15 Chan 8	0	4194304	Value	ValueOutput
+CC16 Chan 8	0	4194304	Value	ValueOutput
+CC17 Chan 8	0	4194304	Value	ValueOutput
+CC18 Chan 8	0	4194304	Value	ValueOutput
+CC19 Chan 8	0	4194304	Value	ValueOutput
+CC20 Chan 8	0	4194304	Value	ValueOutput
+CC21 Chan 8	0	4194304	Value	ValueOutput
+CC22 Chan 8	0	4194304	Value	ValueOutput
+CC23 Chan 8	0	4194304	Value	ValueOutput
+CC24 Chan 8	0	4194304	Value	ValueOutput
+CC25 Chan 8	0	4194304	Value	ValueOutput
+CC26 Chan 8	0	4194304	Value	ValueOutput
+CC27 Chan 8	0	4194304	Value	ValueOutput
+CC28 Chan 8	0	4194304	Value	ValueOutput
+CC29 Chan 8	0	4194304	Value	ValueOutput
+CC30 Chan 8	0	4194304	Value	ValueOutput
+CC31 Chan 8	0	4194304	Value	ValueOutput
+CC32 Chan 8	0	4194304	Value	ValueOutput
+CC33 Chan 8	0	4194304	Value	ValueOutput
+CC34 Chan 8	0	4194304	Value	ValueOutput
+CC35 Chan 8	0	4194304	Value	ValueOutput
+CC36 Chan 8	0	4194304	Value	ValueOutput
+CC37 Chan 8	0	4194304	Value	ValueOutput
+CC38 Chan 8	0	4194304	Value	ValueOutput
+CC39 Chan 8	0	4194304	Value	ValueOutput
+CC40 Chan 8	0	4194304	Value	ValueOutput
+CC41 Chan 8	0	4194304	Value	ValueOutput
+CC42 Chan 8	0	4194304	Value	ValueOutput
+CC43 Chan 8	0	4194304	Value	ValueOutput
+CC44 Chan 8	0	4194304	Value	ValueOutput
+CC45 Chan 8	0	4194304	Value	ValueOutput
+CC46 Chan 8	0	4194304	Value	ValueOutput
+CC47 Chan 8	0	4194304	Value	ValueOutput
+CC48 Chan 8	0	4194304	Value	ValueOutput
+CC49 Chan 8	0	4194304	Value	ValueOutput
+CC50 Chan 8	0	4194304	Value	ValueOutput
+CC51 Chan 8	0	4194304	Value	ValueOutput
+CC52 Chan 8	0	4194304	Value	ValueOutput
+CC53 Chan 8	0	4194304	Value	ValueOutput
+CC54 Chan 8	0	4194304	Value	ValueOutput
+CC55 Chan 8	0	4194304	Value	ValueOutput
+CC56 Chan 8	0	4194304	Value	ValueOutput
+CC57 Chan 8	0	4194304	Value	ValueOutput
+CC58 Chan 8	0	4194304	Value	ValueOutput
+CC59 Chan 8	0	4194304	Value	ValueOutput
+CC60 Chan 8	0	4194304	Value	ValueOutput
+CC61 Chan 8	0	4194304	Value	ValueOutput
+CC62 Chan 8	0	4194304	Value	ValueOutput
+CC63 Chan 8	0	4194304	Value	ValueOutput
+CC64 Chan 8	0	4194304	Value	ValueOutput
+CC65 Chan 8	0	4194304	Value	ValueOutput
+CC66 Chan 8	0	4194304	Value	ValueOutput
+CC67 Chan 8	0	4194304	Value	ValueOutput
+CC68 Chan 8	0	4194304	Value	ValueOutput
+CC69 Chan 8	0	4194304	Value	ValueOutput
+CC70 Chan 8	0	4194304	Value	ValueOutput
+CC71 Chan 8	0	4194304	Value	ValueOutput
+CC72 Chan 8	0	4194304	Value	ValueOutput
+CC73 Chan 8	0	4194304	Value	ValueOutput
+CC74 Chan 8	0	4194304	Value	ValueOutput
+CC75 Chan 8	0	4194304	Value	ValueOutput
+CC76 Chan 8	0	4194304	Value	ValueOutput
+CC77 Chan 8	0	4194304	Value	ValueOutput
+CC78 Chan 8	0	4194304	Value	ValueOutput
+CC79 Chan 8	0	4194304	Value	ValueOutput
+CC80 Chan 8	0	4194304	Value	ValueOutput
+CC81 Chan 8	0	4194304	Value	ValueOutput
+CC82 Chan 8	0	4194304	Value	ValueOutput
+CC83 Chan 8	0	4194304	Value	ValueOutput
+CC84 Chan 8	0	4194304	Value	ValueOutput
+CC85 Chan 8	0	4194304	Value	ValueOutput
+CC86 Chan 8	0	4194304	Value	ValueOutput
+CC87 Chan 8	0	4194304	Value	ValueOutput
+CC88 Chan 8	0	4194304	Value	ValueOutput
+CC89 Chan 8	0	4194304	Value	ValueOutput
+CC90 Chan 8	0	4194304	Value	ValueOutput
+CC91 Chan 8	0	4194304	Value	ValueOutput
+CC92 Chan 8	0	4194304	Value	ValueOutput
+CC93 Chan 8	0	4194304	Value	ValueOutput
+CC94 Chan 8	0	4194304	Value	ValueOutput
+CC95 Chan 8	0	4194304	Value	ValueOutput
+CC96 Chan 8	0	4194304	Value	ValueOutput
+CC97 Chan 8	0	4194304	Value	ValueOutput
+CC98 Chan 8	0	4194304	Value	ValueOutput
+CC99 Chan 8	0	4194304	Value	ValueOutput
+CC100 Chan 8	0	4194304	Value	ValueOutput
+CC101 Chan 8	0	4194304	Value	ValueOutput
+CC102 Chan 8	0	4194304	Value	ValueOutput
+CC103 Chan 8	0	4194304	Value	ValueOutput
+CC104 Chan 8	0	4194304	Value	ValueOutput
+CC105 Chan 8	0	4194304	Value	ValueOutput
+CC106 Chan 8	0	4194304	Value	ValueOutput
+CC107 Chan 8	0	4194304	Value	ValueOutput
+CC108 Chan 8	0	4194304	Value	ValueOutput
+CC109 Chan 8	0	4194304	Value	ValueOutput
+CC110 Chan 8	0	4194304	Value	ValueOutput
+CC111 Chan 8	0	4194304	Value	ValueOutput
+CC112 Chan 8	0	4194304	Value	ValueOutput
+CC113 Chan 8	0	4194304	Value	ValueOutput
+CC114 Chan 8	0	4194304	Value	ValueOutput
+CC115 Chan 8	0	4194304	Value	ValueOutput
+CC116 Chan 8	0	4194304	Value	ValueOutput
+CC117 Chan 8	0	4194304	Value	ValueOutput
+CC118 Chan 8	0	4194304	Value	ValueOutput
+CC119 Chan 8	0	4194304	Value	ValueOutput
+CC120 Chan 8	0	4194304	Value	ValueOutput
+CC121 Chan 8	0	4194304	Value	ValueOutput
+CC122 Chan 8	0	4194304	Value	ValueOutput
+CC123 Chan 8	0	4194304	Value	ValueOutput
+CC124 Chan 8	0	4194304	Value	ValueOutput
+CC125 Chan 8	0	4194304	Value	ValueOutput
+CC126 Chan 8	0	4194304	Value	ValueOutput
+CC127 Chan 8	0	4194304	Value	ValueOutput
+Pitch Bend Chan 9	0	4194304	Value	ValueOutput
+Aftertouch Chan 9	0	4194304	Value	ValueOutput
+CC0 Chan 9	0	4194304	Value	ValueOutput
+CC1 Chan 9	0	4194304	Value	ValueOutput
+CC2 Chan 9	0	4194304	Value	ValueOutput
+CC3 Chan 9	0	4194304	Value	ValueOutput
+CC4 Chan 9	0	4194304	Value	ValueOutput
+CC5 Chan 9	0	4194304	Value	ValueOutput
+CC6 Chan 9	0	4194304	Value	ValueOutput
+CC7 Chan 9	0	4194304	Value	ValueOutput
+CC8 Chan 9	0	4194304	Value	ValueOutput
+CC9 Chan 9	0	4194304	Value	ValueOutput
+CC10 Chan 9	0	4194304	Value	ValueOutput
+CC11 Chan 9	0	4194304	Value	ValueOutput
+CC12 Chan 9	0	4194304	Value	ValueOutput
+CC13 Chan 9	0	4194304	Value	ValueOutput
+CC14 Chan 9	0	4194304	Value	ValueOutput
+CC15 Chan 9	0	4194304	Value	ValueOutput
+CC16 Chan 9	0	4194304	Value	ValueOutput
+CC17 Chan 9	0	4194304	Value	ValueOutput
+CC18 Chan 9	0	4194304	Value	ValueOutput
+CC19 Chan 9	0	4194304	Value	ValueOutput
+CC20 Chan 9	0	4194304	Value	ValueOutput
+CC21 Chan 9	0	4194304	Value	ValueOutput
+CC22 Chan 9	0	4194304	Value	ValueOutput
+CC23 Chan 9	0	4194304	Value	ValueOutput
+CC24 Chan 9	0	4194304	Value	ValueOutput
+CC25 Chan 9	0	4194304	Value	ValueOutput
+CC26 Chan 9	0	4194304	Value	ValueOutput
+CC27 Chan 9	0	4194304	Value	ValueOutput
+CC28 Chan 9	0	4194304	Value	ValueOutput
+CC29 Chan 9	0	4194304	Value	ValueOutput
+CC30 Chan 9	0	4194304	Value	ValueOutput
+CC31 Chan 9	0	4194304	Value	ValueOutput
+CC32 Chan 9	0	4194304	Value	ValueOutput
+CC33 Chan 9	0	4194304	Value	ValueOutput
+CC34 Chan 9	0	4194304	Value	ValueOutput
+CC35 Chan 9	0	4194304	Value	ValueOutput
+CC36 Chan 9	0	4194304	Value	ValueOutput
+CC37 Chan 9	0	4194304	Value	ValueOutput
+CC38 Chan 9	0	4194304	Value	ValueOutput
+CC39 Chan 9	0	4194304	Value	ValueOutput
+CC40 Chan 9	0	4194304	Value	ValueOutput
+CC41 Chan 9	0	4194304	Value	ValueOutput
+CC42 Chan 9	0	4194304	Value	ValueOutput
+CC43 Chan 9	0	4194304	Value	ValueOutput
+CC44 Chan 9	0	4194304	Value	ValueOutput
+CC45 Chan 9	0	4194304	Value	ValueOutput
+CC46 Chan 9	0	4194304	Value	ValueOutput
+CC47 Chan 9	0	4194304	Value	ValueOutput
+CC48 Chan 9	0	4194304	Value	ValueOutput
+CC49 Chan 9	0	4194304	Value	ValueOutput
+CC50 Chan 9	0	4194304	Value	ValueOutput
+CC51 Chan 9	0	4194304	Value	ValueOutput
+CC52 Chan 9	0	4194304	Value	ValueOutput
+CC53 Chan 9	0	4194304	Value	ValueOutput
+CC54 Chan 9	0	4194304	Value	ValueOutput
+CC55 Chan 9	0	4194304	Value	ValueOutput
+CC56 Chan 9	0	4194304	Value	ValueOutput
+CC57 Chan 9	0	4194304	Value	ValueOutput
+CC58 Chan 9	0	4194304	Value	ValueOutput
+CC59 Chan 9	0	4194304	Value	ValueOutput
+CC60 Chan 9	0	4194304	Value	ValueOutput
+CC61 Chan 9	0	4194304	Value	ValueOutput
+CC62 Chan 9	0	4194304	Value	ValueOutput
+CC63 Chan 9	0	4194304	Value	ValueOutput
+CC64 Chan 9	0	4194304	Value	ValueOutput
+CC65 Chan 9	0	4194304	Value	ValueOutput
+CC66 Chan 9	0	4194304	Value	ValueOutput
+CC67 Chan 9	0	4194304	Value	ValueOutput
+CC68 Chan 9	0	4194304	Value	ValueOutput
+CC69 Chan 9	0	4194304	Value	ValueOutput
+CC70 Chan 9	0	4194304	Value	ValueOutput
+CC71 Chan 9	0	4194304	Value	ValueOutput
+CC72 Chan 9	0	4194304	Value	ValueOutput
+CC73 Chan 9	0	4194304	Value	ValueOutput
+CC74 Chan 9	0	4194304	Value	ValueOutput
+CC75 Chan 9	0	4194304	Value	ValueOutput
+CC76 Chan 9	0	4194304	Value	ValueOutput
+CC77 Chan 9	0	4194304	Value	ValueOutput
+CC78 Chan 9	0	4194304	Value	ValueOutput
+CC79 Chan 9	0	4194304	Value	ValueOutput
+CC80 Chan 9	0	4194304	Value	ValueOutput
+CC81 Chan 9	0	4194304	Value	ValueOutput
+CC82 Chan 9	0	4194304	Value	ValueOutput
+CC83 Chan 9	0	4194304	Value	ValueOutput
+CC84 Chan 9	0	4194304	Value	ValueOutput
+CC85 Chan 9	0	4194304	Value	ValueOutput
+CC86 Chan 9	0	4194304	Value	ValueOutput
+CC87 Chan 9	0	4194304	Value	ValueOutput
+CC88 Chan 9	0	4194304	Value	ValueOutput
+CC89 Chan 9	0	4194304	Value	ValueOutput
+CC90 Chan 9	0	4194304	Value	ValueOutput
+CC91 Chan 9	0	4194304	Value	ValueOutput
+CC92 Chan 9	0	4194304	Value	ValueOutput
+CC93 Chan 9	0	4194304	Value	ValueOutput
+CC94 Chan 9	0	4194304	Value	ValueOutput
+CC95 Chan 9	0	4194304	Value	ValueOutput
+CC96 Chan 9	0	4194304	Value	ValueOutput
+CC97 Chan 9	0	4194304	Value	ValueOutput
+CC98 Chan 9	0	4194304	Value	ValueOutput
+CC99 Chan 9	0	4194304	Value	ValueOutput
+CC100 Chan 9	0	4194304	Value	ValueOutput
+CC101 Chan 9	0	4194304	Value	ValueOutput
+CC102 Chan 9	0	4194304	Value	ValueOutput
+CC103 Chan 9	0	4194304	Value	ValueOutput
+CC104 Chan 9	0	4194304	Value	ValueOutput
+CC105 Chan 9	0	4194304	Value	ValueOutput
+CC106 Chan 9	0	4194304	Value	ValueOutput
+CC107 Chan 9	0	4194304	Value	ValueOutput
+CC108 Chan 9	0	4194304	Value	ValueOutput
+CC109 Chan 9	0	4194304	Value	ValueOutput
+CC110 Chan 9	0	4194304	Value	ValueOutput
+CC111 Chan 9	0	4194304	Value	ValueOutput
+CC112 Chan 9	0	4194304	Value	ValueOutput
+CC113 Chan 9	0	4194304	Value	ValueOutput
+CC114 Chan 9	0	4194304	Value	ValueOutput
+CC115 Chan 9	0	4194304	Value	ValueOutput
+CC116 Chan 9	0	4194304	Value	ValueOutput
+CC117 Chan 9	0	4194304	Value	ValueOutput
+CC118 Chan 9	0	4194304	Value	ValueOutput
+CC119 Chan 9	0	4194304	Value	ValueOutput
+CC120 Chan 9	0	4194304	Value	ValueOutput
+CC121 Chan 9	0	4194304	Value	ValueOutput
+CC122 Chan 9	0	4194304	Value	ValueOutput
+CC123 Chan 9	0	4194304	Value	ValueOutput
+CC124 Chan 9	0	4194304	Value	ValueOutput
+CC125 Chan 9	0	4194304	Value	ValueOutput
+CC126 Chan 9	0	4194304	Value	ValueOutput
+CC127 Chan 9	0	4194304	Value	ValueOutput
+Pitch Bend Chan 10	0	4194304	Value	ValueOutput
+Aftertouch Chan 10	0	4194304	Value	ValueOutput
+CC0 Chan 10	0	4194304	Value	ValueOutput
+CC1 Chan 10	0	4194304	Value	ValueOutput
+CC2 Chan 10	0	4194304	Value	ValueOutput
+CC3 Chan 10	0	4194304	Value	ValueOutput
+CC4 Chan 10	0	4194304	Value	ValueOutput
+CC5 Chan 10	0	4194304	Value	ValueOutput
+CC6 Chan 10	0	4194304	Value	ValueOutput
+CC7 Chan 10	0	4194304	Value	ValueOutput
+CC8 Chan 10	0	4194304	Value	ValueOutput
+CC9 Chan 10	0	4194304	Value	ValueOutput
+CC10 Chan 10	0	4194304	Value	ValueOutput
+CC11 Chan 10	0	4194304	Value	ValueOutput
+CC12 Chan 10	0	4194304	Value	ValueOutput
+CC13 Chan 10	0	4194304	Value	ValueOutput
+CC14 Chan 10	0	4194304	Value	ValueOutput
+CC15 Chan 10	0	4194304	Value	ValueOutput
+CC16 Chan 10	0	4194304	Value	ValueOutput
+CC17 Chan 10	0	4194304	Value	ValueOutput
+CC18 Chan 10	0	4194304	Value	ValueOutput
+CC19 Chan 10	0	4194304	Value	ValueOutput
+CC20 Chan 10	0	4194304	Value	ValueOutput
+CC21 Chan 10	0	4194304	Value	ValueOutput
+CC22 Chan 10	0	4194304	Value	ValueOutput
+CC23 Chan 10	0	4194304	Value	ValueOutput
+CC24 Chan 10	0	4194304	Value	ValueOutput
+CC25 Chan 10	0	4194304	Value	ValueOutput
+CC26 Chan 10	0	4194304	Value	ValueOutput
+CC27 Chan 10	0	4194304	Value	ValueOutput
+CC28 Chan 10	0	4194304	Value	ValueOutput
+CC29 Chan 10	0	4194304	Value	ValueOutput
+CC30 Chan 10	0	4194304	Value	ValueOutput
+CC31 Chan 10	0	4194304	Value	ValueOutput
+CC32 Chan 10	0	4194304	Value	ValueOutput
+CC33 Chan 10	0	4194304	Value	ValueOutput
+CC34 Chan 10	0	4194304	Value	ValueOutput
+CC35 Chan 10	0	4194304	Value	ValueOutput
+CC36 Chan 10	0	4194304	Value	ValueOutput
+CC37 Chan 10	0	4194304	Value	ValueOutput
+CC38 Chan 10	0	4194304	Value	ValueOutput
+CC39 Chan 10	0	4194304	Value	ValueOutput
+CC40 Chan 10	0	4194304	Value	ValueOutput
+CC41 Chan 10	0	4194304	Value	ValueOutput
+CC42 Chan 10	0	4194304	Value	ValueOutput
+CC43 Chan 10	0	4194304	Value	ValueOutput
+CC44 Chan 10	0	4194304	Value	ValueOutput
+CC45 Chan 10	0	4194304	Value	ValueOutput
+CC46 Chan 10	0	4194304	Value	ValueOutput
+CC47 Chan 10	0	4194304	Value	ValueOutput
+CC48 Chan 10	0	4194304	Value	ValueOutput
+CC49 Chan 10	0	4194304	Value	ValueOutput
+CC50 Chan 10	0	4194304	Value	ValueOutput
+CC51 Chan 10	0	4194304	Value	ValueOutput
+CC52 Chan 10	0	4194304	Value	ValueOutput
+CC53 Chan 10	0	4194304	Value	ValueOutput
+CC54 Chan 10	0	4194304	Value	ValueOutput
+CC55 Chan 10	0	4194304	Value	ValueOutput
+CC56 Chan 10	0	4194304	Value	ValueOutput
+CC57 Chan 10	0	4194304	Value	ValueOutput
+CC58 Chan 10	0	4194304	Value	ValueOutput
+CC59 Chan 10	0	4194304	Value	ValueOutput
+CC60 Chan 10	0	4194304	Value	ValueOutput
+CC61 Chan 10	0	4194304	Value	ValueOutput
+CC62 Chan 10	0	4194304	Value	ValueOutput
+CC63 Chan 10	0	4194304	Value	ValueOutput
+CC64 Chan 10	0	4194304	Value	ValueOutput
+CC65 Chan 10	0	4194304	Value	ValueOutput
+CC66 Chan 10	0	4194304	Value	ValueOutput
+CC67 Chan 10	0	4194304	Value	ValueOutput
+CC68 Chan 10	0	4194304	Value	ValueOutput
+CC69 Chan 10	0	4194304	Value	ValueOutput
+CC70 Chan 10	0	4194304	Value	ValueOutput
+CC71 Chan 10	0	4194304	Value	ValueOutput
+CC72 Chan 10	0	4194304	Value	ValueOutput
+CC73 Chan 10	0	4194304	Value	ValueOutput
+CC74 Chan 10	0	4194304	Value	ValueOutput
+CC75 Chan 10	0	4194304	Value	ValueOutput
+CC76 Chan 10	0	4194304	Value	ValueOutput
+CC77 Chan 10	0	4194304	Value	ValueOutput
+CC78 Chan 10	0	4194304	Value	ValueOutput
+CC79 Chan 10	0	4194304	Value	ValueOutput
+CC80 Chan 10	0	4194304	Value	ValueOutput
+CC81 Chan 10	0	4194304	Value	ValueOutput
+CC82 Chan 10	0	4194304	Value	ValueOutput
+CC83 Chan 10	0	4194304	Value	ValueOutput
+CC84 Chan 10	0	4194304	Value	ValueOutput
+CC85 Chan 10	0	4194304	Value	ValueOutput
+CC86 Chan 10	0	4194304	Value	ValueOutput
+CC87 Chan 10	0	4194304	Value	ValueOutput
+CC88 Chan 10	0	4194304	Value	ValueOutput
+CC89 Chan 10	0	4194304	Value	ValueOutput
+CC90 Chan 10	0	4194304	Value	ValueOutput
+CC91 Chan 10	0	4194304	Value	ValueOutput
+CC92 Chan 10	0	4194304	Value	ValueOutput
+CC93 Chan 10	0	4194304	Value	ValueOutput
+CC94 Chan 10	0	4194304	Value	ValueOutput
+CC95 Chan 10	0	4194304	Value	ValueOutput
+CC96 Chan 10	0	4194304	Value	ValueOutput
+CC97 Chan 10	0	4194304	Value	ValueOutput
+CC98 Chan 10	0	4194304	Value	ValueOutput
+CC99 Chan 10	0	4194304	Value	ValueOutput
+CC100 Chan 10	0	4194304	Value	ValueOutput
+CC101 Chan 10	0	4194304	Value	ValueOutput
+CC102 Chan 10	0	4194304	Value	ValueOutput
+CC103 Chan 10	0	4194304	Value	ValueOutput
+CC104 Chan 10	0	4194304	Value	ValueOutput
+CC105 Chan 10	0	4194304	Value	ValueOutput
+CC106 Chan 10	0	4194304	Value	ValueOutput
+CC107 Chan 10	0	4194304	Value	ValueOutput
+CC108 Chan 10	0	4194304	Value	ValueOutput
+CC109 Chan 10	0	4194304	Value	ValueOutput
+CC110 Chan 10	0	4194304	Value	ValueOutput
+CC111 Chan 10	0	4194304	Value	ValueOutput
+CC112 Chan 10	0	4194304	Value	ValueOutput
+CC113 Chan 10	0	4194304	Value	ValueOutput
+CC114 Chan 10	0	4194304	Value	ValueOutput
+CC115 Chan 10	0	4194304	Value	ValueOutput
+CC116 Chan 10	0	4194304	Value	ValueOutput
+CC117 Chan 10	0	4194304	Value	ValueOutput
+CC118 Chan 10	0	4194304	Value	ValueOutput
+CC119 Chan 10	0	4194304	Value	ValueOutput
+CC120 Chan 10	0	4194304	Value	ValueOutput
+CC121 Chan 10	0	4194304	Value	ValueOutput
+CC122 Chan 10	0	4194304	Value	ValueOutput
+CC123 Chan 10	0	4194304	Value	ValueOutput
+CC124 Chan 10	0	4194304	Value	ValueOutput
+CC125 Chan 10	0	4194304	Value	ValueOutput
+CC126 Chan 10	0	4194304	Value	ValueOutput
+CC127 Chan 10	0	4194304	Value	ValueOutput
+Pitch Bend Chan 11	0	4194304	Value	ValueOutput
+Aftertouch Chan 11	0	4194304	Value	ValueOutput
+CC0 Chan 11	0	4194304	Value	ValueOutput
+CC1 Chan 11	0	4194304	Value	ValueOutput
+CC2 Chan 11	0	4194304	Value	ValueOutput
+CC3 Chan 11	0	4194304	Value	ValueOutput
+CC4 Chan 11	0	4194304	Value	ValueOutput
+CC5 Chan 11	0	4194304	Value	ValueOutput
+CC6 Chan 11	0	4194304	Value	ValueOutput
+CC7 Chan 11	0	4194304	Value	ValueOutput
+CC8 Chan 11	0	4194304	Value	ValueOutput
+CC9 Chan 11	0	4194304	Value	ValueOutput
+CC10 Chan 11	0	4194304	Value	ValueOutput
+CC11 Chan 11	0	4194304	Value	ValueOutput
+CC12 Chan 11	0	4194304	Value	ValueOutput
+CC13 Chan 11	0	4194304	Value	ValueOutput
+CC14 Chan 11	0	4194304	Value	ValueOutput
+CC15 Chan 11	0	4194304	Value	ValueOutput
+CC16 Chan 11	0	4194304	Value	ValueOutput
+CC17 Chan 11	0	4194304	Value	ValueOutput
+CC18 Chan 11	0	4194304	Value	ValueOutput
+CC19 Chan 11	0	4194304	Value	ValueOutput
+CC20 Chan 11	0	4194304	Value	ValueOutput
+CC21 Chan 11	0	4194304	Value	ValueOutput
+CC22 Chan 11	0	4194304	Value	ValueOutput
+CC23 Chan 11	0	4194304	Value	ValueOutput
+CC24 Chan 11	0	4194304	Value	ValueOutput
+CC25 Chan 11	0	4194304	Value	ValueOutput
+CC26 Chan 11	0	4194304	Value	ValueOutput
+CC27 Chan 11	0	4194304	Value	ValueOutput
+CC28 Chan 11	0	4194304	Value	ValueOutput
+CC29 Chan 11	0	4194304	Value	ValueOutput
+CC30 Chan 11	0	4194304	Value	ValueOutput
+CC31 Chan 11	0	4194304	Value	ValueOutput
+CC32 Chan 11	0	4194304	Value	ValueOutput
+CC33 Chan 11	0	4194304	Value	ValueOutput
+CC34 Chan 11	0	4194304	Value	ValueOutput
+CC35 Chan 11	0	4194304	Value	ValueOutput
+CC36 Chan 11	0	4194304	Value	ValueOutput
+CC37 Chan 11	0	4194304	Value	ValueOutput
+CC38 Chan 11	0	4194304	Value	ValueOutput
+CC39 Chan 11	0	4194304	Value	ValueOutput
+CC40 Chan 11	0	4194304	Value	ValueOutput
+CC41 Chan 11	0	4194304	Value	ValueOutput
+CC42 Chan 11	0	4194304	Value	ValueOutput
+CC43 Chan 11	0	4194304	Value	ValueOutput
+CC44 Chan 11	0	4194304	Value	ValueOutput
+CC45 Chan 11	0	4194304	Value	ValueOutput
+CC46 Chan 11	0	4194304	Value	ValueOutput
+CC47 Chan 11	0	4194304	Value	ValueOutput
+CC48 Chan 11	0	4194304	Value	ValueOutput
+CC49 Chan 11	0	4194304	Value	ValueOutput
+CC50 Chan 11	0	4194304	Value	ValueOutput
+CC51 Chan 11	0	4194304	Value	ValueOutput
+CC52 Chan 11	0	4194304	Value	ValueOutput
+CC53 Chan 11	0	4194304	Value	ValueOutput
+CC54 Chan 11	0	4194304	Value	ValueOutput
+CC55 Chan 11	0	4194304	Value	ValueOutput
+CC56 Chan 11	0	4194304	Value	ValueOutput
+CC57 Chan 11	0	4194304	Value	ValueOutput
+CC58 Chan 11	0	4194304	Value	ValueOutput
+CC59 Chan 11	0	4194304	Value	ValueOutput
+CC60 Chan 11	0	4194304	Value	ValueOutput
+CC61 Chan 11	0	4194304	Value	ValueOutput
+CC62 Chan 11	0	4194304	Value	ValueOutput
+CC63 Chan 11	0	4194304	Value	ValueOutput
+CC64 Chan 11	0	4194304	Value	ValueOutput
+CC65 Chan 11	0	4194304	Value	ValueOutput
+CC66 Chan 11	0	4194304	Value	ValueOutput
+CC67 Chan 11	0	4194304	Value	ValueOutput
+CC68 Chan 11	0	4194304	Value	ValueOutput
+CC69 Chan 11	0	4194304	Value	ValueOutput
+CC70 Chan 11	0	4194304	Value	ValueOutput
+CC71 Chan 11	0	4194304	Value	ValueOutput
+CC72 Chan 11	0	4194304	Value	ValueOutput
+CC73 Chan 11	0	4194304	Value	ValueOutput
+CC74 Chan 11	0	4194304	Value	ValueOutput
+CC75 Chan 11	0	4194304	Value	ValueOutput
+CC76 Chan 11	0	4194304	Value	ValueOutput
+CC77 Chan 11	0	4194304	Value	ValueOutput
+CC78 Chan 11	0	4194304	Value	ValueOutput
+CC79 Chan 11	0	4194304	Value	ValueOutput
+CC80 Chan 11	0	4194304	Value	ValueOutput
+CC81 Chan 11	0	4194304	Value	ValueOutput
+CC82 Chan 11	0	4194304	Value	ValueOutput
+CC83 Chan 11	0	4194304	Value	ValueOutput
+CC84 Chan 11	0	4194304	Value	ValueOutput
+CC85 Chan 11	0	4194304	Value	ValueOutput
+CC86 Chan 11	0	4194304	Value	ValueOutput
+CC87 Chan 11	0	4194304	Value	ValueOutput
+CC88 Chan 11	0	4194304	Value	ValueOutput
+CC89 Chan 11	0	4194304	Value	ValueOutput
+CC90 Chan 11	0	4194304	Value	ValueOutput
+CC91 Chan 11	0	4194304	Value	ValueOutput
+CC92 Chan 11	0	4194304	Value	ValueOutput
+CC93 Chan 11	0	4194304	Value	ValueOutput
+CC94 Chan 11	0	4194304	Value	ValueOutput
+CC95 Chan 11	0	4194304	Value	ValueOutput
+CC96 Chan 11	0	4194304	Value	ValueOutput
+CC97 Chan 11	0	4194304	Value	ValueOutput
+CC98 Chan 11	0	4194304	Value	ValueOutput
+CC99 Chan 11	0	4194304	Value	ValueOutput
+CC100 Chan 11	0	4194304	Value	ValueOutput
+CC101 Chan 11	0	4194304	Value	ValueOutput
+CC102 Chan 11	0	4194304	Value	ValueOutput
+CC103 Chan 11	0	4194304	Value	ValueOutput
+CC104 Chan 11	0	4194304	Value	ValueOutput
+CC105 Chan 11	0	4194304	Value	ValueOutput
+CC106 Chan 11	0	4194304	Value	ValueOutput
+CC107 Chan 11	0	4194304	Value	ValueOutput
+CC108 Chan 11	0	4194304	Value	ValueOutput
+CC109 Chan 11	0	4194304	Value	ValueOutput
+CC110 Chan 11	0	4194304	Value	ValueOutput
+CC111 Chan 11	0	4194304	Value	ValueOutput
+CC112 Chan 11	0	4194304	Value	ValueOutput
+CC113 Chan 11	0	4194304	Value	ValueOutput
+CC114 Chan 11	0	4194304	Value	ValueOutput
+CC115 Chan 11	0	4194304	Value	ValueOutput
+CC116 Chan 11	0	4194304	Value	ValueOutput
+CC117 Chan 11	0	4194304	Value	ValueOutput
+CC118 Chan 11	0	4194304	Value	ValueOutput
+CC119 Chan 11	0	4194304	Value	ValueOutput
+CC120 Chan 11	0	4194304	Value	ValueOutput
+CC121 Chan 11	0	4194304	Value	ValueOutput
+CC122 Chan 11	0	4194304	Value	ValueOutput
+CC123 Chan 11	0	4194304	Value	ValueOutput
+CC124 Chan 11	0	4194304	Value	ValueOutput
+CC125 Chan 11	0	4194304	Value	ValueOutput
+CC126 Chan 11	0	4194304	Value	ValueOutput
+CC127 Chan 11	0	4194304	Value	ValueOutput
+Pitch Bend Chan 12	0	4194304	Value	ValueOutput
+Aftertouch Chan 12	0	4194304	Value	ValueOutput
+CC0 Chan 12	0	4194304	Value	ValueOutput
+CC1 Chan 12	0	4194304	Value	ValueOutput
+CC2 Chan 12	0	4194304	Value	ValueOutput
+CC3 Chan 12	0	4194304	Value	ValueOutput
+CC4 Chan 12	0	4194304	Value	ValueOutput
+CC5 Chan 12	0	4194304	Value	ValueOutput
+CC6 Chan 12	0	4194304	Value	ValueOutput
+CC7 Chan 12	0	4194304	Value	ValueOutput
+CC8 Chan 12	0	4194304	Value	ValueOutput
+CC9 Chan 12	0	4194304	Value	ValueOutput
+CC10 Chan 12	0	4194304	Value	ValueOutput
+CC11 Chan 12	0	4194304	Value	ValueOutput
+CC12 Chan 12	0	4194304	Value	ValueOutput
+CC13 Chan 12	0	4194304	Value	ValueOutput
+CC14 Chan 12	0	4194304	Value	ValueOutput
+CC15 Chan 12	0	4194304	Value	ValueOutput
+CC16 Chan 12	0	4194304	Value	ValueOutput
+CC17 Chan 12	0	4194304	Value	ValueOutput
+CC18 Chan 12	0	4194304	Value	ValueOutput
+CC19 Chan 12	0	4194304	Value	ValueOutput
+CC20 Chan 12	0	4194304	Value	ValueOutput
+CC21 Chan 12	0	4194304	Value	ValueOutput
+CC22 Chan 12	0	4194304	Value	ValueOutput
+CC23 Chan 12	0	4194304	Value	ValueOutput
+CC24 Chan 12	0	4194304	Value	ValueOutput
+CC25 Chan 12	0	4194304	Value	ValueOutput
+CC26 Chan 12	0	4194304	Value	ValueOutput
+CC27 Chan 12	0	4194304	Value	ValueOutput
+CC28 Chan 12	0	4194304	Value	ValueOutput
+CC29 Chan 12	0	4194304	Value	ValueOutput
+CC30 Chan 12	0	4194304	Value	ValueOutput
+CC31 Chan 12	0	4194304	Value	ValueOutput
+CC32 Chan 12	0	4194304	Value	ValueOutput
+CC33 Chan 12	0	4194304	Value	ValueOutput
+CC34 Chan 12	0	4194304	Value	ValueOutput
+CC35 Chan 12	0	4194304	Value	ValueOutput
+CC36 Chan 12	0	4194304	Value	ValueOutput
+CC37 Chan 12	0	4194304	Value	ValueOutput
+CC38 Chan 12	0	4194304	Value	ValueOutput
+CC39 Chan 12	0	4194304	Value	ValueOutput
+CC40 Chan 12	0	4194304	Value	ValueOutput
+CC41 Chan 12	0	4194304	Value	ValueOutput
+CC42 Chan 12	0	4194304	Value	ValueOutput
+CC43 Chan 12	0	4194304	Value	ValueOutput
+CC44 Chan 12	0	4194304	Value	ValueOutput
+CC45 Chan 12	0	4194304	Value	ValueOutput
+CC46 Chan 12	0	4194304	Value	ValueOutput
+CC47 Chan 12	0	4194304	Value	ValueOutput
+CC48 Chan 12	0	4194304	Value	ValueOutput
+CC49 Chan 12	0	4194304	Value	ValueOutput
+CC50 Chan 12	0	4194304	Value	ValueOutput
+CC51 Chan 12	0	4194304	Value	ValueOutput
+CC52 Chan 12	0	4194304	Value	ValueOutput
+CC53 Chan 12	0	4194304	Value	ValueOutput
+CC54 Chan 12	0	4194304	Value	ValueOutput
+CC55 Chan 12	0	4194304	Value	ValueOutput
+CC56 Chan 12	0	4194304	Value	ValueOutput
+CC57 Chan 12	0	4194304	Value	ValueOutput
+CC58 Chan 12	0	4194304	Value	ValueOutput
+CC59 Chan 12	0	4194304	Value	ValueOutput
+CC60 Chan 12	0	4194304	Value	ValueOutput
+CC61 Chan 12	0	4194304	Value	ValueOutput
+CC62 Chan 12	0	4194304	Value	ValueOutput
+CC63 Chan 12	0	4194304	Value	ValueOutput
+CC64 Chan 12	0	4194304	Value	ValueOutput
+CC65 Chan 12	0	4194304	Value	ValueOutput
+CC66 Chan 12	0	4194304	Value	ValueOutput
+CC67 Chan 12	0	4194304	Value	ValueOutput
+CC68 Chan 12	0	4194304	Value	ValueOutput
+CC69 Chan 12	0	4194304	Value	ValueOutput
+CC70 Chan 12	0	4194304	Value	ValueOutput
+CC71 Chan 12	0	4194304	Value	ValueOutput
+CC72 Chan 12	0	4194304	Value	ValueOutput
+CC73 Chan 12	0	4194304	Value	ValueOutput
+CC74 Chan 12	0	4194304	Value	ValueOutput
+CC75 Chan 12	0	4194304	Value	ValueOutput
+CC76 Chan 12	0	4194304	Value	ValueOutput
+CC77 Chan 12	0	4194304	Value	ValueOutput
+CC78 Chan 12	0	4194304	Value	ValueOutput
+CC79 Chan 12	0	4194304	Value	ValueOutput
+CC80 Chan 12	0	4194304	Value	ValueOutput
+CC81 Chan 12	0	4194304	Value	ValueOutput
+CC82 Chan 12	0	4194304	Value	ValueOutput
+CC83 Chan 12	0	4194304	Value	ValueOutput
+CC84 Chan 12	0	4194304	Value	ValueOutput
+CC85 Chan 12	0	4194304	Value	ValueOutput
+CC86 Chan 12	0	4194304	Value	ValueOutput
+CC87 Chan 12	0	4194304	Value	ValueOutput
+CC88 Chan 12	0	4194304	Value	ValueOutput
+CC89 Chan 12	0	4194304	Value	ValueOutput
+CC90 Chan 12	0	4194304	Value	ValueOutput
+CC91 Chan 12	0	4194304	Value	ValueOutput
+CC92 Chan 12	0	4194304	Value	ValueOutput
+CC93 Chan 12	0	4194304	Value	ValueOutput
+CC94 Chan 12	0	4194304	Value	ValueOutput
+CC95 Chan 12	0	4194304	Value	ValueOutput
+CC96 Chan 12	0	4194304	Value	ValueOutput
+CC97 Chan 12	0	4194304	Value	ValueOutput
+CC98 Chan 12	0	4194304	Value	ValueOutput
+CC99 Chan 12	0	4194304	Value	ValueOutput
+CC100 Chan 12	0	4194304	Value	ValueOutput
+CC101 Chan 12	0	4194304	Value	ValueOutput
+CC102 Chan 12	0	4194304	Value	ValueOutput
+CC103 Chan 12	0	4194304	Value	ValueOutput
+CC104 Chan 12	0	4194304	Value	ValueOutput
+CC105 Chan 12	0	4194304	Value	ValueOutput
+CC106 Chan 12	0	4194304	Value	ValueOutput
+CC107 Chan 12	0	4194304	Value	ValueOutput
+CC108 Chan 12	0	4194304	Value	ValueOutput
+CC109 Chan 12	0	4194304	Value	ValueOutput
+CC110 Chan 12	0	4194304	Value	ValueOutput
+CC111 Chan 12	0	4194304	Value	ValueOutput
+CC112 Chan 12	0	4194304	Value	ValueOutput
+CC113 Chan 12	0	4194304	Value	ValueOutput
+CC114 Chan 12	0	4194304	Value	ValueOutput
+CC115 Chan 12	0	4194304	Value	ValueOutput
+CC116 Chan 12	0	4194304	Value	ValueOutput
+CC117 Chan 12	0	4194304	Value	ValueOutput
+CC118 Chan 12	0	4194304	Value	ValueOutput
+CC119 Chan 12	0	4194304	Value	ValueOutput
+CC120 Chan 12	0	4194304	Value	ValueOutput
+CC121 Chan 12	0	4194304	Value	ValueOutput
+CC122 Chan 12	0	4194304	Value	ValueOutput
+CC123 Chan 12	0	4194304	Value	ValueOutput
+CC124 Chan 12	0	4194304	Value	ValueOutput
+CC125 Chan 12	0	4194304	Value	ValueOutput
+CC126 Chan 12	0	4194304	Value	ValueOutput
+CC127 Chan 12	0	4194304	Value	ValueOutput
+Pitch Bend Chan 13	0	4194304	Value	ValueOutput
+Aftertouch Chan 13	0	4194304	Value	ValueOutput
+CC0 Chan 13	0	4194304	Value	ValueOutput
+CC1 Chan 13	0	4194304	Value	ValueOutput
+CC2 Chan 13	0	4194304	Value	ValueOutput
+CC3 Chan 13	0	4194304	Value	ValueOutput
+CC4 Chan 13	0	4194304	Value	ValueOutput
+CC5 Chan 13	0	4194304	Value	ValueOutput
+CC6 Chan 13	0	4194304	Value	ValueOutput
+CC7 Chan 13	0	4194304	Value	ValueOutput
+CC8 Chan 13	0	4194304	Value	ValueOutput
+CC9 Chan 13	0	4194304	Value	ValueOutput
+CC10 Chan 13	0	4194304	Value	ValueOutput
+CC11 Chan 13	0	4194304	Value	ValueOutput
+CC12 Chan 13	0	4194304	Value	ValueOutput
+CC13 Chan 13	0	4194304	Value	ValueOutput
+CC14 Chan 13	0	4194304	Value	ValueOutput
+CC15 Chan 13	0	4194304	Value	ValueOutput
+CC16 Chan 13	0	4194304	Value	ValueOutput
+CC17 Chan 13	0	4194304	Value	ValueOutput
+CC18 Chan 13	0	4194304	Value	ValueOutput
+CC19 Chan 13	0	4194304	Value	ValueOutput
+CC20 Chan 13	0	4194304	Value	ValueOutput
+CC21 Chan 13	0	4194304	Value	ValueOutput
+CC22 Chan 13	0	4194304	Value	ValueOutput
+CC23 Chan 13	0	4194304	Value	ValueOutput
+CC24 Chan 13	0	4194304	Value	ValueOutput
+CC25 Chan 13	0	4194304	Value	ValueOutput
+CC26 Chan 13	0	4194304	Value	ValueOutput
+CC27 Chan 13	0	4194304	Value	ValueOutput
+CC28 Chan 13	0	4194304	Value	ValueOutput
+CC29 Chan 13	0	4194304	Value	ValueOutput
+CC30 Chan 13	0	4194304	Value	ValueOutput
+CC31 Chan 13	0	4194304	Value	ValueOutput
+CC32 Chan 13	0	4194304	Value	ValueOutput
+CC33 Chan 13	0	4194304	Value	ValueOutput
+CC34 Chan 13	0	4194304	Value	ValueOutput
+CC35 Chan 13	0	4194304	Value	ValueOutput
+CC36 Chan 13	0	4194304	Value	ValueOutput
+CC37 Chan 13	0	4194304	Value	ValueOutput
+CC38 Chan 13	0	4194304	Value	ValueOutput
+CC39 Chan 13	0	4194304	Value	ValueOutput
+CC40 Chan 13	0	4194304	Value	ValueOutput
+CC41 Chan 13	0	4194304	Value	ValueOutput
+CC42 Chan 13	0	4194304	Value	ValueOutput
+CC43 Chan 13	0	4194304	Value	ValueOutput
+CC44 Chan 13	0	4194304	Value	ValueOutput
+CC45 Chan 13	0	4194304	Value	ValueOutput
+CC46 Chan 13	0	4194304	Value	ValueOutput
+CC47 Chan 13	0	4194304	Value	ValueOutput
+CC48 Chan 13	0	4194304	Value	ValueOutput
+CC49 Chan 13	0	4194304	Value	ValueOutput
+CC50 Chan 13	0	4194304	Value	ValueOutput
+CC51 Chan 13	0	4194304	Value	ValueOutput
+CC52 Chan 13	0	4194304	Value	ValueOutput
+CC53 Chan 13	0	4194304	Value	ValueOutput
+CC54 Chan 13	0	4194304	Value	ValueOutput
+CC55 Chan 13	0	4194304	Value	ValueOutput
+CC56 Chan 13	0	4194304	Value	ValueOutput
+CC57 Chan 13	0	4194304	Value	ValueOutput
+CC58 Chan 13	0	4194304	Value	ValueOutput
+CC59 Chan 13	0	4194304	Value	ValueOutput
+CC60 Chan 13	0	4194304	Value	ValueOutput
+CC61 Chan 13	0	4194304	Value	ValueOutput
+CC62 Chan 13	0	4194304	Value	ValueOutput
+CC63 Chan 13	0	4194304	Value	ValueOutput
+CC64 Chan 13	0	4194304	Value	ValueOutput
+CC65 Chan 13	0	4194304	Value	ValueOutput
+CC66 Chan 13	0	4194304	Value	ValueOutput
+CC67 Chan 13	0	4194304	Value	ValueOutput
+CC68 Chan 13	0	4194304	Value	ValueOutput
+CC69 Chan 13	0	4194304	Value	ValueOutput
+CC70 Chan 13	0	4194304	Value	ValueOutput
+CC71 Chan 13	0	4194304	Value	ValueOutput
+CC72 Chan 13	0	4194304	Value	ValueOutput
+CC73 Chan 13	0	4194304	Value	ValueOutput
+CC74 Chan 13	0	4194304	Value	ValueOutput
+CC75 Chan 13	0	4194304	Value	ValueOutput
+CC76 Chan 13	0	4194304	Value	ValueOutput
+CC77 Chan 13	0	4194304	Value	ValueOutput
+CC78 Chan 13	0	4194304	Value	ValueOutput
+CC79 Chan 13	0	4194304	Value	ValueOutput
+CC80 Chan 13	0	4194304	Value	ValueOutput
+CC81 Chan 13	0	4194304	Value	ValueOutput
+CC82 Chan 13	0	4194304	Value	ValueOutput
+CC83 Chan 13	0	4194304	Value	ValueOutput
+CC84 Chan 13	0	4194304	Value	ValueOutput
+CC85 Chan 13	0	4194304	Value	ValueOutput
+CC86 Chan 13	0	4194304	Value	ValueOutput
+CC87 Chan 13	0	4194304	Value	ValueOutput
+CC88 Chan 13	0	4194304	Value	ValueOutput
+CC89 Chan 13	0	4194304	Value	ValueOutput
+CC90 Chan 13	0	4194304	Value	ValueOutput
+CC91 Chan 13	0	4194304	Value	ValueOutput
+CC92 Chan 13	0	4194304	Value	ValueOutput
+CC93 Chan 13	0	4194304	Value	ValueOutput
+CC94 Chan 13	0	4194304	Value	ValueOutput
+CC95 Chan 13	0	4194304	Value	ValueOutput
+CC96 Chan 13	0	4194304	Value	ValueOutput
+CC97 Chan 13	0	4194304	Value	ValueOutput
+CC98 Chan 13	0	4194304	Value	ValueOutput
+CC99 Chan 13	0	4194304	Value	ValueOutput
+CC100 Chan 13	0	4194304	Value	ValueOutput
+CC101 Chan 13	0	4194304	Value	ValueOutput
+CC102 Chan 13	0	4194304	Value	ValueOutput
+CC103 Chan 13	0	4194304	Value	ValueOutput
+CC104 Chan 13	0	4194304	Value	ValueOutput
+CC105 Chan 13	0	4194304	Value	ValueOutput
+CC106 Chan 13	0	4194304	Value	ValueOutput
+CC107 Chan 13	0	4194304	Value	ValueOutput
+CC108 Chan 13	0	4194304	Value	ValueOutput
+CC109 Chan 13	0	4194304	Value	ValueOutput
+CC110 Chan 13	0	4194304	Value	ValueOutput
+CC111 Chan 13	0	4194304	Value	ValueOutput
+CC112 Chan 13	0	4194304	Value	ValueOutput
+CC113 Chan 13	0	4194304	Value	ValueOutput
+CC114 Chan 13	0	4194304	Value	ValueOutput
+CC115 Chan 13	0	4194304	Value	ValueOutput
+CC116 Chan 13	0	4194304	Value	ValueOutput
+CC117 Chan 13	0	4194304	Value	ValueOutput
+CC118 Chan 13	0	4194304	Value	ValueOutput
+CC119 Chan 13	0	4194304	Value	ValueOutput
+CC120 Chan 13	0	4194304	Value	ValueOutput
+CC121 Chan 13	0	4194304	Value	ValueOutput
+CC122 Chan 13	0	4194304	Value	ValueOutput
+CC123 Chan 13	0	4194304	Value	ValueOutput
+CC124 Chan 13	0	4194304	Value	ValueOutput
+CC125 Chan 13	0	4194304	Value	ValueOutput
+CC126 Chan 13	0	4194304	Value	ValueOutput
+CC127 Chan 13	0	4194304	Value	ValueOutput
+Pitch Bend Chan 14	0	4194304	Value	ValueOutput
+Aftertouch Chan 14	0	4194304	Value	ValueOutput
+CC0 Chan 14	0	4194304	Value	ValueOutput
+CC1 Chan 14	0	4194304	Value	ValueOutput
+CC2 Chan 14	0	4194304	Value	ValueOutput
+CC3 Chan 14	0	4194304	Value	ValueOutput
+CC4 Chan 14	0	4194304	Value	ValueOutput
+CC5 Chan 14	0	4194304	Value	ValueOutput
+CC6 Chan 14	0	4194304	Value	ValueOutput
+CC7 Chan 14	0	4194304	Value	ValueOutput
+CC8 Chan 14	0	4194304	Value	ValueOutput
+CC9 Chan 14	0	4194304	Value	ValueOutput
+CC10 Chan 14	0	4194304	Value	ValueOutput
+CC11 Chan 14	0	4194304	Value	ValueOutput
+CC12 Chan 14	0	4194304	Value	ValueOutput
+CC13 Chan 14	0	4194304	Value	ValueOutput
+CC14 Chan 14	0	4194304	Value	ValueOutput
+CC15 Chan 14	0	4194304	Value	ValueOutput
+CC16 Chan 14	0	4194304	Value	ValueOutput
+CC17 Chan 14	0	4194304	Value	ValueOutput
+CC18 Chan 14	0	4194304	Value	ValueOutput
+CC19 Chan 14	0	4194304	Value	ValueOutput
+CC20 Chan 14	0	4194304	Value	ValueOutput
+CC21 Chan 14	0	4194304	Value	ValueOutput
+CC22 Chan 14	0	4194304	Value	ValueOutput
+CC23 Chan 14	0	4194304	Value	ValueOutput
+CC24 Chan 14	0	4194304	Value	ValueOutput
+CC25 Chan 14	0	4194304	Value	ValueOutput
+CC26 Chan 14	0	4194304	Value	ValueOutput
+CC27 Chan 14	0	4194304	Value	ValueOutput
+CC28 Chan 14	0	4194304	Value	ValueOutput
+CC29 Chan 14	0	4194304	Value	ValueOutput
+CC30 Chan 14	0	4194304	Value	ValueOutput
+CC31 Chan 14	0	4194304	Value	ValueOutput
+CC32 Chan 14	0	4194304	Value	ValueOutput
+CC33 Chan 14	0	4194304	Value	ValueOutput
+CC34 Chan 14	0	4194304	Value	ValueOutput
+CC35 Chan 14	0	4194304	Value	ValueOutput
+CC36 Chan 14	0	4194304	Value	ValueOutput
+CC37 Chan 14	0	4194304	Value	ValueOutput
+CC38 Chan 14	0	4194304	Value	ValueOutput
+CC39 Chan 14	0	4194304	Value	ValueOutput
+CC40 Chan 14	0	4194304	Value	ValueOutput
+CC41 Chan 14	0	4194304	Value	ValueOutput
+CC42 Chan 14	0	4194304	Value	ValueOutput
+CC43 Chan 14	0	4194304	Value	ValueOutput
+CC44 Chan 14	0	4194304	Value	ValueOutput
+CC45 Chan 14	0	4194304	Value	ValueOutput
+CC46 Chan 14	0	4194304	Value	ValueOutput
+CC47 Chan 14	0	4194304	Value	ValueOutput
+CC48 Chan 14	0	4194304	Value	ValueOutput
+CC49 Chan 14	0	4194304	Value	ValueOutput
+CC50 Chan 14	0	4194304	Value	ValueOutput
+CC51 Chan 14	0	4194304	Value	ValueOutput
+CC52 Chan 14	0	4194304	Value	ValueOutput
+CC53 Chan 14	0	4194304	Value	ValueOutput
+CC54 Chan 14	0	4194304	Value	ValueOutput
+CC55 Chan 14	0	4194304	Value	ValueOutput
+CC56 Chan 14	0	4194304	Value	ValueOutput
+CC57 Chan 14	0	4194304	Value	ValueOutput
+CC58 Chan 14	0	4194304	Value	ValueOutput
+CC59 Chan 14	0	4194304	Value	ValueOutput
+CC60 Chan 14	0	4194304	Value	ValueOutput
+CC61 Chan 14	0	4194304	Value	ValueOutput
+CC62 Chan 14	0	4194304	Value	ValueOutput
+CC63 Chan 14	0	4194304	Value	ValueOutput
+CC64 Chan 14	0	4194304	Value	ValueOutput
+CC65 Chan 14	0	4194304	Value	ValueOutput
+CC66 Chan 14	0	4194304	Value	ValueOutput
+CC67 Chan 14	0	4194304	Value	ValueOutput
+CC68 Chan 14	0	4194304	Value	ValueOutput
+CC69 Chan 14	0	4194304	Value	ValueOutput
+CC70 Chan 14	0	4194304	Value	ValueOutput
+CC71 Chan 14	0	4194304	Value	ValueOutput
+CC72 Chan 14	0	4194304	Value	ValueOutput
+CC73 Chan 14	0	4194304	Value	ValueOutput
+CC74 Chan 14	0	4194304	Value	ValueOutput
+CC75 Chan 14	0	4194304	Value	ValueOutput
+CC76 Chan 14	0	4194304	Value	ValueOutput
+CC77 Chan 14	0	4194304	Value	ValueOutput
+CC78 Chan 14	0	4194304	Value	ValueOutput
+CC79 Chan 14	0	4194304	Value	ValueOutput
+CC80 Chan 14	0	4194304	Value	ValueOutput
+CC81 Chan 14	0	4194304	Value	ValueOutput
+CC82 Chan 14	0	4194304	Value	ValueOutput
+CC83 Chan 14	0	4194304	Value	ValueOutput
+CC84 Chan 14	0	4194304	Value	ValueOutput
+CC85 Chan 14	0	4194304	Value	ValueOutput
+CC86 Chan 14	0	4194304	Value	ValueOutput
+CC87 Chan 14	0	4194304	Value	ValueOutput
+CC88 Chan 14	0	4194304	Value	ValueOutput
+CC89 Chan 14	0	4194304	Value	ValueOutput
+CC90 Chan 14	0	4194304	Value	ValueOutput
+CC91 Chan 14	0	4194304	Value	ValueOutput
+CC92 Chan 14	0	4194304	Value	ValueOutput
+CC93 Chan 14	0	4194304	Value	ValueOutput
+CC94 Chan 14	0	4194304	Value	ValueOutput
+CC95 Chan 14	0	4194304	Value	ValueOutput
+CC96 Chan 14	0	4194304	Value	ValueOutput
+CC97 Chan 14	0	4194304	Value	ValueOutput
+CC98 Chan 14	0	4194304	Value	ValueOutput
+CC99 Chan 14	0	4194304	Value	ValueOutput
+CC100 Chan 14	0	4194304	Value	ValueOutput
+CC101 Chan 14	0	4194304	Value	ValueOutput
+CC102 Chan 14	0	4194304	Value	ValueOutput
+CC103 Chan 14	0	4194304	Value	ValueOutput
+CC104 Chan 14	0	4194304	Value	ValueOutput
+CC105 Chan 14	0	4194304	Value	ValueOutput
+CC106 Chan 14	0	4194304	Value	ValueOutput
+CC107 Chan 14	0	4194304	Value	ValueOutput
+CC108 Chan 14	0	4194304	Value	ValueOutput
+CC109 Chan 14	0	4194304	Value	ValueOutput
+CC110 Chan 14	0	4194304	Value	ValueOutput
+CC111 Chan 14	0	4194304	Value	ValueOutput
+CC112 Chan 14	0	4194304	Value	ValueOutput
+CC113 Chan 14	0	4194304	Value	ValueOutput
+CC114 Chan 14	0	4194304	Value	ValueOutput
+CC115 Chan 14	0	4194304	Value	ValueOutput
+CC116 Chan 14	0	4194304	Value	ValueOutput
+CC117 Chan 14	0	4194304	Value	ValueOutput
+CC118 Chan 14	0	4194304	Value	ValueOutput
+CC119 Chan 14	0	4194304	Value	ValueOutput
+CC120 Chan 14	0	4194304	Value	ValueOutput
+CC121 Chan 14	0	4194304	Value	ValueOutput
+CC122 Chan 14	0	4194304	Value	ValueOutput
+CC123 Chan 14	0	4194304	Value	ValueOutput
+CC124 Chan 14	0	4194304	Value	ValueOutput
+CC125 Chan 14	0	4194304	Value	ValueOutput
+CC126 Chan 14	0	4194304	Value	ValueOutput
+CC127 Chan 14	0	4194304	Value	ValueOutput
+Pitch Bend Chan 15	0	4194304	Value	ValueOutput
+Aftertouch Chan 15	0	4194304	Value	ValueOutput
+CC0 Chan 15	0	4194304	Value	ValueOutput
+CC1 Chan 15	0	4194304	Value	ValueOutput
+CC2 Chan 15	0	4194304	Value	ValueOutput
+CC3 Chan 15	0	4194304	Value	ValueOutput
+CC4 Chan 15	0	4194304	Value	ValueOutput
+CC5 Chan 15	0	4194304	Value	ValueOutput
+CC6 Chan 15	0	4194304	Value	ValueOutput
+CC7 Chan 15	0	4194304	Value	ValueOutput
+CC8 Chan 15	0	4194304	Value	ValueOutput
+CC9 Chan 15	0	4194304	Value	ValueOutput
+CC10 Chan 15	0	4194304	Value	ValueOutput
+CC11 Chan 15	0	4194304	Value	ValueOutput
+CC12 Chan 15	0	4194304	Value	ValueOutput
+CC13 Chan 15	0	4194304	Value	ValueOutput
+CC14 Chan 15	0	4194304	Value	ValueOutput
+CC15 Chan 15	0	4194304	Value	ValueOutput
+CC16 Chan 15	0	4194304	Value	ValueOutput
+CC17 Chan 15	0	4194304	Value	ValueOutput
+CC18 Chan 15	0	4194304	Value	ValueOutput
+CC19 Chan 15	0	4194304	Value	ValueOutput
+CC20 Chan 15	0	4194304	Value	ValueOutput
+CC21 Chan 15	0	4194304	Value	ValueOutput
+CC22 Chan 15	0	4194304	Value	ValueOutput
+CC23 Chan 15	0	4194304	Value	ValueOutput
+CC24 Chan 15	0	4194304	Value	ValueOutput
+CC25 Chan 15	0	4194304	Value	ValueOutput
+CC26 Chan 15	0	4194304	Value	ValueOutput
+CC27 Chan 15	0	4194304	Value	ValueOutput
+CC28 Chan 15	0	4194304	Value	ValueOutput
+CC29 Chan 15	0	4194304	Value	ValueOutput
+CC30 Chan 15	0	4194304	Value	ValueOutput
+CC31 Chan 15	0	4194304	Value	ValueOutput
+CC32 Chan 15	0	4194304	Value	ValueOutput
+CC33 Chan 15	0	4194304	Value	ValueOutput
+CC34 Chan 15	0	4194304	Value	ValueOutput
+CC35 Chan 15	0	4194304	Value	ValueOutput
+CC36 Chan 15	0	4194304	Value	ValueOutput
+CC37 Chan 15	0	4194304	Value	ValueOutput
+CC38 Chan 15	0	4194304	Value	ValueOutput
+CC39 Chan 15	0	4194304	Value	ValueOutput
+CC40 Chan 15	0	4194304	Value	ValueOutput
+CC41 Chan 15	0	4194304	Value	ValueOutput
+CC42 Chan 15	0	4194304	Value	ValueOutput
+CC43 Chan 15	0	4194304	Value	ValueOutput
+CC44 Chan 15	0	4194304	Value	ValueOutput
+CC45 Chan 15	0	4194304	Value	ValueOutput
+CC46 Chan 15	0	4194304	Value	ValueOutput
+CC47 Chan 15	0	4194304	Value	ValueOutput
+CC48 Chan 15	0	4194304	Value	ValueOutput
+CC49 Chan 15	0	4194304	Value	ValueOutput
+CC50 Chan 15	0	4194304	Value	ValueOutput
+CC51 Chan 15	0	4194304	Value	ValueOutput
+CC52 Chan 15	0	4194304	Value	ValueOutput
+CC53 Chan 15	0	4194304	Value	ValueOutput
+CC54 Chan 15	0	4194304	Value	ValueOutput
+CC55 Chan 15	0	4194304	Value	ValueOutput
+CC56 Chan 15	0	4194304	Value	ValueOutput
+CC57 Chan 15	0	4194304	Value	ValueOutput
+CC58 Chan 15	0	4194304	Value	ValueOutput
+CC59 Chan 15	0	4194304	Value	ValueOutput
+CC60 Chan 15	0	4194304	Value	ValueOutput
+CC61 Chan 15	0	4194304	Value	ValueOutput
+CC62 Chan 15	0	4194304	Value	ValueOutput
+CC63 Chan 15	0	4194304	Value	ValueOutput
+CC64 Chan 15	0	4194304	Value	ValueOutput
+CC65 Chan 15	0	4194304	Value	ValueOutput
+CC66 Chan 15	0	4194304	Value	ValueOutput
+CC67 Chan 15	0	4194304	Value	ValueOutput
+CC68 Chan 15	0	4194304	Value	ValueOutput
+CC69 Chan 15	0	4194304	Value	ValueOutput
+CC70 Chan 15	0	4194304	Value	ValueOutput
+CC71 Chan 15	0	4194304	Value	ValueOutput
+CC72 Chan 15	0	4194304	Value	ValueOutput
+CC73 Chan 15	0	4194304	Value	ValueOutput
+CC74 Chan 15	0	4194304	Value	ValueOutput
+CC75 Chan 15	0	4194304	Value	ValueOutput
+CC76 Chan 15	0	4194304	Value	ValueOutput
+CC77 Chan 15	0	4194304	Value	ValueOutput
+CC78 Chan 15	0	4194304	Value	ValueOutput
+CC79 Chan 15	0	4194304	Value	ValueOutput
+CC80 Chan 15	0	4194304	Value	ValueOutput
+CC81 Chan 15	0	4194304	Value	ValueOutput
+CC82 Chan 15	0	4194304	Value	ValueOutput
+CC83 Chan 15	0	4194304	Value	ValueOutput
+CC84 Chan 15	0	4194304	Value	ValueOutput
+CC85 Chan 15	0	4194304	Value	ValueOutput
+CC86 Chan 15	0	4194304	Value	ValueOutput
+CC87 Chan 15	0	4194304	Value	ValueOutput
+CC88 Chan 15	0	4194304	Value	ValueOutput
+CC89 Chan 15	0	4194304	Value	ValueOutput
+CC90 Chan 15	0	4194304	Value	ValueOutput
+CC91 Chan 15	0	4194304	Value	ValueOutput
+CC92 Chan 15	0	4194304	Value	ValueOutput
+CC93 Chan 15	0	4194304	Value	ValueOutput
+CC94 Chan 15	0	4194304	Value	ValueOutput
+CC95 Chan 15	0	4194304	Value	ValueOutput
+CC96 Chan 15	0	4194304	Value	ValueOutput
+CC97 Chan 15	0	4194304	Value	ValueOutput
+CC98 Chan 15	0	4194304	Value	ValueOutput
+CC99 Chan 15	0	4194304	Value	ValueOutput
+CC100 Chan 15	0	4194304	Value	ValueOutput
+CC101 Chan 15	0	4194304	Value	ValueOutput
+CC102 Chan 15	0	4194304	Value	ValueOutput
+CC103 Chan 15	0	4194304	Value	ValueOutput
+CC104 Chan 15	0	4194304	Value	ValueOutput
+CC105 Chan 15	0	4194304	Value	ValueOutput
+CC106 Chan 15	0	4194304	Value	ValueOutput
+CC107 Chan 15	0	4194304	Value	ValueOutput
+CC108 Chan 15	0	4194304	Value	ValueOutput
+CC109 Chan 15	0	4194304	Value	ValueOutput
+CC110 Chan 15	0	4194304	Value	ValueOutput
+CC111 Chan 15	0	4194304	Value	ValueOutput
+CC112 Chan 15	0	4194304	Value	ValueOutput
+CC113 Chan 15	0	4194304	Value	ValueOutput
+CC114 Chan 15	0	4194304	Value	ValueOutput
+CC115 Chan 15	0	4194304	Value	ValueOutput
+CC116 Chan 15	0	4194304	Value	ValueOutput
+CC117 Chan 15	0	4194304	Value	ValueOutput
+CC118 Chan 15	0	4194304	Value	ValueOutput
+CC119 Chan 15	0	4194304	Value	ValueOutput
+CC120 Chan 15	0	4194304	Value	ValueOutput
+CC121 Chan 15	0	4194304	Value	ValueOutput
+CC122 Chan 15	0	4194304	Value	ValueOutput
+CC123 Chan 15	0	4194304	Value	ValueOutput
+CC124 Chan 15	0	4194304	Value	ValueOutput
+CC125 Chan 15	0	4194304	Value	ValueOutput
+CC126 Chan 15	0	4194304	Value	ValueOutput
+CC127 Chan 15	0	4194304	Value	ValueOutput
+Pitch Bend Chan 16	0	4194304	Value	ValueOutput
+Aftertouch Chan 16	0	4194304	Value	ValueOutput
+CC0 Chan 16	0	4194304	Value	ValueOutput
+CC1 Chan 16	0	4194304	Value	ValueOutput
+CC2 Chan 16	0	4194304	Value	ValueOutput
+CC3 Chan 16	0	4194304	Value	ValueOutput
+CC4 Chan 16	0	4194304	Value	ValueOutput
+CC5 Chan 16	0	4194304	Value	ValueOutput
+CC6 Chan 16	0	4194304	Value	ValueOutput
+CC7 Chan 16	0	4194304	Value	ValueOutput
+CC8 Chan 16	0	4194304	Value	ValueOutput
+CC9 Chan 16	0	4194304	Value	ValueOutput
+CC10 Chan 16	0	4194304	Value	ValueOutput
+CC11 Chan 16	0	4194304	Value	ValueOutput
+CC12 Chan 16	0	4194304	Value	ValueOutput
+CC13 Chan 16	0	4194304	Value	ValueOutput
+CC14 Chan 16	0	4194304	Value	ValueOutput
+CC15 Chan 16	0	4194304	Value	ValueOutput
+CC16 Chan 16	0	4194304	Value	ValueOutput
+CC17 Chan 16	0	4194304	Value	ValueOutput
+CC18 Chan 16	0	4194304	Value	ValueOutput
+CC19 Chan 16	0	4194304	Value	ValueOutput
+CC20 Chan 16	0	4194304	Value	ValueOutput
+CC21 Chan 16	0	4194304	Value	ValueOutput
+CC22 Chan 16	0	4194304	Value	ValueOutput
+CC23 Chan 16	0	4194304	Value	ValueOutput
+CC24 Chan 16	0	4194304	Value	ValueOutput
+CC25 Chan 16	0	4194304	Value	ValueOutput
+CC26 Chan 16	0	4194304	Value	ValueOutput
+CC27 Chan 16	0	4194304	Value	ValueOutput
+CC28 Chan 16	0	4194304	Value	ValueOutput
+CC29 Chan 16	0	4194304	Value	ValueOutput
+CC30 Chan 16	0	4194304	Value	ValueOutput
+CC31 Chan 16	0	4194304	Value	ValueOutput
+CC32 Chan 16	0	4194304	Value	ValueOutput
+CC33 Chan 16	0	4194304	Value	ValueOutput
+CC34 Chan 16	0	4194304	Value	ValueOutput
+CC35 Chan 16	0	4194304	Value	ValueOutput
+CC36 Chan 16	0	4194304	Value	ValueOutput
+CC37 Chan 16	0	4194304	Value	ValueOutput
+CC38 Chan 16	0	4194304	Value	ValueOutput
+CC39 Chan 16	0	4194304	Value	ValueOutput
+CC40 Chan 16	0	4194304	Value	ValueOutput
+CC41 Chan 16	0	4194304	Value	ValueOutput
+CC42 Chan 16	0	4194304	Value	ValueOutput
+CC43 Chan 16	0	4194304	Value	ValueOutput
+CC44 Chan 16	0	4194304	Value	ValueOutput
+CC45 Chan 16	0	4194304	Value	ValueOutput
+CC46 Chan 16	0	4194304	Value	ValueOutput
+CC47 Chan 16	0	4194304	Value	ValueOutput
+CC48 Chan 16	0	4194304	Value	ValueOutput
+CC49 Chan 16	0	4194304	Value	ValueOutput
+CC50 Chan 16	0	4194304	Value	ValueOutput
+CC51 Chan 16	0	4194304	Value	ValueOutput
+CC52 Chan 16	0	4194304	Value	ValueOutput
+CC53 Chan 16	0	4194304	Value	ValueOutput
+CC54 Chan 16	0	4194304	Value	ValueOutput
+CC55 Chan 16	0	4194304	Value	ValueOutput
+CC56 Chan 16	0	4194304	Value	ValueOutput
+CC57 Chan 16	0	4194304	Value	ValueOutput
+CC58 Chan 16	0	4194304	Value	ValueOutput
+CC59 Chan 16	0	4194304	Value	ValueOutput
+CC60 Chan 16	0	4194304	Value	ValueOutput
+CC61 Chan 16	0	4194304	Value	ValueOutput
+CC62 Chan 16	0	4194304	Value	ValueOutput
+CC63 Chan 16	0	4194304	Value	ValueOutput
+CC64 Chan 16	0	4194304	Value	ValueOutput
+CC65 Chan 16	0	4194304	Value	ValueOutput
+CC66 Chan 16	0	4194304	Value	ValueOutput
+CC67 Chan 16	0	4194304	Value	ValueOutput
+CC68 Chan 16	0	4194304	Value	ValueOutput
+CC69 Chan 16	0	4194304	Value	ValueOutput
+CC70 Chan 16	0	4194304	Value	ValueOutput
+CC71 Chan 16	0	4194304	Value	ValueOutput
+CC72 Chan 16	0	4194304	Value	ValueOutput
+CC73 Chan 16	0	4194304	Value	ValueOutput
+CC74 Chan 16	0	4194304	Value	ValueOutput
+CC75 Chan 16	0	4194304	Value	ValueOutput
+CC76 Chan 16	0	4194304	Value	ValueOutput
+CC77 Chan 16	0	4194304	Value	ValueOutput
+CC78 Chan 16	0	4194304	Value	ValueOutput
+CC79 Chan 16	0	4194304	Value	ValueOutput
+CC80 Chan 16	0	4194304	Value	ValueOutput
+CC81 Chan 16	0	4194304	Value	ValueOutput
+CC82 Chan 16	0	4194304	Value	ValueOutput
+CC83 Chan 16	0	4194304	Value	ValueOutput
+CC84 Chan 16	0	4194304	Value	ValueOutput
+CC85 Chan 16	0	4194304	Value	ValueOutput
+CC86 Chan 16	0	4194304	Value	ValueOutput
+CC87 Chan 16	0	4194304	Value	ValueOutput
+CC88 Chan 16	0	4194304	Value	ValueOutput
+CC89 Chan 16	0	4194304	Value	ValueOutput
+CC90 Chan 16	0	4194304	Value	ValueOutput
+CC91 Chan 16	0	4194304	Value	ValueOutput
+CC92 Chan 16	0	4194304	Value	ValueOutput
+CC93 Chan 16	0	4194304	Value	ValueOutput
+CC94 Chan 16	0	4194304	Value	ValueOutput
+CC95 Chan 16	0	4194304	Value	ValueOutput
+CC96 Chan 16	0	4194304	Value	ValueOutput
+CC97 Chan 16	0	4194304	Value	ValueOutput
+CC98 Chan 16	0	4194304	Value	ValueOutput
+CC99 Chan 16	0	4194304	Value	ValueOutput
+CC100 Chan 16	0	4194304	Value	ValueOutput
+CC101 Chan 16	0	4194304	Value	ValueOutput
+CC102 Chan 16	0	4194304	Value	ValueOutput
+CC103 Chan 16	0	4194304	Value	ValueOutput
+CC104 Chan 16	0	4194304	Value	ValueOutput
+CC105 Chan 16	0	4194304	Value	ValueOutput
+CC106 Chan 16	0	4194304	Value	ValueOutput
+CC107 Chan 16	0	4194304	Value	ValueOutput
+CC108 Chan 16	0	4194304	Value	ValueOutput
+CC109 Chan 16	0	4194304	Value	ValueOutput
+CC110 Chan 16	0	4194304	Value	ValueOutput
+CC111 Chan 16	0	4194304	Value	ValueOutput
+CC112 Chan 16	0	4194304	Value	ValueOutput
+CC113 Chan 16	0	4194304	Value	ValueOutput
+CC114 Chan 16	0	4194304	Value	ValueOutput
+CC115 Chan 16	0	4194304	Value	ValueOutput
+CC116 Chan 16	0	4194304	Value	ValueOutput
+CC117 Chan 16	0	4194304	Value	ValueOutput
+CC118 Chan 16	0	4194304	Value	ValueOutput
+CC119 Chan 16	0	4194304	Value	ValueOutput
+CC120 Chan 16	0	4194304	Value	ValueOutput
+CC121 Chan 16	0	4194304	Value	ValueOutput
+CC122 Chan 16	0	4194304	Value	ValueOutput
+CC123 Chan 16	0	4194304	Value	ValueOutput
+CC124 Chan 16	0	4194304	Value	ValueOutput
+CC125 Chan 16	0	4194304	Value	ValueOutput
+CC126 Chan 16	0	4194304	Value	ValueOutput
+CC127 Chan 16	0	4194304	Value	ValueOutput
+Mod Wheel_2	0	4194304	Value	ValueOutput
+Pitch Bend_2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

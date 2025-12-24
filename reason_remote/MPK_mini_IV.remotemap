@@ -1196,3 +1196,13 @@ Map	Knob 6		Rhythm Mod Notes			LayerB
 Map	Knob 7		Octave Mod Amount			LayerB
 Map	Knob 8		Octave Mod Transpose			LayerB
 
+Scope	Xfer Records	vst3.56534558667350736572756D20320000.Serum 2
+Map	Knob 1		Macro 1
+Map	Knob 2		Macro 2
+Map	Knob 3		Macro 3
+Map	Knob 4		Macro 4
+Map	Knob 5		Macro 5
+Map	Knob 6		Macro 6
+Map	Knob 7		Macro 7
+Map	Knob 8		Macro 8
+
