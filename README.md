@@ -19,52 +19,63 @@ Venmo: @philosurfer
 
 ## Installation
 
-### macOS
+### Step 1: Download
 
-**Option 1: Script (Recommended)**
-```bash
-./deploy.sh
-```
+1. Click the green **Code** button at the top of this page
+2. Select **Download ZIP**
+3. Extract the ZIP file to a location you can find (like your Desktop or Downloads folder)
 
-**Option 2: Manual**
+### Step 2: Install the Files
 
-Copy these files:
-```
-reason_remote/MPK mini IV.lua        → ~/Library/Application Support/Propellerhead Software/Remote/Codecs/Lua Codecs/Akai/
-reason_remote/MPK mini IV.luacodec   → ~/Library/Application Support/Propellerhead Software/Remote/Codecs/Lua Codecs/Akai/
-reason_remote/MPK_mini_IV.remotemap  → ~/Library/Application Support/Propellerhead Software/Remote/Maps/Akai/MPK mini IV.remotemap
-```
+#### macOS
 
-### Windows
+**Easy Method (Recommended):**
+1. Open the extracted folder
+2. Double-click `deploy.sh`
+3. If prompted, click "Open" to allow the script to run
+4. Done! The files are now installed.
 
-**Option 1: Script (Recommended)**
+**Manual Method:**
+1. Open Finder
+2. Press `Cmd + Shift + G` (Go to Folder)
+3. Paste: `~/Library/Application Support/Propellerhead Software/Remote/`
+4. Create these folders if they don't exist:
+   - `Codecs/Lua Codecs/Akai/`
+   - `Maps/Akai/`
+5. Copy from the `reason_remote/` folder you downloaded:
+   - `MPK mini IV.lua` → into `Codecs/Lua Codecs/Akai/`
+   - `MPK mini IV.luacodec` → into `Codecs/Lua Codecs/Akai/`
+   - `MPK_mini_IV.remotemap` → into `Maps/Akai/` (rename to `MPK mini IV.remotemap`)
 
-Double-click `deploy.bat` or run from Command Prompt:
-```cmd
-deploy.bat
-```
+#### Windows
 
-**Option 2: Manual**
+**Easy Method (Recommended):**
+1. Open the extracted folder
+2. Double-click `deploy.bat`
+3. A window will appear showing the installation progress
+4. Press any key to close when done
 
-Copy these files to your `%APPDATA%` folder:
-```
-reason_remote\MPK mini IV.lua        → %APPDATA%\Propellerhead Software\Remote\Codecs\Lua Codecs\Akai\
-reason_remote\MPK mini IV.luacodec   → %APPDATA%\Propellerhead Software\Remote\Codecs\Lua Codecs\Akai\
-reason_remote\MPK_mini_IV.remotemap  → %APPDATA%\Propellerhead Software\Remote\Maps\Akai\MPK mini IV.remotemap
-```
+**Manual Method:**
+1. Press `Win + R` to open Run dialog
+2. Type `%APPDATA%` and press Enter
+3. Navigate to `Propellerhead Software\Remote\`
+4. Create these folders if they don't exist:
+   - `Codecs\Lua Codecs\Akai\`
+   - `Maps\Akai\`
+5. Copy from the `reason_remote\` folder you downloaded:
+   - `MPK mini IV.lua` → into `Codecs\Lua Codecs\Akai\`
+   - `MPK mini IV.luacodec` → into `Codecs\Lua Codecs\Akai\`
+   - `MPK_mini_IV.remotemap` → into `Maps\Akai\` (rename to `MPK mini IV.remotemap`)
 
-To find your `%APPDATA%` folder: Press `Win+R`, type `%APPDATA%`, and press Enter.
+### Step 3: Setup in Reason
 
-Full path example: `C:\Users\YourName\AppData\Roaming\Propellerhead Software\Remote\`
-
-## Setup in Reason
-
-1. Open Reason
+1. Open Reason (or restart if already open)
 2. Go to **Preferences → Control Surfaces**
 3. Click **Add** and select **Akai MPK mini IV**
 4. Configure the MIDI ports:
    - **Input 1**: MPK mini IV DAW Port (transport controls)
    - **Input 2**: MPK mini IV MIDI Port (keyboard, knobs, pads)
+5. Click **OK** to save
 
 ## Using Kong/Redrum Pad Mapping
 
