@@ -162,6 +162,8 @@ Transport buttons send CC messages on **Channel 1** to both MIDI Port and DAW Po
 | UNDO | 73 | Toggle | 127 |
 | TAP TEMPO | 11 | Momentary | 127 (press), 0 (release) |
 | SHIFT (hold) | 17 | Momentary | 127 (press), 0 (release) |
+| BANK - | 15 | Momentary | 127 (press), 0 (release) |
+| BANK + | 16 | Momentary | 127 (press), 0 (release) |
 
 ### Shifted Functions
 
@@ -264,6 +266,20 @@ The device stores **8 presets**:
 | Swing | 50-64% |
 | Tempo | 30-240 BPM |
 | Octave Range | 1-4 |
+
+### Arpeggiator Preset Data Offsets
+
+| Offset | Field | Values |
+|--------|-------|--------|
+| 28 | arp_tempo | BPM (30-240) |
+| 29 | arp_mode | 0-5 (Up, Down, Inclusive, Exclusive, Random, Order) |
+| 30 | arp_time_div | 0-7 (1/4, 1/4T, 1/8, 1/8T, 1/16, 1/16T, 1/32, 1/32T) |
+| 31 | arp_clock | 0=Internal, 1=External |
+| 32 | arp_latch | 0=Off, 1=On |
+| 33 | arp_swing | 0-14 (50-64%) |
+| 34 | arp_octave | 0-3 (1-4 octaves) |
+
+**Note**: Offsets are relative to the SysEx payload (after F0), not including the F0 byte itself.
 
 ## Universal Identity Response
 

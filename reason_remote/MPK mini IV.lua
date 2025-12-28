@@ -94,6 +94,8 @@ function remote_prepare_for_use()
     -- This remaps pads to C1-D#2 (notes 36-51) for Kong/Redrum compatibility
     -- Pads 1-16 on controller map directly to Kong/Redrum pads 1-16
     -- NOTE: User must select preset 2 on controller (PROG SELECT + Pad 2)
+    -- NOTE: Arpeggiator clock source cannot be set via SysEx (firmware limitation)
+    --       User must manually set External clock: SHIFT + ARP → Clock → EXT
     return {
         remote.make_midi("F0 47 00 5D 67 02 3B 02 52 65 61 73 6F 6E 00 00 00 00 00 00 00 00 00 00 00 09 04 0C 00 78 03 01 00 00 01 00 7F 00 01 00 00 02 00 00 00 32 32 00 32 00 00 00 00 00 00 10 0A 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 00 04 00 00 00 01 00 00 00 24 00 10 01 0E 25 01 11 01 0E 26 02 12 01 0E 27 03 13 01 0E 28 04 14 01 0E 29 05 15 01 0E 2A 06 16 01 0E 2B 07 17 01 0E 2C 08 18 01 0E 2D 09 19 01 0E 2E 0A 1A 01 0E 2F 0B 1B 01 0E 30 0C 1C 01 0E 31 0D 1D 01 0E 32 0E 1E 01 0E 33 0F 1F 01 0E 18 00 7F 00 4B 6E 6F 62 31 00 00 00 00 00 00 00 00 00 00 00 19 00 7F 00 4B 6E 6F 62 32 00 00 00 00 00 00 00 00 00 00 00 1A 00 7F 00 4B 6E 6F 62 33 00 00 00 00 00 00 00 00 00 00 00 1B 00 7F 00 4B 6E 6F 62 34 00 00 00 00 00 00 00 00 00 00 00 1C 00 7F 00 4B 6E 6F 62 35 00 00 00 00 00 00 00 00 00 00 00 1D 00 7F 00 4B 6E 6F 62 36 00 00 00 00 00 00 00 00 00 00 00 1E 00 7F 00 4B 6E 6F 62 37 00 00 00 00 00 00 00 00 00 00 00 1F 00 7F 00 4B 6E 6F 62 38 00 00 00 00 00 00 00 00 00 00 00 F7"),
     }

@@ -87,23 +87,59 @@ class MIDIListener:
             pattern = formatted.get('reason_pattern', 'N/A')
             print(f"{desc:50s} | {hex_str:15s} | Pattern: {pattern}")
 
-    def listen(self, duration=None, max_messages=None):
+    def list_ports(self):
+        """List all available MIDI ports"""
+        all_ports = mido.get_input_names()
+        print("Available MIDI input ports:")
+        print("-" * 40)
+        for i, port in enumerate(all_ports, 1):
+            print(f"  {i}. {port}")
+        if not all_ports:
+            print("  (no ports found)")
+        return all_ports
+
+    def select_port_interactive(self, all_ports):
+        """Prompt user to select a port interactively"""
+        print("\nEnter port number (or 'q' to quit): ", end='', flush=True)
+        try:
+            choice = input().strip()
+            if choice.lower() == 'q':
+                return None
+            idx = int(choice) - 1
+            if 0 <= idx < len(all_ports):
+                return all_ports[idx]
+            else:
+                print(f"Invalid selection: {choice}", file=sys.stderr)
+                return None
+        except (ValueError, EOFError):
+            print("Invalid input", file=sys.stderr)
+            return None
+
+    def listen(self, duration=None, max_messages=None, interactive=True):
         """Listen for MIDI messages"""
         mpk_ports, all_ports = self.find_mpk_ports()
 
-        if not mpk_ports:
-            print("ERROR: No MPK Mini IV found!", file=sys.stderr)
-            print(f"Available ports: {all_ports}", file=sys.stderr)
-            return False
-
         # Select port
         if self.port_name:
-            port = next((p for p in mpk_ports if self.port_name in p), None)
+            port = next((p for p in all_ports if self.port_name in p), None)
             if not port:
                 print(f"ERROR: Port '{self.port_name}' not found", file=sys.stderr)
+                print(f"Available ports: {all_ports}", file=sys.stderr)
+                return False
+        elif interactive and sys.stdin.isatty():
+            # Interactive port selection
+            all_ports = self.list_ports()
+            if not all_ports:
+                return False
+            port = self.select_port_interactive(all_ports)
+            if not port:
                 return False
         else:
-            # Default to MIDI Port (not DAW or Software)
+            # Non-interactive: default to MPK MIDI Port
+            if not mpk_ports:
+                print("ERROR: No MPK Mini IV found!", file=sys.stderr)
+                print(f"Available ports: {all_ports}", file=sys.stderr)
+                return False
             port = next((p for p in mpk_ports if 'MIDI Port' in p), mpk_ports[0])
 
         print(f"=" * 70, file=sys.stderr)
@@ -217,6 +253,7 @@ class MIDIListener:
 def main():
     parser = argparse.ArgumentParser(description='MPK Mini IV MIDI Listener')
     parser.add_argument('--port', '-p', help='Specific port name to use')
+    parser.add_argument('--list', '-l', action='store_true', help='List available MIDI ports and exit')
     parser.add_argument('--format', '-f', choices=['human', 'json'], default='human',
                         help='Output format')
     parser.add_argument('--duration', '-d', type=float, help='Listen duration in seconds')
@@ -225,6 +262,11 @@ def main():
     args = parser.parse_args()
 
     listener = MIDIListener(port_name=args.port, output_format=args.format)
+
+    if args.list:
+        listener.list_ports()
+        return
+
     listener.listen(duration=args.duration, max_messages=args.max)
 
 
